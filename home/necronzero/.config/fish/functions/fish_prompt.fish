@@ -1,0 +1,1 @@
+/home/necronzero/.local/share/omf/themes/starship/fish_prompt.fish
