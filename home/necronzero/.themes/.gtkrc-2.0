@@ -1,0 +1,8 @@
+gtk-theme-name="Yaru-Remix-Dark"
+gtk-icon-theme-name="Yaru-Remix-Dark"
+gtk-button-images=0
+gtk-menu-images=1
+gtk-xft-antialias=1
+gtk-xft-hinting=1
+gtk-xft-hintstyle="hintslight"
+gtk-xft-rgba="rgb"

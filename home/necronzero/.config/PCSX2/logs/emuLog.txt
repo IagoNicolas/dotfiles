@@ -1,0 +1,34 @@
+
+(PCSX2:99482): Gtk-WARNING **: 22:41:29.790: Error setting gtk-xft-antialias in /home/necronzero/.config/gtk-3.0/settings.ini: Key file contains key “gtk-xft-antialias” in group “Settings” which has a value that cannot be interpreted.
+
+(PCSX2:99482): Gtk-WARNING **: 22:41:29.790: Error setting gtk-xft-hinting in /home/necronzero/.config/gtk-3.0/settings.ini: Key file contains key “gtk-xft-hinting” in group “Settings” which has a value that cannot be interpreted.
+
+(PCSX2:99482): Gtk-WARNING **: 22:41:29.809: Theme parsing error: gtk.css:1709:67: Junk at end of value for background-image
+
+(PCSX2:99482): Gtk-WARNING **: 22:41:29.811: Theme parsing error: gtk.css:2821:2: Expected semicolon
+PCSX2 1.7.0-20210131221406 
+Savestate version: 0x9a1a0000
+
+Host Machine Init:
+	Operating System =  Linux 5.11.6-1-MANJARO x86_64
+	Physical RAM     =  15889 MB
+	CPU name         =  Intel(R) Core(TM) i5-8350U CPU @ 1.70GHz
+	Vendor/Model     =  GenuineIntel (stepping 0A)
+	CPU speed        =  1.894 ghz (8 logical threads)
+	x86PType         =  Standard OEM
+	x86Flags         =  bfebfbff 7ffafbff
+	x86EFlags        =  2c100800
+
+x86 Features Detected:
+	SSE2.. SSE3.. SSSE3.. SSE4.1.. SSE4.2.. AVX.. AVX2.. FMA
+	Pcsx2 was compiled as 64-bits.
+
+Installing POSIX SIGSEGV handler...
+Reserving memory for recompilers...
+
+Loading plugins from /usr/lib/PCSX2...
+	Bound   GS: libGSdx-AVX2.so [GSdx 64-bit (GCC 10.2.0 AVX/AVX) 1.2.0]
+Plugins loaded successfully.
+
+[GameDB] 10326 games on record (loaded in 292ms)
+(GameDB) Unloading...

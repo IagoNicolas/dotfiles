@@ -141,3 +141,4 @@ ex ()
 
 export QSYS_ROOTDIR="/home/necronzero/.intelFPGA_lite/20.1/quartus/sopc_builder/bin"
 export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$HOME/STMicroelectronics/STM32Cube/STM32CubeProgrammer/lib/
+alias quartus="/home/necronzero/.intelFPGA_lite/20.1/quartus/bin/quartus"

@@ -1,0 +1,5 @@
+configuration {
+ modi: "drun";
+ theme: "glue_pro_blue";
+ font: "Ubuntu 11";
+ }
