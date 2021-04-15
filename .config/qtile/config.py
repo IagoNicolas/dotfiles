@@ -25,10 +25,9 @@
 # SOFTWARE.
 
 import os
+import psutil
 import subprocess
-
 from typing import List  # noqa: F401
-
 from libqtile import bar, layout, widget, hook, qtile
 from libqtile.config import Click, Drag, Group, Key, Match, Screen
 from libqtile.lazy import lazy
@@ -54,7 +53,7 @@ keys = [
     Key([sup], "l", lazy.spawn('librewolf')), # Librewolf.
     # Old keybind spawn.
     Key([sup], "1", lazy.spawn('brave')), # Google Chrome browser.
-    Key([sup], "2", lazy.spawn('nemo')), # Nautilus File Manager.
+    Key([sup], "2", lazy.spawn('pcmanfm')), # Nautilus File Manager.
     Key([sup], "3", lazy.spawn(terminal)), # Tilix terminal emulator.
     Key([sup], "4", lazy.spawn('code')), # Visual Studio Code.
     Key([sup], "5", lazy.spawn('spyder')), # Spyder IDE.
@@ -116,8 +115,9 @@ keys = [
     Key([], 'XF86AudioRaiseVolume', lazy.spawn('amixer -D pulse sset Master 5%+')),
     Key([], 'XF86AudioLowerVolume', lazy.spawn('amixer -D pulse sset Master 5%-')),
     Key([], 'XF86AudioMicMute', lazy.spawn('amixer set Capture toggle')),
-    # Screenshots.
-    Key([mod], 'Print', lazy.spawn('flameshot gui')),
+    # Screenshots [selection, full].
+    Key([mod], 'Print', lazy.spawn('flameshot gui -p /home/necronzero/Pictures')),
+    Key([sup], 'Print', lazy.spawn('flameshot full -p /home/necronzero/Pictures')),
 ]
 
 groups = [Group(i) for i in "123456789"]
@@ -312,6 +312,26 @@ floating_layout = layout.Floating(float_rules=[
 ])
 auto_fullscreen = True
 focus_on_window_activation = "smart"
+
+@hook.subscribe.client_new
+def _swallow(window):
+    pid = window.window.get_net_wm_pid()
+    ppid = psutil.Process(pid).ppid()
+    cpids = {c.window.get_net_wm_pid(): wid for wid, c in window.qtile.windows_map.items()}
+    for i in range(5):
+        if not ppid:
+            return
+        if ppid in cpids:
+            parent = window.qtile.windows_map.get(cpids[ppid])
+            parent.minimized = True
+            window.parent = parent
+            return
+        ppid = psutil.Process(ppid).ppid()
+
+@hook.subscribe.client_killed
+def _unswallow(window):
+    if hasattr(window, 'parent'):
+        window.parent.minimized = False
 
 @hook.subscribe.startup_once
 def autostart():

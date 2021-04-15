@@ -11,4 +11,4 @@ This repository contains my personal dotfiles.
 They are stored here for convenience so that I may quickly access them on new machines or new installs.
 
 ### Thinkpad T480
-No need to mess with thinkfan anymore, configure throttled and temp limit should be at 90ºC with fan control enabled.
+No need to mess with thinkfan anymore, configure throttled and temp limit should be at 90ºC with fan control levels [0-7] enabled.
