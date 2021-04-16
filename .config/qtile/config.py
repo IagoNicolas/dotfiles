@@ -43,7 +43,7 @@ keys = [
         '/home/necronzero/.intelFPGA_lite/20.1/quartus/bin/quartus --64bit'
         )), # Quartus prime lite.
     Key([sup], "a", lazy.spawn(
-        '/home/necronzero/.local/share/JetBrains/Toolbox/apps/AndroidStudio/ch-0/201.7199119/bin/studio.sh'
+        '/home/necronzero/.local/share/JetBrains/Toolbox/apps/AndroidStudio/ch-0/202.7231092/bin/studio.sh'
         )), # Android Studio.
     Key([sup], "j", lazy.spawn(
         '/home/necronzero/.local/share/JetBrains/Toolbox/bin/jetbrains-toolbox %u'
