@@ -1,0 +1,176 @@
+.de LI
+.LIST
+.SHIFT_LIST 10p
+..
+.PARA_SPACE 1m
+.TITLE "\s+(10A Friendly Guide to your OS!\s0"
+.AUTHOR "\s+5Iago Nicolas\s0"
+.DOCTYPE    DEFAULT
+.COPYSTYLE  FINAL
+.PRINTSTYLE TYPESET
+.PT_SIZE 12
+.START
+You can use vim keys (\f(CWh/j/k/l\fP) or arrow keys to navigate this document.
+Pressing \f(CWs\fP will fit it to window width (\f(CWa\fP to revert).
+The \f(CW+\fP and \f(CW-\fP keys zoom in and out, while \f(CWq\fP exits.
+(These are general binds set for \fBZathura\fP, the pdf reader.)
+.LI 
+.ITEM
+\f(CWMeta+F1\fP will show this document at any time.
+.ITEM
+By \f(CWMeta\fP, I mean the ALT Key.
+.LIST OFF
+.PP
+FAQs are at the end of this document.
+.HEADING 1 "Welcome!"
+.HEADING 2 "Basic goals and principles of these configs:"
+.LI 
+.ITEM
+\fBNaturalness\fP \(en
+Remove the border between mind and matter:
+everything important should be as few keypresses as possible away from you,
+and you shouldn't have to think about what you're doing.
+Immersion.
+.ITEM
+\fBEconomy\fP \(en
+Programs should be simple and light on system resources and highly extensible.
+Because of this, many are terminal or small ncurses programs that have all the magic inside of them.
+.ITEM
+\fBKeyboard/vim-centrality\fP \(en
+All terminal programs (and other programs) use vim keys when possible.
+Your hands never need leave the home row or thereabout.
+.ITEM
+\fBDecentralization\fP \(en
+This system is a web of small, modifiable and replaceable programs that users can easily customize.
+.LIST OFF
+.HEADING 2 "Package management"
+.PP
+.LI
+.ITEM
+\f(CWsudo pacman -Syu <pkg>           \fP \(en Install and update package list
+.ITEM
+\f(CWsudo pacman -S   <pkg>           \fP \(en Install package
+.ITEM
+\f(CWsudo pacman -Rsc <pkg>           \fP \(en Uninstall package
+.ITEM
+\f(CWsudo pacman -Ss  <pkg>           \fP \(en Search for package
+.ITEM
+\f(CWsudo pacman -Syu                 \fP \(en Upgrades everything
+.ITEM
+\f(CWsudo pacman -Qdt                 \fP \(en List unneeded packages
+.ITEM
+\f(CWsudo pacman -Rns $(pacman -Qdtq) \fP \(en Uninstall all unneeded dependencies
+.LIST OFF
+.HEADING 2 "The Status Bar"
+.PP
+To the left, you'll see the window manager mode along with the numbers of your current workspace.
+On the right, you'll see various system status notifiers, the date, volume and hardware info if possible.
+Each module on the right of the statusbar is a qtile widget configurable in \f(CW~/.config/qtile/config.py\fP.
+You can see what they do and modify them from there or check \f(CWhttp://docs.qtile.org/en/latest/manual/ref/widgets.html\fP.
+I'm sure you can figure it out.
+You can also interact with the modules with the mouse clicks.
+.HEADING 1 "Key Bindings"
+.PP
+The window manager qtile abstractly orders all of your windows into a stack from most important to least, based on when you last manipulated it.
+qtile is an easy to use window manager, but you should understand that it makes use of that stack layout.
+.PP
+Notice the case sensitivity of the shortcuts\c
+.FOOTNOTE
+To type capital letters, hold down the \f(CWShift\fP key.
+.FOOTNOTE OFF
+Be sure you play around with these. Be flexible with the basic commands and the system will grow on you quick.
+.LI 
+.ITEM
+\f(CWMeta+Enter\fP \(en Spawn terminal (the default terminal is \f(CWTilix\fP; run \f(CWman tilix\fP for more)
+.ITEM
+\f(CWMeta+q\fP \(en Close window
+.ITEM
+\f(CWMeta+r\fP \(en rofi (For running programs without shortcuts)
+.ITEM
+\f(CWMeta+Left/Right\fP \(en Cycle thru windows by their stack order
+.ITEM
+\f(CWMeta+Ctrl+Left/Right\fP \(en Change width of selected window
+.ITEM
+\f(CWMeta+Shift+Left/Right\fP \(en Shuffles the active window to selected side
+.ITEM
+\f(CWMeta+LeftMouseBtn\fP \(en Make a window float (Hold and drag to move it)
+.ITEM
+\f(CWMeta+RightMouseBtn\fP \(en Resize a floating window(Hold and drag to keep resizing)
+.ITEM
+\f(CWMeta+Tab\fP \(en Changes between tiling mode (active by default) and monocle mode
+.LIST OFF
+.HEADING 2 "Basic Programs"
+.LI 
+.ITEM
+\f(CWSuper+1\fP \(en Brave (Web Browser)
+.ITEM
+\f(CWSuper+2\fP \(en PCManFM (file browser/manager)
+.ITEM
+\f(CWSuper+3\fP \(en Tilix (terminal)
+.ITEM
+\f(CWSuper+4\fP \(en Visual Studio Code (big bloated text editor)
+.ITEM
+\f(CWSuper+5\fP \(en Spyder IDE (python data focused IDE)
+.ITEM
+\f(CWSuper+6\fP \(en Vmware (Virtual Machine manager)
+.ITEM
+\f(CWSuper+7\fP \(en Android Studio (Android apps IDE)
+.ITEM
+\f(CWSuper+8\fP \(en Document Scanner (PDF document scanner GUI)
+.ITEM
+\f(CWSuper+9\fP \(en Librewolf (privacy focused firefox fork)
+.ITEM
+\f(CWSuper+0\fP \(en bpytop (task manager, system monitor)
+.LIST OFF
+.HEADING 2 "System"
+.LI 
+.ITEM
+\f(CWMeta+Shift+q\fP \(en Exits qtile and shows XDM (Display Manager)
+.ITEM
+\f(CWMod+F1\fP \(en Show this document
+.ITEM
+\f(CWMod+F2\fP \(en Opens the Archwiki in Librewolf
+.ITEM
+\f(CWFN+F1\fP \(en Mute audio
+.ITEM
+\f(CWFN+F2\fP \(en Lower volume by 5%
+.ITEM
+\f(CWFN+F3\fP \(en Increase volume by 5%
+.ITEM
+\f(CWFN+F4\fP \(en Mute microphone
+.ITEM
+\f(CWFN+F5\fP \(en Lowers brightness by 5%
+.ITEM
+\f(CWFN+F6\fP \(en Increase brightness by 5%
+.ITEM
+\f(CWMod+PrintScrn\fP \(en Spawn flameshot in GUI mode
+.ITEM
+\f(CWSuper+PrintScrn\fP \(en Saves a screenshot to \f(CW~/Pictures/\fP.
+.LIST OFF
+.HEADING 2 "Tags/Workspaces"
+.PP
+There are nine workspaces, active workspaces are highlighted in the top left corner.
+.LI 
+.ITEM
+\f(CWSuper+(Number)\fP \(en Go to that number tag
+.ITEM
+\f(CWSuper+Shift+(Number)\fP \(en Send active window to that workspace
+.LIST OFF
+.HEADING 1 "Configuration"
+.PP
+Dotfiles/settings files are located in \f(CW~/.config/\fP, note that dotfiles to programs not included in the cited above are there as well. I do not necessarily maintain all these dotfiles, but they should be usable.
+.PP
+Source based programs like dwm (Suckless's window manager), st (Suckless's terminal) and dmenu among others do not have traditional config files, but have their source code location in \f(CW~/.local/src/\fP.
+There you can modify their \f(CWconfig.h\fP files, then \f(CWsudo make install\fP to reinstall.
+(You'll have to restart the program to see its effects obviously.)
+.HEADING 1 "Frequently Asked Questions (FAQs)"
+.HEADING 2 "My audio isn't working!"
+.PP
+On fresh install, the Linux audio system often mutes outputs.
+You may also need to set your preferred default output sink which you can do by the command line, or by selecting one with \f(CWalsamixer\fP.
+.HEADING 2 "How do I copy and paste?"
+.PP
+Copying and pasting is always program-specific on any system.
+In most graphical programs, copy and paste will be the same as they are on any desktop OS: \f(CWctrl-c\fP and \f(CWctrl-v\fP.
+Additionally, I've set vim to use the clipboard as the default buffer, which means when you yank or delete something in vim, it will be in your system clipboard as well, so you can \f(CWctrl-v\fP it into your browser instance, etc. You can also paste material copied from other programs into vim with the typical vim bindings.
+.LIST OFF
