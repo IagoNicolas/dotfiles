@@ -38,19 +38,15 @@ sup = "mod4" # Super key.
 terminal = "tilix"
 
 keys = [
+    # Spawn Guide.
+    Key([mod], "F1", lazy.spawn(
+        'zathura ~/.config/help.pdf'
+        )),
     # Program spawn.
     Key([sup], "i", lazy.spawn(
         '/home/necronzero/.intelFPGA_lite/20.1/quartus/bin/quartus --64bit'
         )), # Quartus prime lite.
-    Key([sup], "a", lazy.spawn(
-        '/home/necronzero/.local/share/JetBrains/Toolbox/apps/AndroidStudio/ch-0/202.7231092/bin/studio.sh'
-        )), # Android Studio.
-    Key([sup], "j", lazy.spawn(
-        '/home/necronzero/.local/share/JetBrains/Toolbox/bin/jetbrains-toolbox %u'
-        )), # Jetbrains Toolbox.
-    Key([sup], "x", lazy.spawn('simple-scan')), # Gnome document scanner UI.
     Key([sup], "m", lazy.spawn('wxmaxima')), # Maxima's UI.
-    Key([sup], "l", lazy.spawn('librewolf')), # Librewolf.
     # Old keybind spawn.
     Key([sup], "1", lazy.spawn('brave')), # Google Chrome browser.
     Key([sup], "2", lazy.spawn('pcmanfm')), # Nautilus File Manager.
@@ -58,9 +54,11 @@ keys = [
     Key([sup], "4", lazy.spawn('code')), # Visual Studio Code.
     Key([sup], "5", lazy.spawn('spyder')), # Spyder IDE.
     Key([sup], "6", lazy.spawn('vmplayer')), # Vmware Player.
-    #Key([sup], "7", lazy.spawn("")),
-    #Key([sup], "8", lazy.spawn("")),
-    #Key([sup], "9", lazy.spawn("")),
+    Key([sup], "7", lazy.spawn(
+        '/home/necronzero/.local/share/JetBrains/Toolbox/apps/AndroidStudio/ch-0/202.7231092/bin/studio.sh'
+        )), # Android Studio
+    Key([sup], "8", lazy.spawn("simple-scan")), # Gnome document scanner GUI
+    Key([sup], "9", lazy.spawn("librewolf")), # Librewolf privacy focused browser.
     Key([sup], "0", lazy.spawn('tilix -e bpytop')),
     # Navigating through windows.
     Key([mod], "Left", lazy.layout.left(), desc="Move focus to left"),
@@ -106,8 +104,11 @@ keys = [
     Key([mod, "control"], "q", lazy.shutdown(), desc="Shutdown Qtile"),
     Key([mod], "r", lazy.spawn('rofi -show drun'), desc="Launch rofi"),
     #Key([mod], "r", lazy.spawncmd(), desc="Spawn a command using a prompt widget"),
+    # Wireless control.
+    #Key([], 'XF86Bluetooth', lazy.spawn('')),
+    #Key([], 'XF86WLAN', lazy.spawn('')),
+    #Key([], 'XF86Tools', lazy.spawn('')),
     # Brightness control.
-    Key([], 'F7', lazy.spawn('xset dpms force off')),
     Key([], 'XF86MonBrightnessUp',   lazy.spawn('xbacklight -inc 5')),
     Key([], 'XF86MonBrightnessDown', lazy.spawn('xbacklight -dec 5')),
     # Volume control.
@@ -142,8 +143,7 @@ color_main = '#000000'
 layout_theme = {"border_width": 2,
                 "margin": 0,
                 "border_focus": '#345eeb',
-                "border_normal": "1D2330"
-                }
+                "border_normal": "1D2330"}
 
 layouts = [
     layout.Columns(**layout_theme),
@@ -177,6 +177,7 @@ screens = [
                 ),
                 widget.GroupBox(
                     rounded = False,
+                    use_mouse_wheel = False,
                 ),
                 widget.WindowName(),
                 widget.TextBox(
@@ -253,11 +254,13 @@ screens = [
                     background = color_main,
                     padding = 0,
                     fontsize = 14,
+                    mouse_callbacks={'Button1': lambda: qtile.cmd_spawn("tilix -e alsamixer -V all")},
                 ),
                 widget.Volume(
                     background=color_main,
                     step=1,
                     update_interval=.5,
+                    mouse_callbacks={'Button1': lambda: qtile.cmd_spawn("tilix -e alsamixer -V all")},
                 ),
                 #widget.Chord(
                 #    chords_colors={

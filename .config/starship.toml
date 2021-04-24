@@ -15,7 +15,7 @@ symbol = "  "
 format = "[$symbol$branch]($style) "
 # Setting description.
 [directory]
-format = "[  ](bold green) [$path]($style)[$read_only]($read_only_style) "
+format = "[  ](bold white) [$path]($style)[$read_only]($read_only_style) "
 style = "bold cyan"
 read_only_style = "bold red"
 truncate_to_repo = false
