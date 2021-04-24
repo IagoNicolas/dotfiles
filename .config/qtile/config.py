@@ -181,7 +181,7 @@ screens = [
                 ),
                 widget.WindowName(),
                 widget.TextBox(
-                    text = '| ',
+                    text = ' ',
                     background = color_main,
                     padding = 0,
                     fontsize = 14,
@@ -189,15 +189,9 @@ screens = [
                 ),
                 widget.CPU(
                     background=color_main,
-                    format='{freq_current}GHz {load_percent: 2.0f}%',
+                    #format='{freq_current}GHz {load_percent: 2.0f}%',
+                    format='{freq_current}GHz',
                     update_interval=2,
-                    mouse_callbacks={'Button1': lambda: qtile.cmd_spawn(terminal + " -e bpytop")},
-                ),
-                widget.TextBox(
-                    text = '| ',
-                    background = color_main,
-                    padding = 0,
-                    fontsize = 14,
                     mouse_callbacks={'Button1': lambda: qtile.cmd_spawn(terminal + " -e bpytop")},
                 ),
                 widget.Memory(
@@ -207,7 +201,7 @@ screens = [
                     mouse_callbacks={'Button1': lambda: qtile.cmd_spawn(terminal + " -e bpytop")},
                 ),
                 widget.TextBox(
-                    text = '|說 ',
+                    text = ' ',
                     background = color_main,
                     padding = 0,
                     fontsize = 14,
@@ -220,23 +214,19 @@ screens = [
                     mouse_callbacks={'Button1': lambda: qtile.cmd_spawn("bash /home/necronzero/.config/rofi-network-manager/rofi-network-manager.sh")},
 
                 ),
-                #widget.Net(
-                #    background=color_main,
-                #    format='{down} ↓↑ {up}',
-                #    use_bits=True,
-                #),
                 widget.TextBox(
-                    text = '| ',
+                    text = ' ',
                     background = color_main,
                     padding = 0,
                     fontsize = 14,
                 ),
                 widget.Battery(
                     background=color_main,
-                    format='{percent:2.0%} {hour:d}:{min:02d}',
+                    #format='{percent:2.0%} {hour:d}:{min:02d}',
+                    format='{percent:2.0%}',
                 ),
                 widget.TextBox(
-                    text = '|  ',
+                    text = '  ',
                     background = color_main,
                     padding = 0,
                     fontsize = 14,
@@ -250,7 +240,7 @@ screens = [
                     update_interval=2,
                 ),
                 widget.TextBox(
-                    text = '| ',
+                    text = ' ',
                     background = color_main,
                     padding = 0,
                     fontsize = 14,
@@ -271,14 +261,14 @@ screens = [
                 #widget.TextBox("default config", name="default"),
                 #widget.TextBox("Press &lt;M-r&gt; to spawn", foreground="#d75f5f"),
                 widget.TextBox(
-                    text = '| ',
+                    text = '',
                     background = color_main,
                     padding = 0,
                     fontsize = 14,
                 ),
                 widget.Clock(
                     background=color_main,
-                    format='%H:%M %d/%m ',
+                    format='%H:%M - %d/%m ',
                     update_interval=10,
                 ),
                 #widget.QuickExit(),
