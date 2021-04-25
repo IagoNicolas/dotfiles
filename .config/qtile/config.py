@@ -32,6 +32,7 @@ from libqtile import bar, layout, widget, hook, qtile
 from libqtile.config import Click, Drag, Group, Key, Match, Screen
 from libqtile.lazy import lazy
 from libqtile.utils import guess_terminal
+import battery
 
 mod = "mod1" # Alt key.
 sup = "mod4" # Super key.
@@ -215,15 +216,22 @@ screens = [
 
                 ),
                 widget.TextBox(
-                    text = ' ',
+                    text = '',
                     background = color_main,
                     padding = 0,
                     fontsize = 14,
                 ),
+                battery.BatteryIcon(
+                    padding=0,
+                    scale=.75,
+                    y_poss=-1,
+                    theme_path="/home/necronzero/.config/qtile/icons/battery_icons_horiz",
+                    update_interval = 10,
+                ),
                 widget.Battery(
                     background=color_main,
-                    #format='{percent:2.0%} {hour:d}:{min:02d}',
-                    format='{percent:2.0%}',
+                    format=' {percent:2.0%}',
+                    update_interval = 10,
                 ),
                 widget.TextBox(
                     text = '  ',
