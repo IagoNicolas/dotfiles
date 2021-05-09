@@ -47,7 +47,7 @@ This system is a web of small, modifiable and replaceable programs that users ca
 .PP
 .LI
 .ITEM
-\f(CWsudo pacman -Syu <pkg>           \fP \(en Install and update package list
+\f(CWsudo pacman -Syu <pkg>           \fP \(en Upgrade and update package list
 .ITEM
 \f(CWsudo pacman -S   <pkg>           \fP \(en Install package
 .ITEM
@@ -59,7 +59,9 @@ This system is a web of small, modifiable and replaceable programs that users ca
 .ITEM
 \f(CWsudo pacman -Qdt                 \fP \(en List unneeded packages
 .ITEM
-\f(CWsudo pacman -Rns $(pacman -Qdtq) \fP \(en Uninstall all unneeded dependencies
+\f(CWsudo pacman -Rns $(pacman -Qdtq) \fP \(en Removes all unneeded dependencies
+.ITEM
+\f(CWsudo pacman -Qs                  \fP \(en Lists installed packages
 .LIST OFF
 .HEADING 2 "The Status Bar"
 .PP
@@ -127,7 +129,7 @@ Be sure you play around with these. Be flexible with the basic commands and the 
 .ITEM
 \f(CWMeta+Shift+q\fP \(en Exits qtile and shows XDM (Display Manager)
 .ITEM
-\f(CWMod+F1\fP \(en Show this document
+\f(CWFn+F12\fP \(en Show this document
 .ITEM
 \f(CWMod+F2\fP \(en Opens the Archwiki in Librewolf
 .ITEM

@@ -1287,3 +1287,739 @@ PermissionError: [Errno 1] Operation not permitted
 24/04/21 (17:16:58) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
 24/04/21 (17:16:58) | DEBUG: Collect and draw completed in 0.416126 seconds
 24/04/21 (17:16:58) | DEBUG: Init completed in 0.527819 seconds
+24/04/21 (18:31:42) | INFO: New instance of bpytop version 1.0.63 started with pid 11781
+24/04/21 (18:31:42) | INFO: Loglevel set to DEBUG
+24/04/21 (18:31:42) | DEBUG: Using psutil version 5.8.0
+24/04/21 (18:31:42) | DEBUG: CMD: /usr/bin/bpytop
+24/04/21 (18:31:43) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+24/04/21 (18:31:43) | DEBUG: Collect and draw completed in 0.216356 seconds
+24/04/21 (18:31:43) | DEBUG: Init completed in 0.271983 seconds
+24/04/21 (18:55:41) | INFO: New instance of bpytop version 1.0.63 started with pid 22619
+24/04/21 (18:55:41) | INFO: Loglevel set to DEBUG
+24/04/21 (18:55:41) | DEBUG: Using psutil version 5.8.0
+24/04/21 (18:55:41) | DEBUG: CMD: /usr/bin/bpytop
+24/04/21 (18:55:41) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+24/04/21 (18:55:41) | DEBUG: Collect and draw completed in 0.076053 seconds
+24/04/21 (18:55:41) | DEBUG: Init completed in 0.121594 seconds
+25/04/21 (09:35:50) | INFO: New instance of bpytop version 1.0.63 started with pid 18482
+25/04/21 (09:35:50) | INFO: Loglevel set to DEBUG
+25/04/21 (09:35:50) | DEBUG: Using psutil version 5.8.0
+25/04/21 (09:35:50) | DEBUG: CMD: /usr/bin/bpytop
+25/04/21 (09:35:51) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+25/04/21 (09:35:51) | DEBUG: Collect and draw completed in 0.208110 seconds
+25/04/21 (09:35:51) | DEBUG: Init completed in 0.322648 seconds
+25/04/21 (11:18:23) | INFO: New instance of bpytop version 1.0.63 started with pid 42028
+25/04/21 (11:18:23) | INFO: Loglevel set to DEBUG
+25/04/21 (11:18:23) | DEBUG: Using psutil version 5.8.0
+25/04/21 (11:18:23) | DEBUG: CMD: /usr/bin/bpytop
+25/04/21 (11:18:23) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+25/04/21 (11:18:23) | DEBUG: Collect and draw completed in 0.183316 seconds
+25/04/21 (11:18:23) | DEBUG: Init completed in 0.236308 seconds
+25/04/21 (18:22:47) | INFO: New instance of bpytop version 1.0.63 started with pid 18123
+25/04/21 (18:22:47) | INFO: Loglevel set to DEBUG
+25/04/21 (18:22:47) | DEBUG: Using psutil version 5.8.0
+25/04/21 (18:22:47) | DEBUG: CMD: /usr/bin/bpytop
+25/04/21 (18:22:47) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+25/04/21 (18:22:47) | DEBUG: Collect and draw completed in 0.092774 seconds
+25/04/21 (18:22:47) | DEBUG: Init completed in 0.137515 seconds
+25/04/21 (18:22:57) | INFO: New instance of bpytop version 1.0.63 started with pid 18206
+25/04/21 (18:22:57) | INFO: Loglevel set to DEBUG
+25/04/21 (18:22:57) | DEBUG: Using psutil version 5.8.0
+25/04/21 (18:22:57) | DEBUG: CMD: /usr/bin/bpytop
+25/04/21 (18:22:57) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+25/04/21 (18:22:57) | DEBUG: Collect and draw completed in 0.098524 seconds
+25/04/21 (18:22:57) | DEBUG: Init completed in 0.139425 seconds
+25/04/21 (19:24:41) | INFO: New instance of bpytop version 1.0.63 started with pid 45855
+25/04/21 (19:24:41) | INFO: Loglevel set to DEBUG
+25/04/21 (19:24:41) | DEBUG: Using psutil version 5.8.0
+25/04/21 (19:24:41) | DEBUG: CMD: /usr/bin/bpytop
+25/04/21 (19:24:41) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+25/04/21 (19:24:41) | DEBUG: Collect and draw completed in 0.093411 seconds
+25/04/21 (19:24:41) | DEBUG: Init completed in 0.151438 seconds
+25/04/21 (19:25:00) | INFO: New instance of bpytop version 1.0.63 started with pid 46017
+25/04/21 (19:25:00) | INFO: Loglevel set to DEBUG
+25/04/21 (19:25:00) | DEBUG: Using psutil version 5.8.0
+25/04/21 (19:25:00) | DEBUG: CMD: /usr/bin/bpytop
+25/04/21 (19:25:00) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+25/04/21 (19:25:00) | DEBUG: Collect and draw completed in 0.089517 seconds
+25/04/21 (19:25:00) | DEBUG: Init completed in 0.141613 seconds
+25/04/21 (19:26:50) | INFO: New instance of bpytop version 1.0.63 started with pid 1198
+25/04/21 (19:26:50) | INFO: Loglevel set to DEBUG
+25/04/21 (19:26:50) | DEBUG: Using psutil version 5.8.0
+25/04/21 (19:26:50) | DEBUG: CMD: /usr/bin/bpytop
+25/04/21 (19:26:50) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+25/04/21 (19:26:50) | DEBUG: Collect and draw completed in 0.085533 seconds
+25/04/21 (19:26:50) | DEBUG: Init completed in 0.137652 seconds
+25/04/21 (19:29:49) | INFO: New instance of bpytop version 1.0.63 started with pid 2104
+25/04/21 (19:29:49) | INFO: Loglevel set to DEBUG
+25/04/21 (19:29:49) | DEBUG: Using psutil version 5.8.0
+25/04/21 (19:29:49) | DEBUG: CMD: /usr/bin/bpytop
+25/04/21 (19:29:49) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+25/04/21 (19:29:49) | DEBUG: Collect and draw completed in 0.227315 seconds
+25/04/21 (19:29:49) | DEBUG: Init completed in 0.302218 seconds
+26/04/21 (09:18:03) | INFO: New instance of bpytop version 1.0.63 started with pid 4675
+26/04/21 (09:18:03) | INFO: Loglevel set to DEBUG
+26/04/21 (09:18:03) | DEBUG: Using psutil version 5.8.0
+26/04/21 (09:18:03) | DEBUG: CMD: /usr/bin/bpytop
+26/04/21 (09:18:03) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+26/04/21 (09:18:03) | DEBUG: Collect and draw completed in 0.106330 seconds
+26/04/21 (09:18:03) | DEBUG: Init completed in 0.218376 seconds
+26/04/21 (09:19:53) | INFO: New instance of bpytop version 1.0.63 started with pid 7204
+26/04/21 (09:19:53) | INFO: Loglevel set to DEBUG
+26/04/21 (09:19:53) | DEBUG: Using psutil version 5.8.0
+26/04/21 (09:19:53) | DEBUG: CMD: /usr/bin/bpytop
+26/04/21 (09:19:53) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+26/04/21 (09:19:54) | DEBUG: Collect and draw completed in 0.256993 seconds
+26/04/21 (09:19:54) | DEBUG: Init completed in 0.322783 seconds
+26/04/21 (09:24:31) | INFO: New instance of bpytop version 1.0.63 started with pid 9789
+26/04/21 (09:24:31) | INFO: Loglevel set to DEBUG
+26/04/21 (09:24:31) | DEBUG: Using psutil version 5.8.0
+26/04/21 (09:24:31) | DEBUG: CMD: /usr/bin/bpytop
+26/04/21 (09:24:31) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+26/04/21 (09:24:32) | DEBUG: Collect and draw completed in 0.213183 seconds
+26/04/21 (09:24:32) | DEBUG: Init completed in 0.424253 seconds
+26/04/21 (09:53:22) | INFO: New instance of bpytop version 1.0.63 started with pid 21342
+26/04/21 (09:53:22) | INFO: Loglevel set to DEBUG
+26/04/21 (09:53:22) | DEBUG: Using psutil version 5.8.0
+26/04/21 (09:53:22) | DEBUG: CMD: /usr/bin/bpytop
+26/04/21 (09:53:22) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+26/04/21 (09:53:22) | DEBUG: Collect and draw completed in 0.205442 seconds
+26/04/21 (09:53:22) | DEBUG: Init completed in 0.271436 seconds
+26/04/21 (23:03:08) | INFO: New instance of bpytop version 1.0.63 started with pid 196633
+26/04/21 (23:03:08) | INFO: Loglevel set to DEBUG
+26/04/21 (23:03:08) | DEBUG: Using psutil version 5.8.0
+26/04/21 (23:03:08) | DEBUG: CMD: /usr/bin/bpytop
+26/04/21 (23:03:08) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+26/04/21 (23:03:08) | DEBUG: Collect and draw completed in 0.121674 seconds
+26/04/21 (23:03:08) | DEBUG: Init completed in 0.173864 seconds
+27/04/21 (12:26:46) | INFO: New instance of bpytop version 1.0.63 started with pid 53510
+27/04/21 (12:26:46) | INFO: Loglevel set to DEBUG
+27/04/21 (12:26:46) | DEBUG: Using psutil version 5.8.0
+27/04/21 (12:26:46) | DEBUG: CMD: /usr/bin/bpytop
+27/04/21 (12:26:46) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+27/04/21 (12:26:46) | DEBUG: Collect and draw completed in 0.199675 seconds
+27/04/21 (12:26:46) | DEBUG: Init completed in 0.252301 seconds
+27/04/21 (12:35:09) | INFO: New instance of bpytop version 1.0.63 started with pid 56170
+27/04/21 (12:35:09) | INFO: Loglevel set to DEBUG
+27/04/21 (12:35:09) | DEBUG: Using psutil version 5.8.0
+27/04/21 (12:35:09) | DEBUG: CMD: /usr/bin/bpytop
+27/04/21 (12:35:09) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+27/04/21 (12:35:09) | DEBUG: Collect and draw completed in 0.073656 seconds
+27/04/21 (12:35:09) | DEBUG: Init completed in 0.119101 seconds
+27/04/21 (12:43:32) | INFO: New instance of bpytop version 1.0.63 started with pid 58633
+27/04/21 (12:43:32) | INFO: Loglevel set to DEBUG
+27/04/21 (12:43:32) | DEBUG: Using psutil version 5.8.0
+27/04/21 (12:43:32) | DEBUG: CMD: /usr/bin/bpytop
+27/04/21 (12:43:33) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+27/04/21 (12:43:33) | DEBUG: Collect and draw completed in 0.400905 seconds
+27/04/21 (12:43:33) | DEBUG: Init completed in 0.489318 seconds
+27/04/21 (13:23:22) | INFO: New instance of bpytop version 1.0.63 started with pid 69108
+27/04/21 (13:23:22) | INFO: Loglevel set to DEBUG
+27/04/21 (13:23:22) | DEBUG: Using psutil version 5.8.0
+27/04/21 (13:23:22) | DEBUG: CMD: /usr/bin/bpytop
+27/04/21 (13:23:22) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+27/04/21 (13:23:22) | DEBUG: Collect and draw completed in 0.152475 seconds
+27/04/21 (13:23:22) | DEBUG: Init completed in 0.203714 seconds
+27/04/21 (20:09:04) | INFO: New instance of bpytop version 1.0.63 started with pid 134249
+27/04/21 (20:09:04) | INFO: Loglevel set to DEBUG
+27/04/21 (20:09:04) | DEBUG: Using psutil version 5.8.0
+27/04/21 (20:09:04) | DEBUG: CMD: /usr/bin/bpytop
+27/04/21 (20:09:05) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+27/04/21 (20:09:05) | DEBUG: Collect and draw completed in 0.077235 seconds
+27/04/21 (20:09:05) | DEBUG: Init completed in 0.125810 seconds
+27/04/21 (20:11:10) | INFO: New instance of bpytop version 1.0.63 started with pid 134744
+27/04/21 (20:11:10) | INFO: Loglevel set to DEBUG
+27/04/21 (20:11:10) | DEBUG: Using psutil version 5.8.0
+27/04/21 (20:11:10) | DEBUG: CMD: /usr/bin/bpytop
+27/04/21 (20:11:10) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+27/04/21 (20:11:10) | DEBUG: Collect and draw completed in 0.188168 seconds
+27/04/21 (20:11:10) | DEBUG: Init completed in 0.240449 seconds
+28/04/21 (10:44:23) | INFO: New instance of bpytop version 1.0.63 started with pid 160176
+28/04/21 (10:44:23) | INFO: Loglevel set to DEBUG
+28/04/21 (10:44:23) | DEBUG: Using psutil version 5.8.0
+28/04/21 (10:44:23) | DEBUG: CMD: /usr/bin/bpytop
+28/04/21 (10:44:24) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+28/04/21 (10:44:24) | DEBUG: Collect and draw completed in 0.316739 seconds
+28/04/21 (10:44:24) | DEBUG: Init completed in 0.594638 seconds
+28/04/21 (22:25:25) | INFO: New instance of bpytop version 1.0.63 started with pid 237511
+28/04/21 (22:25:25) | INFO: Loglevel set to DEBUG
+28/04/21 (22:25:25) | DEBUG: Using psutil version 5.8.0
+28/04/21 (22:25:25) | DEBUG: CMD: /usr/bin/bpytop
+28/04/21 (22:25:25) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+28/04/21 (22:25:25) | DEBUG: Collect and draw completed in 0.228147 seconds
+28/04/21 (22:25:25) | DEBUG: Init completed in 0.305804 seconds
+29/04/21 (08:36:21) | INFO: New instance of bpytop version 1.0.63 started with pid 259335
+29/04/21 (08:36:21) | INFO: Loglevel set to DEBUG
+29/04/21 (08:36:21) | DEBUG: Using psutil version 5.8.0
+29/04/21 (08:36:21) | DEBUG: CMD: /usr/bin/bpytop
+29/04/21 (08:36:21) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+29/04/21 (08:36:21) | DEBUG: Collect and draw completed in 0.082458 seconds
+29/04/21 (08:36:21) | DEBUG: Init completed in 0.129347 seconds
+30/04/21 (12:01:12) | INFO: New instance of bpytop version 1.0.63 started with pid 381500
+30/04/21 (12:01:12) | INFO: Loglevel set to DEBUG
+30/04/21 (12:01:12) | DEBUG: Using psutil version 5.8.0
+30/04/21 (12:01:12) | DEBUG: CMD: /usr/bin/bpytop
+30/04/21 (12:01:12) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+30/04/21 (12:01:12) | DEBUG: Collect and draw completed in 0.119721 seconds
+30/04/21 (12:01:12) | DEBUG: Init completed in 0.192026 seconds
+30/04/21 (12:01:14) | INFO: New instance of bpytop version 1.0.63 started with pid 381515
+30/04/21 (12:01:14) | INFO: Loglevel set to DEBUG
+30/04/21 (12:01:14) | DEBUG: Using psutil version 5.8.0
+30/04/21 (12:01:14) | DEBUG: CMD: /usr/bin/bpytop
+30/04/21 (12:01:14) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+30/04/21 (12:01:14) | DEBUG: Collect and draw completed in 0.084025 seconds
+30/04/21 (12:01:14) | DEBUG: Init completed in 0.119915 seconds
+30/04/21 (16:09:51) | INFO: New instance of bpytop version 1.0.63 started with pid 431641
+30/04/21 (16:09:51) | INFO: Loglevel set to DEBUG
+30/04/21 (16:09:51) | DEBUG: Using psutil version 5.8.0
+30/04/21 (16:09:51) | DEBUG: CMD: /usr/bin/bpytop
+30/04/21 (16:09:51) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+30/04/21 (16:09:51) | DEBUG: Collect and draw completed in 0.084205 seconds
+30/04/21 (16:09:51) | DEBUG: Init completed in 0.130274 seconds
+01/05/21 (14:14:07) | INFO: New instance of bpytop version 1.0.63 started with pid 13221
+01/05/21 (14:14:07) | INFO: Loglevel set to DEBUG
+01/05/21 (14:14:07) | DEBUG: Using psutil version 5.8.0
+01/05/21 (14:14:07) | DEBUG: CMD: /usr/bin/bpytop
+01/05/21 (14:14:07) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+01/05/21 (14:14:07) | DEBUG: Collect and draw completed in 0.245762 seconds
+01/05/21 (14:14:07) | DEBUG: Init completed in 0.315772 seconds
+01/05/21 (14:14:13) | ERROR: Exception when sending signal 15 to pid 12749
+01/05/21 (14:14:13) | ERROR: [Errno 1] Operation not permitted
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 5432, in process_keys
+    os.kill(pid, sig)
+PermissionError: [Errno 1] Operation not permitted
+01/05/21 (14:14:14) | ERROR: Exception when sending signal 9 to pid 12749
+01/05/21 (14:14:14) | ERROR: [Errno 1] Operation not permitted
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 5432, in process_keys
+    os.kill(pid, sig)
+PermissionError: [Errno 1] Operation not permitted
+01/05/21 (14:14:15) | ERROR: Exception when sending signal 9 to pid 12749
+01/05/21 (14:14:15) | ERROR: [Errno 1] Operation not permitted
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 5432, in process_keys
+    os.kill(pid, sig)
+PermissionError: [Errno 1] Operation not permitted
+01/05/21 (16:41:46) | INFO: New instance of bpytop version 1.0.64 started with pid 16865
+01/05/21 (16:41:46) | INFO: Loglevel set to DEBUG
+01/05/21 (16:41:46) | DEBUG: Using psutil version 5.8.0
+01/05/21 (16:41:46) | DEBUG: CMD: /usr/bin/bpytop
+01/05/21 (16:41:46) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+01/05/21 (16:41:46) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+01/05/21 (16:41:46) | DEBUG: Collect and draw completed in 0.107189 seconds
+01/05/21 (16:41:46) | DEBUG: Init completed in 0.158369 seconds
+01/05/21 (21:13:59) | INFO: New instance of bpytop version 1.0.64 started with pid 24896
+01/05/21 (21:13:59) | INFO: Loglevel set to DEBUG
+01/05/21 (21:13:59) | DEBUG: Using psutil version 5.8.0
+01/05/21 (21:13:59) | DEBUG: CMD: /usr/bin/bpytop
+01/05/21 (21:13:59) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+01/05/21 (21:14:00) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+01/05/21 (21:14:00) | DEBUG: Collect and draw completed in 0.209513 seconds
+01/05/21 (21:14:00) | DEBUG: Init completed in 0.315752 seconds
+01/05/21 (22:04:00) | INFO: New instance of bpytop version 1.0.64 started with pid 43727
+01/05/21 (22:04:00) | INFO: Loglevel set to DEBUG
+01/05/21 (22:04:00) | DEBUG: Using psutil version 5.8.0
+01/05/21 (22:04:00) | DEBUG: CMD: /usr/bin/bpytop
+01/05/21 (22:04:00) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+01/05/21 (22:04:00) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+01/05/21 (22:04:00) | DEBUG: Collect and draw completed in 0.071925 seconds
+01/05/21 (22:04:00) | DEBUG: Init completed in 0.109830 seconds
+01/05/21 (22:04:12) | INFO: New instance of bpytop version 1.0.64 started with pid 43857
+01/05/21 (22:04:12) | INFO: Loglevel set to DEBUG
+01/05/21 (22:04:12) | DEBUG: Using psutil version 5.8.0
+01/05/21 (22:04:12) | DEBUG: CMD: /usr/bin/bpytop
+01/05/21 (22:04:12) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+01/05/21 (22:04:12) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+01/05/21 (22:04:13) | DEBUG: Collect and draw completed in 0.136274 seconds
+01/05/21 (22:04:13) | DEBUG: Init completed in 0.168597 seconds
+01/05/21 (22:18:44) | INFO: New instance of bpytop version 1.0.64 started with pid 49376
+01/05/21 (22:18:44) | INFO: Loglevel set to DEBUG
+01/05/21 (22:18:44) | DEBUG: Using psutil version 5.8.0
+01/05/21 (22:18:44) | DEBUG: CMD: /usr/bin/bpytop
+01/05/21 (22:18:44) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+01/05/21 (22:18:44) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+01/05/21 (22:18:44) | DEBUG: Collect and draw completed in 0.247864 seconds
+01/05/21 (22:18:44) | DEBUG: Init completed in 0.296790 seconds
+01/05/21 (22:26:17) | INFO: New instance of bpytop version 1.0.64 started with pid 52687
+01/05/21 (22:26:17) | INFO: Loglevel set to DEBUG
+01/05/21 (22:26:17) | DEBUG: Using psutil version 5.8.0
+01/05/21 (22:26:17) | DEBUG: CMD: /usr/bin/bpytop
+01/05/21 (22:26:17) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+01/05/21 (22:26:17) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+01/05/21 (22:26:17) | DEBUG: Collect and draw completed in 0.228667 seconds
+01/05/21 (22:26:17) | DEBUG: Init completed in 0.286670 seconds
+02/05/21 (02:10:04) | INFO: New instance of bpytop version 1.0.64 started with pid 134765
+02/05/21 (02:10:04) | INFO: Loglevel set to DEBUG
+02/05/21 (02:10:04) | DEBUG: Using psutil version 5.8.0
+02/05/21 (02:10:04) | DEBUG: CMD: /usr/bin/bpytop
+02/05/21 (02:10:04) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+02/05/21 (02:10:04) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+02/05/21 (02:10:04) | DEBUG: Collect and draw completed in 0.210029 seconds
+02/05/21 (02:10:04) | DEBUG: Init completed in 0.268465 seconds
+02/05/21 (13:35:12) | INFO: New instance of bpytop version 1.0.64 started with pid 58552
+02/05/21 (13:35:12) | INFO: Loglevel set to DEBUG
+02/05/21 (13:35:12) | DEBUG: Using psutil version 5.8.0
+02/05/21 (13:35:12) | DEBUG: CMD: /usr/bin/bpytop
+02/05/21 (13:35:12) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+02/05/21 (13:35:12) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+02/05/21 (13:35:12) | DEBUG: Collect and draw completed in 0.192829 seconds
+02/05/21 (13:35:12) | DEBUG: Init completed in 0.244138 seconds
+02/05/21 (13:38:46) | INFO: New instance of bpytop version 1.0.64 started with pid 59748
+02/05/21 (13:38:46) | INFO: Loglevel set to DEBUG
+02/05/21 (13:38:46) | DEBUG: Using psutil version 5.8.0
+02/05/21 (13:38:46) | DEBUG: CMD: /usr/bin/bpytop
+02/05/21 (13:38:46) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+02/05/21 (13:38:47) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+02/05/21 (13:38:47) | DEBUG: Collect and draw completed in 0.163210 seconds
+02/05/21 (13:38:47) | DEBUG: Init completed in 0.210725 seconds
+02/05/21 (13:40:25) | INFO: New instance of bpytop version 1.0.64 started with pid 60463
+02/05/21 (13:40:25) | INFO: Loglevel set to DEBUG
+02/05/21 (13:40:25) | DEBUG: Using psutil version 5.8.0
+02/05/21 (13:40:25) | DEBUG: CMD: /usr/bin/bpytop
+02/05/21 (13:40:25) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+02/05/21 (13:40:25) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+02/05/21 (13:40:25) | DEBUG: Collect and draw completed in 0.095847 seconds
+02/05/21 (13:40:25) | DEBUG: Init completed in 0.157861 seconds
+02/05/21 (13:58:09) | INFO: New instance of bpytop version 1.0.64 started with pid 6660
+02/05/21 (13:58:09) | INFO: Loglevel set to DEBUG
+02/05/21 (13:58:09) | DEBUG: Using psutil version 5.8.0
+02/05/21 (13:58:09) | DEBUG: CMD: /usr/bin/bpytop
+02/05/21 (13:58:09) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+02/05/21 (13:58:09) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+02/05/21 (13:58:09) | DEBUG: Collect and draw completed in 0.090506 seconds
+02/05/21 (13:58:09) | DEBUG: Init completed in 0.144065 seconds
+02/05/21 (14:04:54) | INFO: New instance of bpytop version 1.0.64 started with pid 8815
+02/05/21 (14:04:54) | INFO: Loglevel set to DEBUG
+02/05/21 (14:04:54) | DEBUG: Using psutil version 5.8.0
+02/05/21 (14:04:54) | DEBUG: CMD: /usr/bin/bpytop
+02/05/21 (14:04:54) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+02/05/21 (14:04:54) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+02/05/21 (14:04:54) | DEBUG: Collect and draw completed in 0.113723 seconds
+02/05/21 (14:04:54) | DEBUG: Init completed in 0.160920 seconds
+02/05/21 (14:06:05) | INFO: New instance of bpytop version 1.0.64 started with pid 9155
+02/05/21 (14:06:05) | INFO: Loglevel set to DEBUG
+02/05/21 (14:06:05) | DEBUG: Using psutil version 5.8.0
+02/05/21 (14:06:05) | DEBUG: CMD: /usr/bin/bpytop
+02/05/21 (14:06:05) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+02/05/21 (14:06:05) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+02/05/21 (14:06:05) | DEBUG: Collect and draw completed in 0.192297 seconds
+02/05/21 (14:06:05) | DEBUG: Init completed in 0.258597 seconds
+02/05/21 (14:07:13) | INFO: New instance of bpytop version 1.0.64 started with pid 9529
+02/05/21 (14:07:13) | INFO: Loglevel set to DEBUG
+02/05/21 (14:07:13) | DEBUG: Using psutil version 5.8.0
+02/05/21 (14:07:13) | DEBUG: CMD: /usr/bin/bpytop
+02/05/21 (14:07:13) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+02/05/21 (14:07:13) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+02/05/21 (14:07:13) | DEBUG: Collect and draw completed in 0.098302 seconds
+02/05/21 (14:07:13) | DEBUG: Init completed in 0.134856 seconds
+02/05/21 (14:08:00) | INFO: New instance of bpytop version 1.0.64 started with pid 9742
+02/05/21 (14:08:00) | INFO: Loglevel set to DEBUG
+02/05/21 (14:08:00) | DEBUG: Using psutil version 5.8.0
+02/05/21 (14:08:00) | DEBUG: CMD: /usr/bin/bpytop
+02/05/21 (14:08:00) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+02/05/21 (14:08:00) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+02/05/21 (14:08:00) | DEBUG: Collect and draw completed in 0.087061 seconds
+02/05/21 (14:08:00) | DEBUG: Init completed in 0.133871 seconds
+02/05/21 (14:08:46) | INFO: New instance of bpytop version 1.0.64 started with pid 9976
+02/05/21 (14:08:46) | INFO: Loglevel set to DEBUG
+02/05/21 (14:08:46) | DEBUG: Using psutil version 5.8.0
+02/05/21 (14:08:46) | DEBUG: CMD: /usr/bin/bpytop
+02/05/21 (14:08:46) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+02/05/21 (14:08:47) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+02/05/21 (14:08:47) | DEBUG: Collect and draw completed in 0.087643 seconds
+02/05/21 (14:08:47) | DEBUG: Init completed in 0.133516 seconds
+02/05/21 (14:09:25) | INFO: New instance of bpytop version 1.0.64 started with pid 10190
+02/05/21 (14:09:25) | INFO: Loglevel set to DEBUG
+02/05/21 (14:09:25) | DEBUG: Using psutil version 5.8.0
+02/05/21 (14:09:25) | DEBUG: CMD: /usr/bin/bpytop
+02/05/21 (14:09:25) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+02/05/21 (14:09:25) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+02/05/21 (14:09:25) | DEBUG: Collect and draw completed in 0.196328 seconds
+02/05/21 (14:09:25) | DEBUG: Init completed in 0.237262 seconds
+02/05/21 (14:19:30) | INFO: New instance of bpytop version 1.0.64 started with pid 13914
+02/05/21 (14:19:30) | INFO: Loglevel set to DEBUG
+02/05/21 (14:19:30) | DEBUG: Using psutil version 5.8.0
+02/05/21 (14:19:30) | DEBUG: CMD: /usr/bin/bpytop
+02/05/21 (14:19:30) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+02/05/21 (14:19:30) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+02/05/21 (14:19:30) | DEBUG: Collect and draw completed in 0.098684 seconds
+02/05/21 (14:19:30) | DEBUG: Init completed in 0.156040 seconds
+02/05/21 (14:41:00) | INFO: New instance of bpytop version 1.0.64 started with pid 3369
+02/05/21 (14:41:00) | INFO: Loglevel set to DEBUG
+02/05/21 (14:41:00) | DEBUG: Using psutil version 5.8.0
+02/05/21 (14:41:00) | DEBUG: CMD: /usr/bin/bpytop
+02/05/21 (14:41:00) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+02/05/21 (14:41:00) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+02/05/21 (14:41:00) | DEBUG: Collect and draw completed in 0.164920 seconds
+02/05/21 (14:41:00) | DEBUG: Init completed in 0.220443 seconds
+02/05/21 (14:41:33) | INFO: New instance of bpytop version 1.0.64 started with pid 3545
+02/05/21 (14:41:33) | INFO: Loglevel set to DEBUG
+02/05/21 (14:41:33) | DEBUG: Using psutil version 5.8.0
+02/05/21 (14:41:33) | DEBUG: CMD: /usr/bin/bpytop
+02/05/21 (14:41:33) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+02/05/21 (14:41:34) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+02/05/21 (14:41:34) | DEBUG: Collect and draw completed in 0.190902 seconds
+02/05/21 (14:41:34) | DEBUG: Init completed in 0.244656 seconds
+02/05/21 (15:01:29) | INFO: New instance of bpytop version 1.0.64 started with pid 19744
+02/05/21 (15:01:29) | INFO: Loglevel set to DEBUG
+02/05/21 (15:01:29) | DEBUG: Using psutil version 5.8.0
+02/05/21 (15:01:29) | DEBUG: CMD: /usr/bin/bpytop
+02/05/21 (15:01:29) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+02/05/21 (15:01:29) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+02/05/21 (15:01:29) | DEBUG: Collect and draw completed in 0.238202 seconds
+02/05/21 (15:01:29) | DEBUG: Init completed in 0.321457 seconds
+02/05/21 (15:01:32) | INFO: New instance of bpytop version 1.0.64 started with pid 19765
+02/05/21 (15:01:32) | INFO: Loglevel set to DEBUG
+02/05/21 (15:01:32) | DEBUG: Using psutil version 5.8.0
+02/05/21 (15:01:32) | DEBUG: CMD: /usr/bin/bpytop
+02/05/21 (15:01:32) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+02/05/21 (15:01:32) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+02/05/21 (15:01:32) | DEBUG: Collect and draw completed in 0.091129 seconds
+02/05/21 (15:01:32) | DEBUG: Init completed in 0.143550 seconds
+02/05/21 (16:53:37) | INFO: New instance of bpytop version 1.0.64 started with pid 53341
+02/05/21 (16:53:37) | INFO: Loglevel set to DEBUG
+02/05/21 (16:53:37) | DEBUG: Using psutil version 5.8.0
+02/05/21 (16:53:37) | DEBUG: CMD: /usr/bin/bpytop
+02/05/21 (16:53:37) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+02/05/21 (16:53:37) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+02/05/21 (16:53:37) | DEBUG: Collect and draw completed in 0.250929 seconds
+02/05/21 (16:53:37) | DEBUG: Init completed in 0.301564 seconds
+03/05/21 (12:22:02) | INFO: New instance of bpytop version 1.0.64 started with pid 75851
+03/05/21 (12:22:02) | INFO: Loglevel set to DEBUG
+03/05/21 (12:22:02) | DEBUG: Using psutil version 5.8.0
+03/05/21 (12:22:02) | DEBUG: CMD: /usr/bin/bpytop
+03/05/21 (12:22:02) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+03/05/21 (12:22:02) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+03/05/21 (12:22:02) | DEBUG: Collect and draw completed in 0.091738 seconds
+03/05/21 (12:22:02) | DEBUG: Init completed in 0.143743 seconds
+03/05/21 (19:06:42) | INFO: New instance of bpytop version 1.0.64 started with pid 214852
+03/05/21 (19:06:42) | INFO: Loglevel set to DEBUG
+03/05/21 (19:06:42) | DEBUG: Using psutil version 5.8.0
+03/05/21 (19:06:42) | DEBUG: CMD: /usr/bin/bpytop
+03/05/21 (19:06:42) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+03/05/21 (19:06:42) | INFO: New instance of bpytop version 1.0.64 started with pid 214854
+03/05/21 (19:06:42) | INFO: Loglevel set to DEBUG
+03/05/21 (19:06:42) | DEBUG: Using psutil version 5.8.0
+03/05/21 (19:06:42) | DEBUG: CMD: /usr/bin/bpytop
+03/05/21 (19:06:42) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+03/05/21 (19:06:42) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+03/05/21 (19:06:42) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+03/05/21 (19:06:42) | DEBUG: Collect and draw completed in 0.087868 seconds
+03/05/21 (19:06:42) | DEBUG: Collect and draw completed in 0.082837 seconds
+03/05/21 (19:06:42) | DEBUG: Init completed in 0.136724 seconds
+03/05/21 (19:06:42) | DEBUG: Init completed in 0.123674 seconds
+03/05/21 (20:43:10) | INFO: New instance of bpytop version 1.0.64 started with pid 44441
+03/05/21 (20:43:10) | INFO: Loglevel set to DEBUG
+03/05/21 (20:43:10) | DEBUG: Using psutil version 5.8.0
+03/05/21 (20:43:10) | DEBUG: CMD: /usr/bin/bpytop
+03/05/21 (20:43:10) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+03/05/21 (20:43:10) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+03/05/21 (20:43:10) | DEBUG: Collect and draw completed in 0.145065 seconds
+03/05/21 (20:43:10) | DEBUG: Init completed in 0.189174 seconds
+03/05/21 (20:43:27) | INFO: New instance of bpytop version 1.0.64 started with pid 44514
+03/05/21 (20:43:27) | INFO: Loglevel set to DEBUG
+03/05/21 (20:43:27) | DEBUG: Using psutil version 5.8.0
+03/05/21 (20:43:27) | DEBUG: CMD: /usr/bin/bpytop
+03/05/21 (20:43:27) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+03/05/21 (20:43:27) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+03/05/21 (20:43:27) | DEBUG: Collect and draw completed in 0.079971 seconds
+03/05/21 (20:43:27) | DEBUG: Init completed in 0.128915 seconds
+03/05/21 (20:43:36) | INFO: New instance of bpytop version 1.0.64 started with pid 44559
+03/05/21 (20:43:36) | INFO: Loglevel set to DEBUG
+03/05/21 (20:43:36) | DEBUG: Using psutil version 5.8.0
+03/05/21 (20:43:36) | DEBUG: CMD: /usr/bin/bpytop
+03/05/21 (20:43:36) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+03/05/21 (20:43:36) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+03/05/21 (20:43:36) | DEBUG: Collect and draw completed in 0.069187 seconds
+03/05/21 (20:43:36) | DEBUG: Init completed in 0.112338 seconds
+03/05/21 (20:45:49) | INFO: New instance of bpytop version 1.0.64 started with pid 45844
+03/05/21 (20:45:49) | INFO: Loglevel set to DEBUG
+03/05/21 (20:45:49) | DEBUG: Using psutil version 5.8.0
+03/05/21 (20:45:49) | DEBUG: CMD: /usr/bin/bpytop
+03/05/21 (20:45:49) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+03/05/21 (20:45:49) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+03/05/21 (20:45:50) | DEBUG: Collect and draw completed in 0.233714 seconds
+03/05/21 (20:45:50) | DEBUG: Init completed in 0.315468 seconds
+03/05/21 (20:46:21) | INFO: New instance of bpytop version 1.0.64 started with pid 46139
+03/05/21 (20:46:21) | INFO: Loglevel set to DEBUG
+03/05/21 (20:46:21) | DEBUG: Using psutil version 5.8.0
+03/05/21 (20:46:21) | DEBUG: CMD: /usr/bin/bpytop
+03/05/21 (20:46:21) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+03/05/21 (20:46:21) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+03/05/21 (20:46:21) | DEBUG: Collect and draw completed in 0.256106 seconds
+03/05/21 (20:46:21) | DEBUG: Init completed in 0.339291 seconds
+03/05/21 (20:46:34) | INFO: New instance of bpytop version 1.0.64 started with pid 46343
+03/05/21 (20:46:34) | INFO: Loglevel set to DEBUG
+03/05/21 (20:46:34) | DEBUG: Using psutil version 5.8.0
+03/05/21 (20:46:34) | DEBUG: CMD: /usr/bin/bpytop
+03/05/21 (20:46:34) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+03/05/21 (20:46:34) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+03/05/21 (20:46:34) | DEBUG: Collect and draw completed in 0.078089 seconds
+03/05/21 (20:46:35) | DEBUG: Init completed in 0.129058 seconds
+03/05/21 (20:56:33) | INFO: New instance of bpytop version 1.0.64 started with pid 50503
+03/05/21 (20:56:33) | INFO: Loglevel set to DEBUG
+03/05/21 (20:56:33) | DEBUG: Using psutil version 5.8.0
+03/05/21 (20:56:33) | DEBUG: CMD: /usr/bin/bpytop
+03/05/21 (20:56:33) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+03/05/21 (20:56:33) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+03/05/21 (20:56:33) | DEBUG: Collect and draw completed in 0.096246 seconds
+03/05/21 (20:56:33) | DEBUG: Init completed in 0.149101 seconds
+04/05/21 (00:15:39) | INFO: New instance of bpytop version 1.0.64 started with pid 5493
+04/05/21 (00:15:39) | INFO: Loglevel set to DEBUG
+04/05/21 (00:15:39) | DEBUG: Using psutil version 5.8.0
+04/05/21 (00:15:39) | DEBUG: CMD: /usr/bin/bpytop
+04/05/21 (00:15:39) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+04/05/21 (00:15:39) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+04/05/21 (00:15:39) | DEBUG: Collect and draw completed in 0.318686 seconds
+04/05/21 (00:15:39) | DEBUG: Init completed in 0.418404 seconds
+04/05/21 (00:15:53) | INFO: New instance of bpytop version 1.0.64 started with pid 5563
+04/05/21 (00:15:53) | INFO: Loglevel set to DEBUG
+04/05/21 (00:15:53) | DEBUG: Using psutil version 5.8.0
+04/05/21 (00:15:53) | DEBUG: CMD: /usr/bin/bpytop
+04/05/21 (00:15:53) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+04/05/21 (00:15:53) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+04/05/21 (00:15:54) | DEBUG: Collect and draw completed in 0.311135 seconds
+04/05/21 (00:15:54) | DEBUG: Init completed in 0.395093 seconds
+04/05/21 (00:25:54) | INFO: New instance of bpytop version 1.0.64 started with pid 9418
+04/05/21 (00:25:54) | INFO: Loglevel set to DEBUG
+04/05/21 (00:25:54) | DEBUG: Using psutil version 5.8.0
+04/05/21 (00:25:54) | DEBUG: CMD: /usr/bin/bpytop
+04/05/21 (00:25:54) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+04/05/21 (00:25:54) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+04/05/21 (00:25:54) | DEBUG: Collect and draw completed in 0.179437 seconds
+04/05/21 (00:25:54) | DEBUG: Init completed in 0.229961 seconds
+04/05/21 (00:26:28) | INFO: New instance of bpytop version 1.0.64 started with pid 9561
+04/05/21 (00:26:28) | INFO: Loglevel set to DEBUG
+04/05/21 (00:26:28) | DEBUG: Using psutil version 5.8.0
+04/05/21 (00:26:28) | DEBUG: CMD: /usr/bin/bpytop
+04/05/21 (00:26:28) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+04/05/21 (00:26:28) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+04/05/21 (00:26:28) | DEBUG: Collect and draw completed in 0.179187 seconds
+04/05/21 (00:26:28) | DEBUG: Init completed in 0.228758 seconds
+04/05/21 (10:02:47) | INFO: New instance of bpytop version 1.0.64 started with pid 27060
+04/05/21 (10:02:47) | INFO: Loglevel set to DEBUG
+04/05/21 (10:02:47) | DEBUG: Using psutil version 5.8.0
+04/05/21 (10:02:47) | DEBUG: CMD: /usr/bin/bpytop
+04/05/21 (10:02:47) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+04/05/21 (10:02:47) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+04/05/21 (10:02:47) | DEBUG: Collect and draw completed in 0.074604 seconds
+04/05/21 (10:02:47) | DEBUG: Init completed in 0.118682 seconds
+04/05/21 (10:06:51) | INFO: Exiting. Runtime 0:04:04 
+
+04/05/21 (11:13:20) | INFO: New instance of bpytop version 1.0.64 started with pid 35945
+04/05/21 (11:13:20) | INFO: Loglevel set to DEBUG
+04/05/21 (11:13:20) | DEBUG: Using psutil version 5.8.0
+04/05/21 (11:13:20) | DEBUG: CMD: /usr/bin/bpytop
+04/05/21 (11:13:20) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+04/05/21 (11:13:20) | DEBUG: Collect and draw completed in 0.239398 seconds
+04/05/21 (11:13:20) | DEBUG: Init completed in 0.299721 seconds
+04/05/21 (12:31:06) | INFO: New instance of bpytop version 1.0.64 started with pid 39063
+04/05/21 (12:31:06) | INFO: Loglevel set to DEBUG
+04/05/21 (12:31:06) | DEBUG: Using psutil version 5.8.0
+04/05/21 (12:31:06) | DEBUG: CMD: /usr/bin/bpytop
+04/05/21 (12:31:06) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+04/05/21 (12:31:06) | DEBUG: Collect and draw completed in 0.417856 seconds
+04/05/21 (12:31:06) | DEBUG: Init completed in 0.518738 seconds
+05/05/21 (17:32:11) | INFO: New instance of bpytop version 1.0.64 started with pid 49309
+05/05/21 (17:32:11) | INFO: Loglevel set to DEBUG
+05/05/21 (17:32:11) | DEBUG: Using psutil version 5.8.0
+05/05/21 (17:32:11) | DEBUG: CMD: /usr/bin/bpytop
+05/05/21 (17:32:11) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+05/05/21 (17:32:12) | DEBUG: Collect and draw completed in 0.208517 seconds
+05/05/21 (17:32:12) | DEBUG: Init completed in 0.306307 seconds
+05/05/21 (18:01:04) | INFO: New instance of bpytop version 1.0.64 started with pid 55178
+05/05/21 (18:01:04) | INFO: Loglevel set to DEBUG
+05/05/21 (18:01:04) | DEBUG: Using psutil version 5.8.0
+05/05/21 (18:01:04) | DEBUG: CMD: /usr/bin/bpytop
+05/05/21 (18:01:04) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+05/05/21 (18:01:04) | DEBUG: Collect and draw completed in 0.205927 seconds
+05/05/21 (18:01:04) | DEBUG: Init completed in 0.301709 seconds
+05/05/21 (18:04:08) | INFO: New instance of bpytop version 1.0.64 started with pid 55776
+05/05/21 (18:04:08) | INFO: Loglevel set to DEBUG
+05/05/21 (18:04:08) | DEBUG: Using psutil version 5.8.0
+05/05/21 (18:04:08) | DEBUG: CMD: /usr/bin/bpytop
+05/05/21 (18:04:08) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+05/05/21 (18:04:08) | DEBUG: Collect and draw completed in 0.356959 seconds
+05/05/21 (18:04:08) | DEBUG: Init completed in 0.413815 seconds
+05/05/21 (18:06:03) | INFO: New instance of bpytop version 1.0.64 started with pid 56111
+05/05/21 (18:06:03) | INFO: Loglevel set to DEBUG
+05/05/21 (18:06:03) | DEBUG: Using psutil version 5.8.0
+05/05/21 (18:06:03) | DEBUG: CMD: /usr/bin/bpytop
+05/05/21 (18:06:03) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+05/05/21 (18:06:03) | DEBUG: Collect and draw completed in 0.315316 seconds
+05/05/21 (18:06:03) | DEBUG: Init completed in 0.400123 seconds
+05/05/21 (19:22:46) | INFO: New instance of bpytop version 1.0.64 started with pid 1209
+05/05/21 (19:22:46) | INFO: Loglevel set to DEBUG
+05/05/21 (19:22:46) | DEBUG: Using psutil version 5.8.0
+05/05/21 (19:22:46) | DEBUG: CMD: /usr/bin/bpytop
+05/05/21 (19:22:46) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+05/05/21 (19:22:46) | DEBUG: Collect and draw completed in 0.207307 seconds
+05/05/21 (19:22:46) | DEBUG: Init completed in 0.310475 seconds
+05/05/21 (19:27:40) | INFO: New instance of bpytop version 1.0.64 started with pid 2860
+05/05/21 (19:27:40) | INFO: Loglevel set to DEBUG
+05/05/21 (19:27:40) | DEBUG: Using psutil version 5.8.0
+05/05/21 (19:27:40) | DEBUG: CMD: /usr/bin/bpytop
+05/05/21 (19:27:40) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+05/05/21 (19:27:40) | DEBUG: Collect and draw completed in 0.208904 seconds
+05/05/21 (19:27:40) | DEBUG: Init completed in 0.289719 seconds
+05/05/21 (19:28:10) | INFO: New instance of bpytop version 1.0.64 started with pid 2906
+05/05/21 (19:28:10) | INFO: Loglevel set to DEBUG
+05/05/21 (19:28:10) | DEBUG: Using psutil version 5.8.0
+05/05/21 (19:28:10) | DEBUG: CMD: /usr/bin/bpytop
+05/05/21 (19:28:10) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+05/05/21 (19:28:10) | DEBUG: Collect and draw completed in 0.117033 seconds
+05/05/21 (19:28:10) | DEBUG: Init completed in 0.162218 seconds
+05/05/21 (19:33:09) | INFO: New instance of bpytop version 1.0.64 started with pid 3528
+05/05/21 (19:33:09) | INFO: Loglevel set to DEBUG
+05/05/21 (19:33:09) | DEBUG: Using psutil version 5.8.0
+05/05/21 (19:33:09) | DEBUG: CMD: /usr/bin/bpytop
+05/05/21 (19:33:10) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+05/05/21 (19:33:10) | DEBUG: Collect and draw completed in 0.177835 seconds
+05/05/21 (19:33:10) | DEBUG: Init completed in 0.251485 seconds
+05/05/21 (19:34:39) | INFO: Exiting. Runtime 0:01:30 
+
+05/05/21 (19:34:42) | INFO: New instance of bpytop version 1.0.64 started with pid 3658
+05/05/21 (19:34:42) | INFO: Loglevel set to DEBUG
+05/05/21 (19:34:42) | DEBUG: Using psutil version 5.8.0
+05/05/21 (19:34:42) | DEBUG: CMD: /usr/bin/bpytop
+05/05/21 (19:34:42) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+05/05/21 (19:34:42) | DEBUG: Collect and draw completed in 0.087041 seconds
+05/05/21 (19:34:42) | DEBUG: Init completed in 0.206909 seconds
+05/05/21 (19:36:00) | INFO: New instance of bpytop version 1.0.64 started with pid 3919
+05/05/21 (19:36:00) | INFO: Loglevel set to DEBUG
+05/05/21 (19:36:00) | DEBUG: Using psutil version 5.8.0
+05/05/21 (19:36:00) | DEBUG: CMD: /usr/bin/bpytop
+05/05/21 (19:36:00) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+05/05/21 (19:36:00) | DEBUG: Collect and draw completed in 0.107862 seconds
+05/05/21 (19:36:00) | DEBUG: Init completed in 0.217395 seconds
+06/05/21 (06:32:15) | INFO: New instance of bpytop version 1.0.64 started with pid 14524
+06/05/21 (06:32:15) | INFO: Loglevel set to DEBUG
+06/05/21 (06:32:15) | DEBUG: Using psutil version 5.8.0
+06/05/21 (06:32:15) | DEBUG: CMD: /usr/bin/bpytop
+06/05/21 (06:32:16) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+06/05/21 (06:32:16) | DEBUG: Collect and draw completed in 0.101794 seconds
+06/05/21 (06:32:16) | DEBUG: Init completed in 0.164016 seconds
+06/05/21 (06:48:26) | INFO: New instance of bpytop version 1.0.64 started with pid 17222
+06/05/21 (06:48:28) | INFO: Loglevel set to DEBUG
+06/05/21 (06:48:28) | DEBUG: Using psutil version 5.8.0
+06/05/21 (06:48:28) | DEBUG: CMD: /usr/bin/bpytop
+06/05/21 (06:48:28) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+06/05/21 (06:48:28) | DEBUG: Collect and draw completed in 0.074079 seconds
+06/05/21 (06:48:28) | DEBUG: Init completed in 0.117735 seconds
+06/05/21 (08:08:25) | INFO: New instance of bpytop version 1.0.64 started with pid 25988
+06/05/21 (08:08:25) | INFO: Loglevel set to DEBUG
+06/05/21 (08:08:25) | DEBUG: Using psutil version 5.8.0
+06/05/21 (08:08:25) | DEBUG: CMD: /usr/bin/bpytop
+06/05/21 (08:08:25) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+06/05/21 (08:08:25) | DEBUG: Collect and draw completed in 0.145267 seconds
+06/05/21 (08:08:25) | DEBUG: Init completed in 0.196824 seconds
+06/05/21 (09:56:23) | INFO: New instance of bpytop version 1.0.64 started with pid 36168
+06/05/21 (09:56:23) | INFO: Loglevel set to DEBUG
+06/05/21 (09:56:23) | DEBUG: Using psutil version 5.8.0
+06/05/21 (09:56:23) | DEBUG: CMD: /usr/bin/bpytop
+06/05/21 (09:56:23) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+06/05/21 (09:56:23) | DEBUG: Collect and draw completed in 0.085790 seconds
+06/05/21 (09:56:23) | DEBUG: Init completed in 0.131409 seconds
+06/05/21 (12:58:12) | INFO: New instance of bpytop version 1.0.64 started with pid 51359
+06/05/21 (12:58:12) | INFO: Loglevel set to DEBUG
+06/05/21 (12:58:12) | DEBUG: Using psutil version 5.8.0
+06/05/21 (12:58:12) | DEBUG: CMD: /usr/bin/bpytop
+06/05/21 (12:58:12) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+06/05/21 (12:58:12) | DEBUG: Collect and draw completed in 0.242450 seconds
+06/05/21 (12:58:12) | DEBUG: Init completed in 0.318216 seconds
+06/05/21 (17:24:02) | INFO: New instance of bpytop version 1.0.64 started with pid 52426
+06/05/21 (17:24:02) | INFO: Loglevel set to DEBUG
+06/05/21 (17:24:02) | DEBUG: Using psutil version 5.8.0
+06/05/21 (17:24:02) | DEBUG: CMD: /usr/bin/bpytop
+06/05/21 (17:24:02) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+06/05/21 (17:24:02) | DEBUG: Collect and draw completed in 0.241083 seconds
+06/05/21 (17:24:02) | DEBUG: Init completed in 0.309531 seconds
+07/05/21 (13:04:14) | INFO: New instance of bpytop version 1.0.65 started with pid 41907
+07/05/21 (13:04:14) | INFO: Loglevel set to DEBUG
+07/05/21 (13:04:14) | DEBUG: Using psutil version 5.8.0
+07/05/21 (13:04:14) | DEBUG: CMD: /usr/bin/bpytop
+07/05/21 (13:04:14) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+07/05/21 (13:04:15) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+07/05/21 (13:04:15) | DEBUG: Collect and draw completed in 0.083306 seconds
+07/05/21 (13:04:15) | DEBUG: Init completed in 0.137662 seconds
+07/05/21 (13:35:21) | INFO: New instance of bpytop version 1.0.65 started with pid 47476
+07/05/21 (13:35:21) | INFO: Loglevel set to DEBUG
+07/05/21 (13:35:21) | DEBUG: Using psutil version 5.8.0
+07/05/21 (13:35:21) | DEBUG: CMD: /usr/bin/bpytop
+07/05/21 (13:35:21) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+07/05/21 (13:35:21) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+07/05/21 (13:35:21) | DEBUG: Collect and draw completed in 0.087199 seconds
+07/05/21 (13:35:21) | DEBUG: Init completed in 0.137878 seconds
+07/05/21 (13:40:48) | INFO: New instance of bpytop version 1.0.65 started with pid 48516
+07/05/21 (13:40:48) | INFO: Loglevel set to DEBUG
+07/05/21 (13:40:48) | DEBUG: Using psutil version 5.8.0
+07/05/21 (13:40:48) | DEBUG: CMD: /usr/bin/bpytop
+07/05/21 (13:40:48) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+07/05/21 (13:40:48) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+07/05/21 (13:40:48) | DEBUG: Collect and draw completed in 0.198442 seconds
+07/05/21 (13:40:48) | DEBUG: Init completed in 0.266816 seconds
+07/05/21 (15:09:43) | INFO: New instance of bpytop version 1.0.65 started with pid 8066
+07/05/21 (15:09:43) | INFO: Loglevel set to DEBUG
+07/05/21 (15:09:43) | DEBUG: Using psutil version 5.8.0
+07/05/21 (15:09:43) | DEBUG: CMD: /usr/bin/bpytop
+07/05/21 (15:09:43) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+07/05/21 (15:09:43) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+07/05/21 (15:09:43) | DEBUG: Collect and draw completed in 0.446740 seconds
+07/05/21 (15:09:43) | DEBUG: Init completed in 0.517509 seconds
+07/05/21 (15:10:06) | INFO: New instance of bpytop version 1.0.65 started with pid 8191
+07/05/21 (15:10:06) | INFO: Loglevel set to DEBUG
+07/05/21 (15:10:06) | DEBUG: Using psutil version 5.8.0
+07/05/21 (15:10:06) | DEBUG: CMD: /usr/bin/bpytop
+07/05/21 (15:10:06) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+07/05/21 (15:10:07) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+07/05/21 (15:10:07) | DEBUG: Collect and draw completed in 0.404411 seconds
+07/05/21 (15:10:07) | DEBUG: Init completed in 0.705133 seconds
+07/05/21 (15:35:24) | INFO: New instance of bpytop version 1.0.65 started with pid 12597
+07/05/21 (15:35:24) | INFO: Loglevel set to DEBUG
+07/05/21 (15:35:24) | DEBUG: Using psutil version 5.8.0
+07/05/21 (15:35:24) | DEBUG: CMD: /usr/bin/bpytop
+07/05/21 (15:35:24) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+07/05/21 (15:35:24) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+07/05/21 (15:35:25) | DEBUG: Collect and draw completed in 0.210686 seconds
+07/05/21 (15:35:25) | DEBUG: Init completed in 0.284210 seconds
+07/05/21 (16:00:19) | INFO: New instance of bpytop version 1.0.65 started with pid 16362
+07/05/21 (16:00:19) | INFO: Loglevel set to DEBUG
+07/05/21 (16:00:19) | DEBUG: Using psutil version 5.8.0
+07/05/21 (16:00:19) | DEBUG: CMD: /usr/bin/bpytop
+07/05/21 (16:00:19) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+07/05/21 (16:00:19) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+07/05/21 (16:00:19) | DEBUG: Collect and draw completed in 0.261294 seconds
+07/05/21 (16:00:19) | DEBUG: Init completed in 0.326663 seconds
+07/05/21 (23:01:34) | INFO: New instance of bpytop version 1.0.65 started with pid 52743
+07/05/21 (23:01:34) | INFO: Loglevel set to DEBUG
+07/05/21 (23:01:34) | DEBUG: Using psutil version 5.8.0
+07/05/21 (23:01:34) | DEBUG: CMD: /usr/bin/bpytop
+07/05/21 (23:01:34) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+07/05/21 (23:01:34) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+07/05/21 (23:01:34) | DEBUG: Collect and draw completed in 0.418774 seconds
+07/05/21 (23:01:34) | DEBUG: Init completed in 0.499795 seconds
+08/05/21 (09:33:10) | INFO: New instance of bpytop version 1.0.65 started with pid 16255
+08/05/21 (09:33:10) | INFO: Loglevel set to DEBUG
+08/05/21 (09:33:10) | DEBUG: Using psutil version 5.8.0
+08/05/21 (09:33:10) | DEBUG: CMD: /usr/bin/bpytop
+08/05/21 (09:33:10) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+08/05/21 (09:33:10) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+08/05/21 (09:33:10) | DEBUG: Collect and draw completed in 0.314942 seconds
+08/05/21 (09:33:10) | DEBUG: Init completed in 0.403539 seconds
+08/05/21 (12:14:54) | INFO: New instance of bpytop version 1.0.65 started with pid 37231
+08/05/21 (12:14:54) | INFO: Loglevel set to DEBUG
+08/05/21 (12:14:54) | DEBUG: Using psutil version 5.8.0
+08/05/21 (12:14:54) | DEBUG: CMD: /usr/bin/bpytop
+08/05/21 (12:14:54) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+08/05/21 (12:14:54) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+08/05/21 (12:14:55) | DEBUG: Collect and draw completed in 0.097905 seconds
+08/05/21 (12:14:55) | DEBUG: Init completed in 0.156332 seconds
+08/05/21 (18:54:33) | INFO: New instance of bpytop version 1.0.65 started with pid 42978
+08/05/21 (18:54:33) | INFO: Loglevel set to DEBUG
+08/05/21 (18:54:33) | DEBUG: Using psutil version 5.8.0
+08/05/21 (18:54:33) | DEBUG: CMD: /usr/bin/bpytop
+08/05/21 (18:54:33) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+08/05/21 (18:54:33) | DEBUG: new fstab_filter set : ['/', '/boot/efi']
+08/05/21 (18:54:33) | DEBUG: Collect and draw completed in 0.160031 seconds
+08/05/21 (18:54:33) | DEBUG: Init completed in 0.213602 seconds

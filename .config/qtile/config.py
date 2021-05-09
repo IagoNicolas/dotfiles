@@ -40,7 +40,7 @@ terminal = "tilix"
 
 keys = [
     # Spawn Guide.
-    Key([mod], "F1", lazy.spawn(
+    Key([], "XF86Favorites", lazy.spawn(
         'zathura ~/.config/help.pdf'
         )),
     # Program spawn.
@@ -49,8 +49,8 @@ keys = [
         )), # Quartus prime lite.
     Key([sup], "m", lazy.spawn('wxmaxima')), # Maxima's UI.
     # Old keybind spawn.
-    Key([sup], "1", lazy.spawn('brave')), # Google Chrome browser.
-    Key([sup], "2", lazy.spawn('pcmanfm')), # Nautilus File Manager.
+    Key([sup], "1", lazy.spawn('firefox')), # Google Chrome browser.
+    Key([sup], "2", lazy.spawn('nemo')), # Nemo File Manager.
     Key([sup], "3", lazy.spawn(terminal)), # Tilix terminal emulator.
     Key([sup], "4", lazy.spawn('code')), # Visual Studio Code.
     Key([sup], "5", lazy.spawn('spyder')), # Spyder IDE.
@@ -59,7 +59,7 @@ keys = [
         '/home/necronzero/.local/share/JetBrains/Toolbox/apps/AndroidStudio/ch-0/202.7231092/bin/studio.sh'
         )), # Android Studio
     Key([sup], "8", lazy.spawn("simple-scan")), # Gnome document scanner GUI
-    Key([sup], "9", lazy.spawn("librewolf")), # Librewolf privacy focused browser.
+    #Key([sup], "9", lazy.spawn("")),
     Key([sup], "0", lazy.spawn('tilix -e bpytop')),
     # Navigating through windows.
     Key([mod], "Left", lazy.layout.left(), desc="Move focus to left"),
@@ -118,8 +118,8 @@ keys = [
     Key([], 'XF86AudioLowerVolume', lazy.spawn('amixer -D pulse sset Master 5%-')),
     Key([], 'XF86AudioMicMute', lazy.spawn('amixer set Capture toggle')),
     # Screenshots [selection, full].
-    Key([mod], 'Print', lazy.spawn('flameshot gui -p /home/necronzero/Pictures')),
-    Key([sup], 'Print', lazy.spawn('flameshot full -p /home/necronzero/Pictures')),
+    Key([mod], 'Print', lazy.spawn('flameshot gui -p /home/necronzero/Pictures/Screenshots')),
+    Key([sup], 'Print', lazy.spawn('flameshot full -p /home/necronzero/Pictures/Screenshots')),
 ]
 
 groups = [Group(i) for i in "123456789"]
@@ -182,10 +182,10 @@ screens = [
                 ),
                 widget.WindowName(),
                 widget.TextBox(
-                    text = ' ',
+                    text = ' ',
                     background = color_main,
                     padding = 0,
-                    fontsize = 14,
+                    fontsize = 16,
                     mouse_callbacks={'Button1': lambda: qtile.cmd_spawn(terminal + " -e bpytop")},
                 ),
                 widget.CPU(
@@ -202,10 +202,10 @@ screens = [
                     mouse_callbacks={'Button1': lambda: qtile.cmd_spawn(terminal + " -e bpytop")},
                 ),
                 widget.TextBox(
-                    text = ' ',
+                    text = ' ',
                     background = color_main,
                     padding = 0,
-                    fontsize = 14,
+                    fontsize = 16,
                     mouse_callbacks={'Button1': lambda: qtile.cmd_spawn("bash /home/necronzero/.config/rofi-network-manager/rofi-network-manager.sh")},
                 ),
                 widget.Wlan(
@@ -216,28 +216,29 @@ screens = [
 
                 ),
                 widget.TextBox(
-                    text = '',
-                    background = color_main,
-                    padding = 0,
-                    fontsize = 14,
+                    text='',
+                    background=color_main,
+                    padding=0,
+                    fontsize=16,
                 ),
                 battery.BatteryIcon(
                     padding=0,
-                    scale=.75,
-                    y_poss=-1,
+                    scale=0.7,
+                    y_poss=2,
                     theme_path="/home/necronzero/.config/qtile/icons/battery_icons_horiz",
-                    update_interval = 10,
+                    update_interval = 5,
                 ),
                 widget.Battery(
                     background=color_main,
-                    format=' {percent:2.0%}',
-                    update_interval = 10,
+                    format='{percent:2.0%} ﯐ {hour:d}:{min:02d}',
+                    update_interval = 5,
+                    padding=-1,
                 ),
                 widget.TextBox(
                     text = '  ',
                     background = color_main,
                     padding = 0,
-                    fontsize = 14,
+                    fontsize = 16,
                     mouse_callbacks={'Button1': lambda: qtile.cmd_spawn("xbacklight = 1")},
                 ),
                 widget.Backlight(
@@ -251,28 +252,20 @@ screens = [
                     text = ' ',
                     background = color_main,
                     padding = 0,
-                    fontsize = 14,
+                    fontsize = 16,
                     mouse_callbacks={'Button1': lambda: qtile.cmd_spawn("tilix -e alsamixer -V all")},
                 ),
                 widget.Volume(
                     background=color_main,
                     step=1,
-                    update_interval=.5,
+                    update_interval=2,
                     mouse_callbacks={'Button1': lambda: qtile.cmd_spawn("tilix -e alsamixer -V all")},
                 ),
-                #widget.Chord(
-                #    chords_colors={
-                #        'launch': ("#ff0000", "#ffffff"),
-                #    },
-                #    name_transform=lambda name: name.upper(),
-                #),
-                #widget.TextBox("default config", name="default"),
-                #widget.TextBox("Press &lt;M-r&gt; to spawn", foreground="#d75f5f"),
                 widget.TextBox(
-                    text = '',
+                    text = ' ',
                     background = color_main,
                     padding = 0,
-                    fontsize = 14,
+                    fontsize = 16,
                 ),
                 widget.Clock(
                     background=color_main,
@@ -313,26 +306,6 @@ floating_layout = layout.Floating(float_rules=[
 ])
 auto_fullscreen = True
 focus_on_window_activation = "smart"
-
-@hook.subscribe.client_new
-def _swallow(window):
-    pid = window.window.get_net_wm_pid()
-    ppid = psutil.Process(pid).ppid()
-    cpids = {c.window.get_net_wm_pid(): wid for wid, c in window.qtile.windows_map.items()}
-    for i in range(5):
-        if not ppid:
-            return
-        if ppid in cpids:
-            parent = window.qtile.windows_map.get(cpids[ppid])
-            parent.minimized = True
-            window.parent = parent
-            return
-        ppid = psutil.Process(ppid).ppid()
-
-@hook.subscribe.client_killed
-def _unswallow(window):
-    if hasattr(window, 'parent'):
-        window.parent.minimized = False
 
 @hook.subscribe.startup_once
 def autostart():
