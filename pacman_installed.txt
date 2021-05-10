@@ -1,210 +1,212 @@
-acpi
-acpid
-alsa-plugins
-alsa-utils
-amd-ucode
-android-tools
-arandr
-automake
-b43-fwcutter
-bash
-binutils
-bluez
-bluez-plugins
-bluez-utils
-bpytop
-brave
-btrfs-progs
-bzip2
-clang
-coreutils
-cpupower
-crda
-cronie
-cryptsetup
-cups
-dash
-device-mapper
-devour
-dhclient
-dhcpcd
-diffutils
-dmraid
-dosfstools
-e2fsprogs
-eagle
-ecryptfs-utils
-efibootmgr
-etcher
-exa
-exfat-utils
-f2fs-tools
-fakeroot
-feh
-ffmpeg
-file
-file-roller
-filesystem
-findutils
-firefox
-fish
-flameshot
-gawk
-gcc
-gcc-libs
-gettext
-ghostscript
-glib2-docs
-glibc
-gnome-disk-utility
-gnuplot
-gobject-introspection
-godot
-graphviz
-grep
-groff
-grub
-gsfonts
-gstreamer
-gtk-doc
-gts
-gzip
-hplip
-inetutils
-intel-gpu-tools
-intel-media-driver
-intel-ucode
-intel-undervolt
-iproute2
-iputils
-itstool
-jetbrains-toolbox
-jfsutils
-less
-libtool
-libva-mesa-driver
-licenses
-linux511
-linux511-acpi_call
-linux511-headers
-logrotate
-lvm2
-lxsession
-lyx
-make
-man-db
-man-pages
-manjaro-firmware
-manjaro-release
-manjaro-system
-mdadm
-memtest86+
-mesa-vdpau
-minicom
-mkinitcpio-openswap
-mpv
-nemo
-neofetch
-nerd-fonts-roboto-mono
-nerd-fonts-ubuntu-mono
-networkmanager
-nfs-utils
-nilfs-utils
-noto-fonts
-noto-fonts-cjk
-noto-fonts-emoji
-noto-fonts-extra
-ntfs-3g
-openssl-1.0
-os-prober
-p7zip
-pacman
-patch
-pavucontrol
-pciutils
-perl
-picom
-pkg2zip-fork
-pkgconf
-platformio
-powertop
-procps-ng
-psmisc
-pulseaudio-alsa
-pulseaudio-bluetooth
-python-anytree
-python-beaker
-python-iwlib
-python-lxml
-python-mako
-python-markdown
-python-markupsafe
-python-pip
-python-psutil
-python-pygments
-python-wheel
-qbittorrent
-qemu
-qtile
-reiserfsprogs
-repo
-rofi
-rsync
-s-nail
-sed
-shadow
-simple-scan
-starship
-sudo
-sxiv
-sysfsutils
-systemd
-systemd-fsck-silent
-systemd-sysvcompat
-tar
-texinfo
-texlive-bibtexextra
-texlive-bin
-texlive-core
-texlive-formatsextra
-texlive-latexextra
-texlive-pictures
-texlive-pstricks
-texlive-publishers
-texlive-science
-throttled
-tilix
-tlp
-ttf-ubuntu-font-family
-unrar
-unzip
-usbutils
-util-linux
-vala
-vi
-vim
-virtualbox
-visual-studio-code-bin
-vulkan-intel
-wget
-which
-wpa_supplicant
-wxmaxima
-xclip
-xf86-input-libinput
-xf86-input-synaptics
-xf86-video-intel
-xfsprogs
-xorg-server
-xorg-xbacklight
-xorg-xdm
-xorg-xev
-xorg-xinit
-xscreensaver
-xterm
-xz
-yay
-youtube-dl
-zathura
-zathura-pdf-poppler
-zip
+acpi 1.7-3
+acpid 2.0.32-2
+alsa-plugins 1:1.2.2-2
+alsa-utils 1.2.4-2
+amd-ucode 20210426.r1905.fa0efef-1
+android-tools 31.0.0-2
+arandr 0.1.10-5
+arduino-ide 2.0.0-5
+automake 1.16.3-1
+b43-fwcutter 019-3
+bash 5.1.004-1
+binutils 2.36.1-2
+bluez 5.58-1
+bluez-plugins 5.58-1
+bluez-utils 5.58-1
+bpytop 1.0.65-1
+brave 1.23.71-1
+btrfs-progs 5.11.1-1
+bzip2 1.0.8-4
+clang 11.1.0-1
+coreutils 8.32-1
+cpupower 5.12-1
+crda 4.14-4
+cronie 1.5.7-2
+cryptsetup 2.3.5-4
+cups 1:2.3.3op2-3
+dash 0.5.11.3-1
+device-mapper 2.03.11-5
+devour 12-1
+dhclient 4.4.2-2
+dhcpcd 9.4.0-1
+diffutils 3.7-3
+dmraid 1.0.0.rc16.3-13
+dosfstools 4.2-1
+e2fsprogs 1.46.2-1
+eagle 9.6.2-1
+ecryptfs-utils 111-4
+efibootmgr 17-2
+etcher 1.5.119-1
+exa 0.10.1-1
+exfat-utils 1.3.0-2
+f2fs-tools 1.14.0-1
+fakeroot 1.25.3-2
+feh 3.6.3-1
+ffmpeg 2:4.4-2
+file 5.40-2
+file-roller 3.40.0-1
+filesystem 2021.01.19-1
+findutils 4.8.0-1
+firefox 88.0.1-1
+fish 3.2.1-1
+flameshot 0.9.0-1
+gawk 5.1.0-1
+gcc 10.2.0-6
+gcc-libs 10.2.0-6
+gettext 0.21-1
+ghostscript 9.54.0-2
+glib2-docs 2.68.1-1
+glibc 2.33-4
+gnome-disk-utility 40.1-1
+gnuplot 5.4.1-1
+gobject-introspection 1.68.0-1
+godot 3.3-1
+graphviz 2.47.1-1
+grep 3.6-1
+groff 1.22.4-5
+grub 2.04-22
+gsfonts 20200910-2
+gstreamer 1.18.4-1
+gtk-doc 1.33.2-1
+gts 0.7.6.121130-2
+gzip 1.10-3
+hplip 1:3.21.2-1
+inetutils 1.9.4-9
+intel-gpu-tools 1.25-2
+intel-media-driver 21.1.3-1
+intel-ucode 20210216-1
+intel-undervolt 1.7-2
+iproute2 5.12.0-1
+iputils 20210202-1
+itstool 1:2.0.6-2
+jetbrains-toolbox 1.20.8352-2
+jfsutils 1.1.15-7
+less 1:581.2-1
+libtool 2.4.6+42+gb88cebd5-14
+libva-mesa-driver 21.0.3-3
+licenses 20200427-1
+linux511 5.11.18-1
+linux511-acpi_call 1.1.0-23
+linux511-headers 5.11.18-1
+logrotate 3.18.0-1
+lvm2 2.03.11-5
+lxsession 1:0.5.5-1
+lyx 2.3.6.1-1
+make 4.3-3
+man-db 2.9.4-1
+man-pages 5.11-1
+manjaro-firmware 20160419-1
+manjaro-release 21.0.4-1
+manjaro-system 20210412-1
+mdadm 4.1-2
+memtest86+ 5.01-4
+mesa-vdpau 21.0.3-3
+minicom 2.8-1
+mkinitcpio-openswap 0.1.0-3
+mpv 1:0.33.1-2
+nemo 4.8.6-1
+neofetch 7.1.0-2
+nerd-fonts-roboto-mono 2.1.0-1
+nerd-fonts-ubuntu-mono 2.1.0-2
+networkmanager 1.30.4-1
+nfs-utils 2.5.3-1
+nilfs-utils 2.2.8-2
+noto-fonts 20201226-2
+noto-fonts-cjk 20201206-2
+noto-fonts-emoji 20200916-1
+noto-fonts-extra 20201226-2
+ntfs-3g 2017.3.23-5
+openssl-1.0 1.0.2.u-1
+os-prober 1.78-0.1
+p7zip 1:17.04-1
+pacman 5.2.2-5
+patch 2.7.6-8
+pavucontrol 1:4.0-2
+pciutils 3.7.0-1
+perl 5.32.1-1
+picom 8.2-1
+pkg2zip-fork 2.2-2
+pkgconf 1.7.3-1
+platformio 5.1.1-1
+powertop 2.13-1
+procps-ng 3.3.17-1
+psmisc 23.4-1
+pulseaudio-alsa 1:1.2.2-2
+pulseaudio-bluetooth 14.2-3
+python-anytree 2.8.0-3
+python-beaker 1.11.0-6
+python-iwlib 1.7.0-3
+python-lxml 4.6.3-1
+python-mako 1.1.4-1
+python-markdown 3.3.4-1
+python-markupsafe 1.1.1-7
+python-pip 20.3.1-1
+python-psutil 5.8.0-1
+python-pygments 2.8.1-1
+python-wheel 0.36.2-1
+qbittorrent 4.3.3-1
+qemu 5.2.0-4
+qtile 0.17.0-1
+reiserfsprogs 3.6.27-3
+repo 2.12.2-1
+rofi 1.6.1-1
+rsync 3.2.3-3
+s-nail 14.9.22-1
+sed 4.8-1
+shadow 4.8.1-4
+simple-scan 40.0-1
+starship 0.52.1-1
+sudo 1.9.6.p1-1
+sxiv 26-1
+sysfsutils 2.1.1-1
+systemd 247.6-1.0
+systemd-fsck-silent 239-1
+systemd-sysvcompat 247.6-1.0
+tar 1.34-1
+texinfo 6.7-3
+texlive-bibtexextra 2020.56991-1
+texlive-bin 2020.54586-13
+texlive-core 2020.57066-2
+texlive-formatsextra 2020.56699-1
+texlive-latexextra 2020.57067-1
+texlive-pictures 2020.57065-1
+texlive-pstricks 2020.56758-1
+texlive-publishers 2020.57058-1
+texlive-science 2020.57068-1
+throttled 0.8-2
+tilix 1.9.4-2
+tlp 1.3.1-2
+ttf-ubuntu-font-family 0.83-7
+unrar 1:6.0.5-1
+unzip 6.0-14
+usbutils 013-1
+util-linux 2.36.2-1
+vala 0.52.3-1
+vi 1:070224-4
+vim 8.2.2815-1
+virtualbox 6.1.22-1
+visual-studio-code-bin 1.56.0-2
+vulkan-intel 21.0.3-3
+wget 1.21.1-1
+which 2.21-5
+wpa_supplicant 2:2.9-8
+wxmaxima 21.04.0-1
+xclip 0.13-3
+xf86-input-libinput 1.0.1-1
+xf86-input-synaptics 1.9.1-2
+xf86-video-intel 1:2.99.917+916+g31486f40-1
+xfsprogs 5.11.0-2
+xorg-server 1.20.11-1
+xorg-server-xephyr 1.20.11-1
+xorg-xbacklight 1.2.3-2
+xorg-xdm 1.1.12-3
+xorg-xev 1.2.4-1
+xorg-xinit 1.4.1-3
+xscreensaver 6.00-2
+xterm 367-1
+xz 5.2.5-1
+yay 10.2.1-1
+youtube-dl 2021.04.26-1
+zathura 0.4.7-1
+zathura-pdf-poppler 0.3.0-1
+zip 3.0-9
