@@ -3,4 +3,4 @@
 lxsession &
 xscreensaver -nosplash &
 picom --experimental-backend &
-feh --bg-scale /home/necronzero/Pictures/fft.png &
+feh --bg-scale /home/necronzero/.wallpapers/warofthelions.png &
