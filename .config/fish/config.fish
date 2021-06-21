@@ -3,8 +3,13 @@ set fish_greeting
 # Alias to clear and print colors.
 alias clear="clear && ~/.config/pacman"
 # Alias to color and format ls (exa).
+alias l="exa -lhF --color=auto"
 alias ls="exa -lhF --color=auto"
-# Alias to call python black format tool.
+alias ll="exa -lahF --color=auto"
+# Alias to navigate backwards.
+alias ..="cd .."
+alias .="cd ."
+# Alias to call python programs.
 alias black="python -m black"
 # Aliases to flash android devices.
 alias fastboot="sudo fastboot"
@@ -24,3 +29,4 @@ alias zathura="devour zathura"
 alias mpvd="devour mpv"
 alias qbittorrent="devour qbittorrent"
 alias obs="devour obs"
+alias spyder="devour python ~/.local/lib/python3.9/site-packages/spyder/app/start.py"

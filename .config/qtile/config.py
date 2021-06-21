@@ -49,17 +49,17 @@ keys = [
         )), # Quartus prime lite.
     Key([sup], "m", lazy.spawn('wxmaxima')), # Maxima's UI.
     # Old keybind spawn.
-    Key([sup], "1", lazy.spawn('google-chrome-stable')), # Google Chrome browser.
+    Key([sup], "1", lazy.spawn('firefox')), # Firefox browser.
     Key([sup], "2", lazy.spawn('nemo')), # Nemo File Manager.
     Key([sup], "3", lazy.spawn(terminal)), # Tilix terminal emulator.
-    Key([sup], "4", lazy.spawn('code-insiders')), # Visual Studio Code.
+    Key([sup], "4", lazy.spawn('code')), # Visual Studio Code.
     #Key([sup], "5", lazy.spawn('spyder')), # Spyder IDE.
     #Key([sup], "6", lazy.spawn('vmplayer')), # Vmware Player.
     Key([sup], "7", lazy.spawn(
         '/home/necronzero/.local/share/JetBrains/Toolbox/apps/AndroidStudio/ch-0/202.7351085/bin/studio.sh'
         )), # Android Studio
     Key([sup], "8", lazy.spawn("simple-scan")), # Gnome document scanner GUI
-    #Key([sup], "9", lazy.spawn("")),
+    Key([sup], "9", lazy.spawn("chromium")),
     Key([sup], "0", lazy.spawn(terminal + ' -e bpytop')),
     # Navigating through windows.
     Key([mod], "Left", lazy.layout.left(), desc="Move focus to left"),
