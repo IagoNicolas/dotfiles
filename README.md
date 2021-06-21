@@ -12,4 +12,4 @@ They are stored here for convenience so that I may quickly access them on new ma
 
 ### Thinkpad T480
 No need to mess with thinkfan anymore, configure throttled and temp limit should be at 90ºC with fan control levels [0-7] enabled.
-Update: Use throttled 0.7 together with intel-undervolt, newer versions of throttled are bloated.
+Update: Use throttled 0.7 together with intel-undervolt, newer versions of throttled are bloated and break temperature control.
