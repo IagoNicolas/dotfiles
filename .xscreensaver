@@ -1,27 +1,22 @@
 # XScreenSaver Preferences File
-# Written by xscreensaver-demo 5.44 for necronzero on Sun Apr  4 17:46:24 2021.
+# Written by xscreensaver-settings 6.00 for necronzero on Wed Aug 18 14:44:45 2021.
 # https://www.jwz.org/xscreensaver/
 
 timeout:	0:15:00
-cycle:		0:05:00
+cycle:		0:00:00
 lock:		True
 lockTimeout:	0:00:00
 passwdTimeout:	0:00:30
 visualID:	default
 installColormap:    True
 verbose:	False
-timestamp:	True
 splash:		True
 splashDuration:	0:00:30
 demoCommand:	xscreensaver-demo
-prefsCommand:	
 nice:		10
-memoryLimit:	0
 fade:		True
 unfade:		False
 fadeSeconds:	0:00:10
-fadeTicks:	20
-captureStderr:	False
 ignoreUninstalledPrograms:False
 font:		*-medium-r-*-140-*-m-*
 dpmsEnabled:	True
@@ -42,6 +37,7 @@ textLiteral:	XScreenSaver
 textFile:	
 textProgram:	fortune
 textURL:	https://en.wikipedia.org/w/index.php?title=Special:NewPages&feed=rss
+dialogTheme:	default
 
 programs:								      \
 				maze -root				    \n\
@@ -288,15 +284,12 @@ programs:								      \
   GL: 				gravitywell -root			    \n\
   GL: 				etruscanvenus -root			    \n\
   GL: 				gibson -root				    \n\
+  GL: 				beats -root				    \n\
+  GL: 				covid19 -root				    \n\
+  GL: 				headroom -root				    \n\
+  GL: 				sphereeversion -root			    \n\
 
 
-pointerPollTime:    0:00:05
 pointerHysteresis:  10
-windowCreationTimeout:0:00:30
-initialDelay:	0:00:00
-GetViewPortIsFullOfLies:False
-procInterrupts:	True
-xinputExtensionDev: False
-overlayStderr:	False
 authWarningSlack:   20
 

@@ -89,7 +89,7 @@ Be sure you play around with these. Be flexible with the basic commands and the 
 .ITEM
 \f(CWMeta+r\fP \(en rofi (For running programs without shortcuts)
 .ITEM
-\f(CWMeta+Left/Right\fP \(en Cycle thru windows by their stack order
+\f(CWMeta+Left/Right\fP \(en Cycle through windows by their stack order
 .ITEM
 \f(CWMeta+Ctrl+Left/Right\fP \(en Change width of selected window
 .ITEM
@@ -104,23 +104,23 @@ Be sure you play around with these. Be flexible with the basic commands and the 
 .HEADING 2 "Basic Programs"
 .LI 
 .ITEM
-\f(CWSuper+1\fP \(en Brave (Web Browser)
+\f(CWSuper+1\fP \(en Firefox (Web Browser)
 .ITEM
-\f(CWSuper+2\fP \(en PCManFM (file browser/manager)
+\f(CWSuper+2\fP \(en Nemo (file browser/manager)
 .ITEM
 \f(CWSuper+3\fP \(en Tilix (terminal)
 .ITEM
-\f(CWSuper+4\fP \(en Visual Studio Code (big bloated text editor)
+\f(CWSuper+4\fP \(en Visual Studio Code - Insiders (big bloated text editor)
 .ITEM
-\f(CWSuper+5\fP \(en Spyder IDE (python data focused IDE)
+\f(CWSuper+5\fP \(en Not assigned
 .ITEM
-\f(CWSuper+6\fP \(en Vmware (Virtual Machine manager)
+\f(CWSuper+6\fP \(en Not assigned
 .ITEM
 \f(CWSuper+7\fP \(en Android Studio (Android apps IDE)
 .ITEM
 \f(CWSuper+8\fP \(en Document Scanner (PDF document scanner GUI)
 .ITEM
-\f(CWSuper+9\fP \(en Librewolf (privacy focused firefox fork)
+\f(CWSuper+9\fP \(en Chromium (UFPE Focused browser)
 .ITEM
 \f(CWSuper+0\fP \(en bpytop (task manager, system monitor)
 .LIST OFF

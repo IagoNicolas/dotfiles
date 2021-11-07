@@ -56,7 +56,7 @@ keys = [
     #Key([sup], "5", lazy.spawn('spyder')), # Spyder IDE.
     #Key([sup], "6", lazy.spawn('vmplayer')), # Vmware Player.
     Key([sup], "7", lazy.spawn(
-        '/home/necronzero/.local/share/JetBrains/Toolbox/apps/AndroidStudio/ch-0/202.7351085/bin/studio.sh'
+        '/home/necronzero/.local/share/JetBrains/Toolbox/apps/AndroidStudio/ch-0/203.7621141/bin/studio.sh'
         )), # Android Studio
     Key([sup], "8", lazy.spawn("simple-scan")), # Gnome document scanner GUI
     Key([sup], "9", lazy.spawn("chromium")),
@@ -95,7 +95,7 @@ keys = [
     # multiple stack panes
     Key([mod, "shift"], "Return", lazy.layout.toggle_split(),
         desc="Toggle between split and unsplit sides of stack"),
-    Key([mod], "Return", lazy.spawn(terminal), desc="Launch terminal"),
+    Key([sup], "Return", lazy.spawn(terminal), desc="Launch terminal"),
 
     # Toggle between different layouts as defined below
     Key([mod], "Tab", lazy.next_layout(), desc="Toggle between layouts"),
@@ -122,7 +122,7 @@ keys = [
     Key([sup], 'Print', lazy.spawn('flameshot full -p /home/necronzero/Pictures/Screenshots')),
 ]
 
-groups = [Group(i) for i in "123456789"]
+groups = [Group(i) for i in "1234567890"]
 
 for i in groups:
     keys.extend([
@@ -213,7 +213,6 @@ screens = [
                     update_interval=5,
                     format="{essid} {percent:2.0%}",
                     mouse_callbacks={'Button1': lambda: qtile.cmd_spawn("bash /home/necronzero/.config/rofi-network-manager/rofi-network-manager.sh")},
-
                 ),
                 widget.TextBox(
                     text='',

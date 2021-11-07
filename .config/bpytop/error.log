@@ -3607,3 +3607,2330 @@ FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.confi
 18/06/21 (15:02:01) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
 18/06/21 (15:02:01) | DEBUG: Collect and draw completed in 0.077083 seconds
 18/06/21 (15:02:01) | DEBUG: Init completed in 0.119716 seconds
+21/06/21 (16:10:11) | INFO: New instance of bpytop version 1.0.67 started with pid 55669
+21/06/21 (16:10:11) | INFO: Loglevel set to DEBUG
+21/06/21 (16:10:11) | DEBUG: Using psutil version 5.8.0
+21/06/21 (16:10:11) | DEBUG: CMD: /usr/bin/bpytop
+21/06/21 (16:10:11) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+21/06/21 (16:10:11) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+21/06/21 (16:10:11) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+21/06/21 (16:10:11) | DEBUG: Collect and draw completed in 0.213617 seconds
+21/06/21 (16:10:11) | DEBUG: Init completed in 0.256569 seconds
+25/06/21 (15:01:39) | INFO: New instance of bpytop version 1.0.67 started with pid 71107
+25/06/21 (15:01:39) | INFO: Loglevel set to DEBUG
+25/06/21 (15:01:39) | DEBUG: Using psutil version 5.8.0
+25/06/21 (15:01:39) | DEBUG: CMD: /usr/bin/bpytop
+25/06/21 (15:01:39) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+25/06/21 (15:01:39) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+25/06/21 (15:01:39) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+25/06/21 (15:01:39) | DEBUG: Collect and draw completed in 0.064479 seconds
+25/06/21 (15:01:39) | DEBUG: Init completed in 0.109822 seconds
+28/06/21 (13:54:58) | INFO: New instance of bpytop version 1.0.67 started with pid 159499
+28/06/21 (13:54:58) | INFO: Loglevel set to DEBUG
+28/06/21 (13:54:58) | DEBUG: Using psutil version 5.8.0
+28/06/21 (13:54:58) | DEBUG: CMD: /usr/bin/bpytop
+28/06/21 (13:54:58) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+28/06/21 (13:54:58) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+28/06/21 (13:54:58) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+28/06/21 (13:54:58) | DEBUG: Collect and draw completed in 0.064839 seconds
+28/06/21 (13:54:58) | DEBUG: Init completed in 0.096150 seconds
+28/06/21 (13:56:21) | INFO: New instance of bpytop version 1.0.67 started with pid 159922
+28/06/21 (13:56:21) | INFO: Loglevel set to DEBUG
+28/06/21 (13:56:21) | DEBUG: Using psutil version 5.8.0
+28/06/21 (13:56:21) | DEBUG: CMD: /usr/bin/bpytop
+28/06/21 (13:56:21) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+28/06/21 (13:56:21) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+28/06/21 (13:56:21) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+28/06/21 (13:56:21) | DEBUG: Collect and draw completed in 0.138312 seconds
+28/06/21 (13:56:21) | DEBUG: Init completed in 0.189264 seconds
+28/06/21 (13:56:24) | INFO: New instance of bpytop version 1.0.67 started with pid 159952
+28/06/21 (13:56:24) | INFO: Loglevel set to DEBUG
+28/06/21 (13:56:24) | DEBUG: Using psutil version 5.8.0
+28/06/21 (13:56:24) | DEBUG: CMD: /usr/bin/bpytop
+28/06/21 (13:56:24) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+28/06/21 (13:56:24) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+28/06/21 (13:56:25) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+28/06/21 (13:56:25) | DEBUG: Collect and draw completed in 0.063225 seconds
+28/06/21 (13:56:25) | DEBUG: Init completed in 0.107249 seconds
+28/06/21 (13:56:27) | INFO: New instance of bpytop version 1.0.67 started with pid 159980
+28/06/21 (13:56:27) | INFO: Loglevel set to DEBUG
+28/06/21 (13:56:27) | DEBUG: Using psutil version 5.8.0
+28/06/21 (13:56:27) | DEBUG: CMD: /usr/bin/bpytop
+28/06/21 (13:56:27) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+28/06/21 (13:56:27) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+28/06/21 (13:56:27) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+28/06/21 (13:56:27) | DEBUG: Collect and draw completed in 0.178486 seconds
+28/06/21 (13:56:27) | DEBUG: Init completed in 0.226182 seconds
+28/06/21 (14:49:24) | INFO: New instance of bpytop version 1.0.67 started with pid 164656
+28/06/21 (14:49:24) | INFO: Loglevel set to DEBUG
+28/06/21 (14:49:24) | DEBUG: Using psutil version 5.8.0
+28/06/21 (14:49:24) | DEBUG: CMD: /usr/bin/bpytop
+28/06/21 (14:49:24) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+28/06/21 (14:49:24) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+28/06/21 (14:49:24) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+28/06/21 (14:49:24) | DEBUG: Collect and draw completed in 0.067691 seconds
+28/06/21 (14:49:24) | DEBUG: Init completed in 0.115358 seconds
+29/06/21 (14:56:30) | INFO: New instance of bpytop version 1.0.67 started with pid 228414
+29/06/21 (14:56:30) | INFO: Loglevel set to DEBUG
+29/06/21 (14:56:30) | DEBUG: Using psutil version 5.8.0
+29/06/21 (14:56:30) | DEBUG: CMD: /usr/bin/bpytop
+29/06/21 (14:56:30) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+29/06/21 (14:56:30) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+29/06/21 (14:56:30) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+29/06/21 (14:56:30) | DEBUG: Collect and draw completed in 0.131637 seconds
+29/06/21 (14:56:30) | DEBUG: Init completed in 0.182912 seconds
+29/06/21 (15:54:12) | INFO: New instance of bpytop version 1.0.67 started with pid 236980
+29/06/21 (15:54:12) | INFO: Loglevel set to DEBUG
+29/06/21 (15:54:12) | DEBUG: Using psutil version 5.8.0
+29/06/21 (15:54:12) | DEBUG: CMD: /usr/bin/bpytop
+29/06/21 (15:54:12) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+29/06/21 (15:54:12) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+29/06/21 (15:54:12) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+29/06/21 (15:54:12) | DEBUG: Collect and draw completed in 0.069268 seconds
+29/06/21 (15:54:12) | DEBUG: Init completed in 0.110821 seconds
+30/06/21 (00:07:18) | INFO: New instance of bpytop version 1.0.67 started with pid 282291
+30/06/21 (00:07:18) | INFO: Loglevel set to DEBUG
+30/06/21 (00:07:18) | DEBUG: Using psutil version 5.8.0
+30/06/21 (00:07:18) | DEBUG: CMD: /usr/bin/bpytop
+30/06/21 (00:07:18) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+30/06/21 (00:07:18) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+30/06/21 (00:07:18) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+30/06/21 (00:07:18) | DEBUG: Collect and draw completed in 0.071790 seconds
+30/06/21 (00:07:18) | DEBUG: Init completed in 0.140338 seconds
+30/06/21 (14:13:49) | INFO: New instance of bpytop version 1.0.67 started with pid 310521
+30/06/21 (14:13:49) | INFO: Loglevel set to DEBUG
+30/06/21 (14:13:49) | DEBUG: Using psutil version 5.8.0
+30/06/21 (14:13:49) | DEBUG: CMD: /usr/bin/bpytop
+30/06/21 (14:13:49) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+30/06/21 (14:13:49) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+30/06/21 (14:13:49) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+30/06/21 (14:13:49) | DEBUG: Collect and draw completed in 0.210357 seconds
+30/06/21 (14:13:49) | DEBUG: Init completed in 0.344797 seconds
+30/06/21 (16:35:32) | INFO: New instance of bpytop version 1.0.67 started with pid 316880
+30/06/21 (16:35:32) | INFO: Loglevel set to DEBUG
+30/06/21 (16:35:32) | DEBUG: Using psutil version 5.8.0
+30/06/21 (16:35:32) | DEBUG: CMD: /usr/bin/bpytop
+30/06/21 (16:35:32) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+30/06/21 (16:35:32) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+30/06/21 (16:35:33) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+30/06/21 (16:35:33) | DEBUG: Collect and draw completed in 0.063585 seconds
+30/06/21 (16:35:33) | DEBUG: Init completed in 0.106675 seconds
+30/06/21 (17:01:07) | INFO: New instance of bpytop version 1.0.67 started with pid 321202
+30/06/21 (17:01:07) | INFO: Loglevel set to DEBUG
+30/06/21 (17:01:07) | DEBUG: Using psutil version 5.8.0
+30/06/21 (17:01:07) | DEBUG: CMD: /usr/bin/bpytop
+30/06/21 (17:01:07) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+30/06/21 (17:01:07) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+30/06/21 (17:01:07) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+30/06/21 (17:01:07) | DEBUG: Collect and draw completed in 0.155149 seconds
+30/06/21 (17:01:07) | DEBUG: Init completed in 0.205134 seconds
+30/06/21 (18:06:50) | INFO: New instance of bpytop version 1.0.67 started with pid 347026
+30/06/21 (18:06:50) | INFO: Loglevel set to DEBUG
+30/06/21 (18:06:50) | DEBUG: Using psutil version 5.8.0
+30/06/21 (18:06:50) | DEBUG: CMD: /usr/bin/bpytop
+30/06/21 (18:06:50) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+30/06/21 (18:06:50) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+30/06/21 (18:06:50) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+30/06/21 (18:06:50) | DEBUG: Collect and draw completed in 0.178863 seconds
+30/06/21 (18:06:50) | DEBUG: Init completed in 0.239125 seconds
+01/07/21 (00:25:00) | INFO: New instance of bpytop version 1.0.67 started with pid 397121
+01/07/21 (00:25:00) | INFO: Loglevel set to DEBUG
+01/07/21 (00:25:00) | DEBUG: Using psutil version 5.8.0
+01/07/21 (00:25:00) | DEBUG: CMD: /usr/bin/bpytop
+01/07/21 (00:25:00) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+01/07/21 (00:25:00) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+01/07/21 (00:25:00) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+01/07/21 (00:25:00) | DEBUG: Collect and draw completed in 0.068844 seconds
+01/07/21 (00:25:00) | DEBUG: Init completed in 0.115984 seconds
+01/07/21 (00:27:38) | INFO: New instance of bpytop version 1.0.67 started with pid 403810
+01/07/21 (00:27:38) | INFO: Loglevel set to DEBUG
+01/07/21 (00:27:38) | DEBUG: Using psutil version 5.8.0
+01/07/21 (00:27:38) | DEBUG: CMD: /usr/bin/bpytop
+01/07/21 (00:27:38) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+01/07/21 (00:27:38) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+01/07/21 (00:27:38) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+01/07/21 (00:27:38) | DEBUG: Collect and draw completed in 0.166833 seconds
+01/07/21 (00:27:38) | DEBUG: Init completed in 0.202694 seconds
+01/07/21 (00:41:12) | INFO: New instance of bpytop version 1.0.67 started with pid 431866
+01/07/21 (00:41:12) | INFO: Loglevel set to DEBUG
+01/07/21 (00:41:12) | DEBUG: Using psutil version 5.8.0
+01/07/21 (00:41:12) | DEBUG: CMD: /usr/bin/bpytop
+01/07/21 (00:41:12) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+01/07/21 (00:41:12) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+01/07/21 (00:41:12) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+01/07/21 (00:41:12) | DEBUG: Collect and draw completed in 0.169662 seconds
+01/07/21 (00:41:12) | DEBUG: Init completed in 0.219662 seconds
+01/07/21 (00:41:25) | INFO: New instance of bpytop version 1.0.67 started with pid 432258
+01/07/21 (00:41:25) | INFO: Loglevel set to DEBUG
+01/07/21 (00:41:25) | DEBUG: Using psutil version 5.8.0
+01/07/21 (00:41:25) | DEBUG: CMD: /usr/bin/bpytop
+01/07/21 (00:41:25) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+01/07/21 (00:41:25) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+01/07/21 (00:41:25) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+01/07/21 (00:41:25) | DEBUG: Collect and draw completed in 0.063780 seconds
+01/07/21 (00:41:25) | DEBUG: Init completed in 0.095800 seconds
+01/07/21 (01:46:54) | INFO: New instance of bpytop version 1.0.67 started with pid 614704
+01/07/21 (01:46:54) | INFO: Loglevel set to DEBUG
+01/07/21 (01:46:54) | DEBUG: Using psutil version 5.8.0
+01/07/21 (01:46:54) | DEBUG: CMD: /usr/bin/bpytop
+01/07/21 (01:46:54) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+01/07/21 (01:46:54) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+01/07/21 (01:46:54) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+01/07/21 (01:46:55) | DEBUG: Collect and draw completed in 0.128112 seconds
+01/07/21 (01:46:55) | DEBUG: Init completed in 0.160280 seconds
+01/07/21 (05:47:26) | INFO: New instance of bpytop version 1.0.67 started with pid 7009
+01/07/21 (05:47:26) | INFO: Loglevel set to DEBUG
+01/07/21 (05:47:26) | DEBUG: Using psutil version 5.8.0
+01/07/21 (05:47:26) | DEBUG: CMD: /usr/bin/bpytop
+01/07/21 (05:47:26) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+01/07/21 (05:47:26) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+01/07/21 (05:47:27) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+01/07/21 (05:47:27) | DEBUG: Collect and draw completed in 0.071415 seconds
+01/07/21 (05:47:27) | DEBUG: Init completed in 0.122791 seconds
+01/07/21 (06:08:42) | INFO: New instance of bpytop version 1.0.67 started with pid 9649
+01/07/21 (06:08:42) | INFO: Loglevel set to DEBUG
+01/07/21 (06:08:42) | DEBUG: Using psutil version 5.8.0
+01/07/21 (06:08:42) | DEBUG: CMD: /usr/bin/bpytop
+01/07/21 (06:08:42) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+01/07/21 (06:08:42) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+01/07/21 (06:08:42) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+01/07/21 (06:08:42) | DEBUG: Collect and draw completed in 0.062840 seconds
+01/07/21 (06:08:42) | DEBUG: Init completed in 0.111471 seconds
+01/07/21 (06:08:45) | INFO: New instance of bpytop version 1.0.67 started with pid 9677
+01/07/21 (06:08:45) | INFO: Loglevel set to DEBUG
+01/07/21 (06:08:45) | DEBUG: Using psutil version 5.8.0
+01/07/21 (06:08:45) | DEBUG: CMD: /usr/bin/bpytop
+01/07/21 (06:08:45) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+01/07/21 (06:08:45) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+01/07/21 (06:08:45) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+01/07/21 (06:08:45) | DEBUG: Collect and draw completed in 0.062035 seconds
+01/07/21 (06:08:45) | DEBUG: Init completed in 0.105934 seconds
+01/07/21 (06:08:46) | INFO: New instance of bpytop version 1.0.67 started with pid 9703
+01/07/21 (06:08:46) | INFO: Loglevel set to DEBUG
+01/07/21 (06:08:46) | DEBUG: Using psutil version 5.8.0
+01/07/21 (06:08:46) | DEBUG: CMD: /usr/bin/bpytop
+01/07/21 (06:08:46) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+01/07/21 (06:08:46) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+01/07/21 (06:08:46) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+01/07/21 (06:08:46) | DEBUG: Collect and draw completed in 0.055922 seconds
+01/07/21 (06:08:46) | DEBUG: Init completed in 0.102063 seconds
+01/07/21 (06:23:19) | INFO: New instance of bpytop version 1.0.67 started with pid 11655
+01/07/21 (06:23:19) | INFO: Loglevel set to DEBUG
+01/07/21 (06:23:19) | DEBUG: Using psutil version 5.8.0
+01/07/21 (06:23:19) | DEBUG: CMD: /usr/bin/bpytop
+01/07/21 (06:23:19) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+01/07/21 (06:23:19) | INFO: New instance of bpytop version 1.0.67 started with pid 11662
+01/07/21 (06:23:19) | INFO: Loglevel set to DEBUG
+01/07/21 (06:23:19) | DEBUG: Using psutil version 5.8.0
+01/07/21 (06:23:19) | DEBUG: CMD: /usr/bin/bpytop
+01/07/21 (06:23:19) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+01/07/21 (06:23:19) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+01/07/21 (06:23:19) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+01/07/21 (06:23:19) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+01/07/21 (06:23:19) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+01/07/21 (06:23:19) | DEBUG: Collect and draw completed in 0.076304 seconds
+01/07/21 (06:23:19) | DEBUG: Init completed in 0.118644 seconds
+01/07/21 (06:23:19) | DEBUG: Collect and draw completed in 0.097727 seconds
+01/07/21 (06:23:19) | DEBUG: Init completed in 0.158182 seconds
+02/07/21 (11:49:22) | INFO: New instance of bpytop version 1.0.67 started with pid 18220
+02/07/21 (11:49:22) | INFO: Loglevel set to DEBUG
+02/07/21 (11:49:22) | DEBUG: Using psutil version 5.8.0
+02/07/21 (11:49:22) | DEBUG: CMD: /usr/bin/bpytop
+02/07/21 (11:49:22) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+02/07/21 (11:49:22) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+02/07/21 (11:49:22) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+02/07/21 (11:49:22) | DEBUG: Collect and draw completed in 0.238083 seconds
+02/07/21 (11:49:22) | DEBUG: Init completed in 0.294344 seconds
+02/07/21 (19:55:18) | INFO: New instance of bpytop version 1.0.67 started with pid 51652
+02/07/21 (19:55:18) | INFO: Loglevel set to DEBUG
+02/07/21 (19:55:18) | DEBUG: Using psutil version 5.8.0
+02/07/21 (19:55:18) | DEBUG: CMD: /usr/bin/bpytop
+02/07/21 (19:55:18) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+02/07/21 (19:55:18) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+02/07/21 (19:55:18) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+02/07/21 (19:55:18) | DEBUG: Collect and draw completed in 0.074252 seconds
+02/07/21 (19:55:18) | DEBUG: Init completed in 0.119093 seconds
+02/07/21 (21:33:06) | INFO: New instance of bpytop version 1.0.67 started with pid 72390
+02/07/21 (21:33:06) | INFO: Loglevel set to DEBUG
+02/07/21 (21:33:06) | DEBUG: Using psutil version 5.8.0
+02/07/21 (21:33:06) | DEBUG: CMD: /usr/bin/bpytop
+02/07/21 (21:33:06) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+02/07/21 (21:33:06) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+02/07/21 (21:33:06) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+02/07/21 (21:33:06) | DEBUG: Collect and draw completed in 0.149177 seconds
+02/07/21 (21:33:06) | DEBUG: Init completed in 0.198498 seconds
+04/07/21 (11:15:11) | INFO: New instance of bpytop version 1.0.67 started with pid 61730
+04/07/21 (11:15:11) | INFO: Loglevel set to DEBUG
+04/07/21 (11:15:11) | DEBUG: Using psutil version 5.8.0
+04/07/21 (11:15:11) | DEBUG: CMD: /usr/bin/bpytop
+04/07/21 (11:15:11) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+04/07/21 (11:15:11) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+04/07/21 (11:15:11) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+04/07/21 (11:15:11) | DEBUG: Collect and draw completed in 0.105973 seconds
+04/07/21 (11:15:11) | DEBUG: Init completed in 0.210771 seconds
+05/07/21 (00:10:21) | INFO: New instance of bpytop version 1.0.67 started with pid 83569
+05/07/21 (00:10:21) | INFO: Loglevel set to DEBUG
+05/07/21 (00:10:21) | DEBUG: Using psutil version 5.8.0
+05/07/21 (00:10:21) | DEBUG: CMD: /usr/bin/bpytop
+05/07/21 (00:10:21) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+05/07/21 (00:10:21) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+05/07/21 (00:10:21) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+05/07/21 (00:10:21) | DEBUG: Collect and draw completed in 0.107185 seconds
+05/07/21 (00:10:21) | DEBUG: Init completed in 0.145230 seconds
+05/07/21 (10:43:56) | INFO: New instance of bpytop version 1.0.67 started with pid 93175
+05/07/21 (10:43:56) | INFO: Loglevel set to DEBUG
+05/07/21 (10:43:56) | DEBUG: Using psutil version 5.8.0
+05/07/21 (10:43:56) | DEBUG: CMD: /usr/bin/bpytop
+05/07/21 (10:43:56) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+05/07/21 (10:43:56) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+05/07/21 (10:43:56) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+05/07/21 (10:43:56) | DEBUG: Collect and draw completed in 0.061873 seconds
+05/07/21 (10:43:56) | DEBUG: Init completed in 0.105271 seconds
+06/07/21 (01:16:13) | INFO: New instance of bpytop version 1.0.67 started with pid 144610
+06/07/21 (01:16:13) | INFO: Loglevel set to DEBUG
+06/07/21 (01:16:13) | DEBUG: Using psutil version 5.8.0
+06/07/21 (01:16:13) | DEBUG: CMD: /usr/bin/bpytop
+06/07/21 (01:16:13) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+06/07/21 (01:16:13) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+06/07/21 (01:16:13) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+06/07/21 (01:16:13) | DEBUG: Collect and draw completed in 0.147712 seconds
+06/07/21 (01:16:13) | DEBUG: Init completed in 0.198806 seconds
+06/07/21 (15:32:59) | INFO: New instance of bpytop version 1.0.67 started with pid 171830
+06/07/21 (15:32:59) | INFO: Loglevel set to DEBUG
+06/07/21 (15:32:59) | DEBUG: Using psutil version 5.8.0
+06/07/21 (15:32:59) | DEBUG: CMD: /usr/bin/bpytop
+06/07/21 (15:32:59) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+06/07/21 (15:32:59) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+06/07/21 (15:32:59) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+06/07/21 (15:32:59) | DEBUG: Collect and draw completed in 0.114007 seconds
+06/07/21 (15:32:59) | DEBUG: Init completed in 0.163227 seconds
+06/07/21 (23:49:39) | INFO: New instance of bpytop version 1.0.67 started with pid 8832
+06/07/21 (23:49:39) | INFO: Loglevel set to DEBUG
+06/07/21 (23:49:39) | DEBUG: Using psutil version 5.8.0
+06/07/21 (23:49:39) | DEBUG: CMD: /usr/bin/bpytop
+06/07/21 (23:49:39) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+06/07/21 (23:49:39) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+06/07/21 (23:49:39) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+06/07/21 (23:49:39) | DEBUG: Collect and draw completed in 0.103616 seconds
+06/07/21 (23:49:39) | DEBUG: Init completed in 0.215739 seconds
+07/07/21 (06:29:34) | INFO: New instance of bpytop version 1.0.67 started with pid 42226
+07/07/21 (06:29:34) | INFO: Loglevel set to DEBUG
+07/07/21 (06:29:34) | DEBUG: Using psutil version 5.8.0
+07/07/21 (06:29:34) | DEBUG: CMD: /usr/bin/bpytop
+07/07/21 (06:29:34) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+07/07/21 (06:29:34) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+07/07/21 (06:29:34) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+07/07/21 (06:29:34) | DEBUG: Collect and draw completed in 0.059130 seconds
+07/07/21 (06:29:34) | DEBUG: Init completed in 0.104103 seconds
+07/07/21 (06:29:38) | INFO: New instance of bpytop version 1.0.67 started with pid 42491
+07/07/21 (06:29:38) | INFO: Loglevel set to DEBUG
+07/07/21 (06:29:38) | DEBUG: Using psutil version 5.8.0
+07/07/21 (06:29:38) | DEBUG: CMD: /usr/bin/bpytop
+07/07/21 (06:29:38) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+07/07/21 (06:29:38) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+07/07/21 (06:29:39) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+07/07/21 (06:29:39) | DEBUG: Collect and draw completed in 0.065404 seconds
+07/07/21 (06:29:39) | DEBUG: Init completed in 0.112257 seconds
+07/07/21 (09:50:56) | INFO: New instance of bpytop version 1.0.67 started with pid 64357
+07/07/21 (09:50:56) | INFO: Loglevel set to DEBUG
+07/07/21 (09:50:56) | DEBUG: Using psutil version 5.8.0
+07/07/21 (09:50:56) | DEBUG: CMD: /usr/bin/bpytop
+07/07/21 (09:50:56) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+07/07/21 (09:50:56) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+07/07/21 (09:50:57) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+07/07/21 (09:50:57) | DEBUG: Collect and draw completed in 0.085338 seconds
+07/07/21 (09:50:57) | DEBUG: Init completed in 0.131778 seconds
+07/07/21 (09:51:09) | INFO: New instance of bpytop version 1.0.67 started with pid 64508
+07/07/21 (09:51:09) | INFO: Loglevel set to DEBUG
+07/07/21 (09:51:09) | DEBUG: Using psutil version 5.8.0
+07/07/21 (09:51:09) | DEBUG: CMD: /usr/bin/bpytop
+07/07/21 (09:51:09) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+07/07/21 (09:51:09) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+07/07/21 (09:51:09) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+07/07/21 (09:51:09) | DEBUG: Collect and draw completed in 0.065475 seconds
+07/07/21 (09:51:09) | DEBUG: Init completed in 0.109882 seconds
+08/07/21 (19:44:40) | INFO: New instance of bpytop version 1.0.67 started with pid 181894
+08/07/21 (19:44:40) | INFO: Loglevel set to DEBUG
+08/07/21 (19:44:40) | DEBUG: Using psutil version 5.8.0
+08/07/21 (19:44:40) | DEBUG: CMD: /usr/bin/bpytop
+08/07/21 (19:44:40) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+08/07/21 (19:44:40) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+08/07/21 (19:44:40) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+08/07/21 (19:44:40) | DEBUG: Collect and draw completed in 0.081711 seconds
+08/07/21 (19:44:40) | DEBUG: Init completed in 0.117952 seconds
+09/07/21 (21:14:42) | INFO: New instance of bpytop version 1.0.67 started with pid 259177
+09/07/21 (21:14:42) | INFO: Loglevel set to DEBUG
+09/07/21 (21:14:42) | DEBUG: Using psutil version 5.8.0
+09/07/21 (21:14:42) | DEBUG: CMD: /usr/bin/bpytop
+09/07/21 (21:14:42) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+09/07/21 (21:14:42) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+09/07/21 (21:14:42) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+09/07/21 (21:14:42) | DEBUG: Collect and draw completed in 0.071283 seconds
+09/07/21 (21:14:42) | DEBUG: Init completed in 0.119015 seconds
+09/07/21 (23:11:33) | INFO: New instance of bpytop version 1.0.67 started with pid 274695
+09/07/21 (23:11:33) | INFO: Loglevel set to DEBUG
+09/07/21 (23:11:33) | DEBUG: Using psutil version 5.8.0
+09/07/21 (23:11:33) | DEBUG: CMD: /usr/bin/bpytop
+09/07/21 (23:11:33) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+09/07/21 (23:11:33) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+09/07/21 (23:11:33) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+09/07/21 (23:11:33) | DEBUG: Collect and draw completed in 0.066088 seconds
+09/07/21 (23:11:33) | DEBUG: Init completed in 0.107642 seconds
+13/07/21 (13:52:45) | INFO: New instance of bpytop version 1.0.67 started with pid 103310
+13/07/21 (13:52:45) | INFO: Loglevel set to DEBUG
+13/07/21 (13:52:45) | DEBUG: Using psutil version 5.8.0
+13/07/21 (13:52:45) | DEBUG: CMD: /usr/bin/bpytop
+13/07/21 (13:52:45) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+13/07/21 (13:52:45) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+13/07/21 (13:52:45) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+13/07/21 (13:52:45) | DEBUG: Collect and draw completed in 0.073703 seconds
+13/07/21 (13:52:45) | DEBUG: Init completed in 0.115108 seconds
+13/07/21 (14:11:52) | INFO: New instance of bpytop version 1.0.67 started with pid 105573
+13/07/21 (14:11:52) | INFO: Loglevel set to DEBUG
+13/07/21 (14:11:52) | DEBUG: Using psutil version 5.8.0
+13/07/21 (14:11:52) | DEBUG: CMD: /usr/bin/bpytop
+13/07/21 (14:11:52) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+13/07/21 (14:11:52) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+13/07/21 (14:11:52) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+13/07/21 (14:11:52) | DEBUG: Collect and draw completed in 0.076202 seconds
+13/07/21 (14:11:52) | DEBUG: Init completed in 0.121653 seconds
+13/07/21 (14:17:27) | INFO: New instance of bpytop version 1.0.67 started with pid 106635
+13/07/21 (14:17:27) | INFO: Loglevel set to DEBUG
+13/07/21 (14:17:27) | DEBUG: Using psutil version 5.8.0
+13/07/21 (14:17:27) | DEBUG: CMD: /usr/bin/bpytop
+13/07/21 (14:17:27) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+13/07/21 (14:17:27) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+13/07/21 (14:17:27) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+13/07/21 (14:17:27) | DEBUG: Collect and draw completed in 0.081540 seconds
+13/07/21 (14:17:27) | DEBUG: Init completed in 0.130667 seconds
+13/07/21 (20:35:39) | INFO: New instance of bpytop version 1.0.67 started with pid 146015
+13/07/21 (20:35:39) | INFO: Loglevel set to DEBUG
+13/07/21 (20:35:39) | DEBUG: Using psutil version 5.8.0
+13/07/21 (20:35:39) | DEBUG: CMD: /usr/bin/bpytop
+13/07/21 (20:35:39) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+13/07/21 (20:35:39) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+13/07/21 (20:35:39) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+13/07/21 (20:35:39) | DEBUG: Collect and draw completed in 0.070188 seconds
+13/07/21 (20:35:40) | DEBUG: Init completed in 1.020112 seconds
+14/07/21 (17:36:44) | INFO: New instance of bpytop version 1.0.67 started with pid 223784
+14/07/21 (17:36:44) | INFO: Loglevel set to DEBUG
+14/07/21 (17:36:44) | DEBUG: Using psutil version 5.8.0
+14/07/21 (17:36:44) | DEBUG: CMD: /usr/bin/bpytop
+14/07/21 (17:36:44) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+14/07/21 (17:36:44) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+14/07/21 (17:36:44) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+14/07/21 (17:36:45) | DEBUG: Collect and draw completed in 0.166037 seconds
+14/07/21 (17:36:45) | DEBUG: Init completed in 0.211305 seconds
+14/07/21 (17:42:11) | INFO: New instance of bpytop version 1.0.67 started with pid 224176
+14/07/21 (17:42:11) | INFO: Loglevel set to DEBUG
+14/07/21 (17:42:11) | DEBUG: Using psutil version 5.8.0
+14/07/21 (17:42:11) | DEBUG: CMD: /usr/bin/bpytop
+14/07/21 (17:42:11) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+14/07/21 (17:42:11) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+14/07/21 (17:42:11) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+14/07/21 (17:42:11) | DEBUG: Collect and draw completed in 0.163681 seconds
+14/07/21 (17:42:11) | DEBUG: Init completed in 0.206681 seconds
+15/07/21 (06:40:03) | INFO: New instance of bpytop version 1.0.67 started with pid 254516
+15/07/21 (06:40:03) | INFO: Loglevel set to DEBUG
+15/07/21 (06:40:03) | DEBUG: Using psutil version 5.8.0
+15/07/21 (06:40:03) | DEBUG: CMD: /usr/bin/bpytop
+15/07/21 (06:40:03) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+15/07/21 (06:40:04) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+15/07/21 (06:40:04) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+15/07/21 (06:40:04) | DEBUG: Collect and draw completed in 0.068290 seconds
+15/07/21 (06:40:04) | DEBUG: Init completed in 0.100814 seconds
+16/07/21 (02:50:19) | INFO: New instance of bpytop version 1.0.67 started with pid 317361
+16/07/21 (02:50:19) | INFO: Loglevel set to DEBUG
+16/07/21 (02:50:19) | DEBUG: Using psutil version 5.8.0
+16/07/21 (02:50:19) | DEBUG: CMD: /usr/bin/bpytop
+16/07/21 (02:50:19) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+16/07/21 (02:50:19) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+16/07/21 (02:50:19) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+16/07/21 (02:50:19) | DEBUG: Collect and draw completed in 0.068221 seconds
+16/07/21 (02:50:19) | DEBUG: Init completed in 0.110473 seconds
+16/07/21 (02:50:43) | INFO: New instance of bpytop version 1.0.67 started with pid 317593
+16/07/21 (02:50:43) | INFO: Loglevel set to DEBUG
+16/07/21 (02:50:43) | DEBUG: Using psutil version 5.8.0
+16/07/21 (02:50:43) | DEBUG: CMD: /usr/bin/bpytop
+16/07/21 (02:50:43) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+16/07/21 (02:50:43) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+16/07/21 (02:50:43) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+16/07/21 (02:50:43) | DEBUG: Collect and draw completed in 0.063540 seconds
+16/07/21 (02:50:43) | DEBUG: Init completed in 0.103329 seconds
+16/07/21 (02:51:23) | INFO: New instance of bpytop version 1.0.67 started with pid 317882
+16/07/21 (02:51:23) | INFO: Loglevel set to DEBUG
+16/07/21 (02:51:23) | DEBUG: Using psutil version 5.8.0
+16/07/21 (02:51:23) | DEBUG: CMD: /usr/bin/bpytop
+16/07/21 (02:51:23) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+16/07/21 (02:51:23) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+16/07/21 (02:51:23) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+16/07/21 (02:51:23) | DEBUG: Collect and draw completed in 0.071288 seconds
+16/07/21 (02:51:23) | DEBUG: Init completed in 0.117937 seconds
+16/07/21 (02:52:00) | INFO: New instance of bpytop version 1.0.67 started with pid 318303
+16/07/21 (02:52:00) | INFO: Loglevel set to DEBUG
+16/07/21 (02:52:00) | DEBUG: Using psutil version 5.8.0
+16/07/21 (02:52:00) | DEBUG: CMD: /usr/bin/bpytop
+16/07/21 (02:52:00) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+16/07/21 (02:52:00) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+16/07/21 (02:52:00) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+16/07/21 (02:52:00) | DEBUG: Collect and draw completed in 0.097598 seconds
+16/07/21 (02:52:00) | DEBUG: Init completed in 0.131205 seconds
+16/07/21 (03:06:17) | INFO: New instance of bpytop version 1.0.67 started with pid 321617
+16/07/21 (03:06:17) | INFO: Loglevel set to DEBUG
+16/07/21 (03:06:17) | DEBUG: Using psutil version 5.8.0
+16/07/21 (03:06:17) | DEBUG: CMD: /usr/bin/bpytop
+16/07/21 (03:06:17) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+16/07/21 (03:06:17) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+16/07/21 (03:06:17) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+16/07/21 (03:06:17) | DEBUG: Collect and draw completed in 0.106457 seconds
+16/07/21 (03:06:17) | DEBUG: Init completed in 0.146631 seconds
+16/07/21 (03:06:26) | ERROR: Exception when sending signal 15 to pid 385
+16/07/21 (03:06:26) | ERROR: [Errno 1] Operation not permitted
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 5459, in process_keys
+    os.kill(pid, sig)
+PermissionError: [Errno 1] Operation not permitted
+16/07/21 (03:19:17) | INFO: New instance of bpytop version 1.0.67 started with pid 1875
+16/07/21 (03:19:17) | INFO: Loglevel set to DEBUG
+16/07/21 (03:19:17) | DEBUG: Using psutil version 5.8.0
+16/07/21 (03:19:17) | DEBUG: CMD: /usr/bin/bpytop
+16/07/21 (03:19:17) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+16/07/21 (03:19:17) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+16/07/21 (03:19:18) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+16/07/21 (03:19:18) | DEBUG: Collect and draw completed in 0.094484 seconds
+16/07/21 (03:19:18) | DEBUG: Init completed in 0.131510 seconds
+16/07/21 (03:26:05) | INFO: New instance of bpytop version 1.0.67 started with pid 4483
+16/07/21 (03:26:05) | INFO: Loglevel set to DEBUG
+16/07/21 (03:26:05) | DEBUG: Using psutil version 5.8.0
+16/07/21 (03:26:05) | DEBUG: CMD: /usr/bin/bpytop
+16/07/21 (03:26:05) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+16/07/21 (03:26:05) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+16/07/21 (03:26:05) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+16/07/21 (03:26:05) | DEBUG: Collect and draw completed in 0.060202 seconds
+16/07/21 (03:26:05) | DEBUG: Init completed in 0.174930 seconds
+16/07/21 (03:26:21) | INFO: New instance of bpytop version 1.0.67 started with pid 4635
+16/07/21 (03:26:21) | INFO: Loglevel set to DEBUG
+16/07/21 (03:26:21) | DEBUG: Using psutil version 5.8.0
+16/07/21 (03:26:21) | DEBUG: CMD: /usr/bin/bpytop
+16/07/21 (03:26:21) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+16/07/21 (03:26:21) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+16/07/21 (03:26:22) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+16/07/21 (03:26:22) | DEBUG: Collect and draw completed in 0.107941 seconds
+16/07/21 (03:26:22) | DEBUG: Init completed in 0.219907 seconds
+16/07/21 (03:51:23) | INFO: New instance of bpytop version 1.0.67 started with pid 13157
+16/07/21 (03:51:23) | INFO: Loglevel set to DEBUG
+16/07/21 (03:51:23) | DEBUG: Using psutil version 5.8.0
+16/07/21 (03:51:23) | DEBUG: CMD: /usr/bin/bpytop
+16/07/21 (03:51:23) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+16/07/21 (03:51:23) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+16/07/21 (03:51:23) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+16/07/21 (03:51:23) | DEBUG: Collect and draw completed in 0.105877 seconds
+16/07/21 (03:51:23) | DEBUG: Init completed in 0.227418 seconds
+16/07/21 (04:15:49) | INFO: New instance of bpytop version 1.0.67 started with pid 18506
+16/07/21 (04:15:49) | INFO: Loglevel set to DEBUG
+16/07/21 (04:15:49) | DEBUG: Using psutil version 5.8.0
+16/07/21 (04:15:49) | DEBUG: CMD: /usr/bin/bpytop
+16/07/21 (04:15:49) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+16/07/21 (04:15:49) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+16/07/21 (04:15:49) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+16/07/21 (04:15:49) | DEBUG: Collect and draw completed in 0.210030 seconds
+16/07/21 (04:15:49) | DEBUG: Init completed in 0.315629 seconds
+16/07/21 (04:16:08) | INFO: New instance of bpytop version 1.0.67 started with pid 18582
+16/07/21 (04:16:08) | INFO: Loglevel set to DEBUG
+16/07/21 (04:16:08) | DEBUG: Using psutil version 5.8.0
+16/07/21 (04:16:08) | DEBUG: CMD: /usr/bin/bpytop
+16/07/21 (04:16:08) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+16/07/21 (04:16:08) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+16/07/21 (04:16:08) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+16/07/21 (04:16:08) | DEBUG: Collect and draw completed in 0.118809 seconds
+16/07/21 (04:16:08) | DEBUG: Init completed in 0.167739 seconds
+16/07/21 (04:26:38) | INFO: New instance of bpytop version 1.0.67 started with pid 20536
+16/07/21 (04:26:38) | INFO: Loglevel set to DEBUG
+16/07/21 (04:26:38) | DEBUG: Using psutil version 5.8.0
+16/07/21 (04:26:38) | DEBUG: CMD: /usr/bin/bpytop
+16/07/21 (04:26:38) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+16/07/21 (04:26:38) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+16/07/21 (04:26:38) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+16/07/21 (04:26:38) | DEBUG: Collect and draw completed in 0.173170 seconds
+16/07/21 (04:26:38) | DEBUG: Init completed in 0.224056 seconds
+16/07/21 (11:25:23) | INFO: New instance of bpytop version 1.0.67 started with pid 33273
+16/07/21 (11:25:23) | INFO: Loglevel set to DEBUG
+16/07/21 (11:25:23) | DEBUG: Using psutil version 5.8.0
+16/07/21 (11:25:23) | DEBUG: CMD: /usr/bin/bpytop
+16/07/21 (11:25:23) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+16/07/21 (11:25:23) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+16/07/21 (11:25:23) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+16/07/21 (11:25:23) | DEBUG: Collect and draw completed in 0.160077 seconds
+16/07/21 (11:25:23) | DEBUG: Init completed in 0.204282 seconds
+16/07/21 (12:26:49) | INFO: New instance of bpytop version 1.0.67 started with pid 40249
+16/07/21 (12:26:49) | INFO: Loglevel set to DEBUG
+16/07/21 (12:26:49) | DEBUG: Using psutil version 5.8.0
+16/07/21 (12:26:49) | DEBUG: CMD: /usr/bin/bpytop
+16/07/21 (12:26:49) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+16/07/21 (12:26:49) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+16/07/21 (12:26:49) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+16/07/21 (12:26:49) | DEBUG: Collect and draw completed in 0.060257 seconds
+16/07/21 (12:26:49) | DEBUG: Init completed in 0.092326 seconds
+16/07/21 (12:46:22) | INFO: New instance of bpytop version 1.0.67 started with pid 50289
+16/07/21 (12:46:22) | INFO: Loglevel set to DEBUG
+16/07/21 (12:46:22) | DEBUG: Using psutil version 5.8.0
+16/07/21 (12:46:22) | DEBUG: CMD: /usr/bin/bpytop
+16/07/21 (12:46:22) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+16/07/21 (12:46:22) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+16/07/21 (12:46:23) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+16/07/21 (12:46:23) | DEBUG: Collect and draw completed in 0.168963 seconds
+16/07/21 (12:46:23) | DEBUG: Init completed in 0.208497 seconds
+16/07/21 (20:15:41) | INFO: New instance of bpytop version 1.0.67 started with pid 19102
+16/07/21 (20:15:41) | INFO: Loglevel set to DEBUG
+16/07/21 (20:15:41) | DEBUG: Using psutil version 5.8.0
+16/07/21 (20:15:41) | DEBUG: CMD: /usr/bin/bpytop
+16/07/21 (20:15:41) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+16/07/21 (20:15:41) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+16/07/21 (20:15:41) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+16/07/21 (20:15:41) | DEBUG: Collect and draw completed in 0.070245 seconds
+16/07/21 (20:15:41) | DEBUG: Init completed in 0.113219 seconds
+16/07/21 (21:12:36) | INFO: New instance of bpytop version 1.0.67 started with pid 25240
+16/07/21 (21:12:36) | INFO: Loglevel set to DEBUG
+16/07/21 (21:12:36) | DEBUG: Using psutil version 5.8.0
+16/07/21 (21:12:36) | DEBUG: CMD: /usr/bin/bpytop
+16/07/21 (21:12:36) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+16/07/21 (21:12:37) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+16/07/21 (21:12:37) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+16/07/21 (21:12:37) | DEBUG: Collect and draw completed in 0.151295 seconds
+16/07/21 (21:12:37) | DEBUG: Init completed in 0.195848 seconds
+18/07/21 (14:17:02) | INFO: New instance of bpytop version 1.0.67 started with pid 100469
+18/07/21 (14:17:02) | INFO: Loglevel set to DEBUG
+18/07/21 (14:17:02) | DEBUG: Using psutil version 5.8.0
+18/07/21 (14:17:02) | DEBUG: CMD: /usr/bin/bpytop
+18/07/21 (14:17:02) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+18/07/21 (14:17:02) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+18/07/21 (14:17:02) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+18/07/21 (14:17:03) | DEBUG: Collect and draw completed in 0.120245 seconds
+18/07/21 (14:17:03) | DEBUG: Init completed in 0.162350 seconds
+18/07/21 (14:20:21) | INFO: New instance of bpytop version 1.0.67 started with pid 102441
+18/07/21 (14:20:21) | INFO: Loglevel set to DEBUG
+18/07/21 (14:20:21) | DEBUG: Using psutil version 5.8.0
+18/07/21 (14:20:21) | DEBUG: CMD: /usr/bin/bpytop
+18/07/21 (14:20:21) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+18/07/21 (14:20:21) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+18/07/21 (14:20:21) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+18/07/21 (14:20:21) | DEBUG: Collect and draw completed in 0.072997 seconds
+18/07/21 (14:20:21) | DEBUG: Init completed in 0.114040 seconds
+18/07/21 (14:21:10) | INFO: New instance of bpytop version 1.0.67 started with pid 102911
+18/07/21 (14:21:10) | INFO: Loglevel set to DEBUG
+18/07/21 (14:21:10) | DEBUG: Using psutil version 5.8.0
+18/07/21 (14:21:10) | DEBUG: CMD: /usr/bin/bpytop
+18/07/21 (14:21:10) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+18/07/21 (14:21:10) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+18/07/21 (14:21:10) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+18/07/21 (14:21:10) | DEBUG: Collect and draw completed in 0.070399 seconds
+18/07/21 (14:21:10) | DEBUG: Init completed in 0.111529 seconds
+18/07/21 (14:29:59) | INFO: New instance of bpytop version 1.0.67 started with pid 106962
+18/07/21 (14:29:59) | INFO: Loglevel set to DEBUG
+18/07/21 (14:29:59) | DEBUG: Using psutil version 5.8.0
+18/07/21 (14:29:59) | DEBUG: CMD: /usr/bin/bpytop
+18/07/21 (14:29:59) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+18/07/21 (14:29:59) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+18/07/21 (14:29:59) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+18/07/21 (14:29:59) | DEBUG: Collect and draw completed in 0.073164 seconds
+18/07/21 (14:29:59) | DEBUG: Init completed in 0.116291 seconds
+18/07/21 (14:57:04) | INFO: New instance of bpytop version 1.0.67 started with pid 119884
+18/07/21 (14:57:04) | INFO: Loglevel set to DEBUG
+18/07/21 (14:57:04) | DEBUG: Using psutil version 5.8.0
+18/07/21 (14:57:04) | DEBUG: CMD: /usr/bin/bpytop
+18/07/21 (14:57:04) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+18/07/21 (14:57:04) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+18/07/21 (14:57:05) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+18/07/21 (14:57:05) | DEBUG: Collect and draw completed in 0.071277 seconds
+18/07/21 (14:57:05) | DEBUG: Init completed in 0.112293 seconds
+18/07/21 (23:34:04) | INFO: New instance of bpytop version 1.0.67 started with pid 183531
+18/07/21 (23:34:04) | INFO: Loglevel set to DEBUG
+18/07/21 (23:34:04) | DEBUG: Using psutil version 5.8.0
+18/07/21 (23:34:04) | DEBUG: CMD: /usr/bin/bpytop
+18/07/21 (23:34:04) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+18/07/21 (23:34:04) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+18/07/21 (23:34:04) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+18/07/21 (23:34:04) | DEBUG: Collect and draw completed in 0.165625 seconds
+18/07/21 (23:34:04) | DEBUG: Init completed in 0.215375 seconds
+19/07/21 (01:30:06) | INFO: New instance of bpytop version 1.0.67 started with pid 12640
+19/07/21 (01:30:06) | INFO: Loglevel set to DEBUG
+19/07/21 (01:30:06) | DEBUG: Using psutil version 5.8.0
+19/07/21 (01:30:06) | DEBUG: CMD: /usr/bin/bpytop
+19/07/21 (01:30:06) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+19/07/21 (01:30:06) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+19/07/21 (01:30:06) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+19/07/21 (01:30:07) | DEBUG: Collect and draw completed in 0.163485 seconds
+19/07/21 (01:30:07) | DEBUG: Init completed in 0.209033 seconds
+19/07/21 (01:32:40) | INFO: New instance of bpytop version 1.0.67 started with pid 13902
+19/07/21 (01:32:40) | INFO: Loglevel set to DEBUG
+19/07/21 (01:32:40) | DEBUG: Using psutil version 5.8.0
+19/07/21 (01:32:40) | DEBUG: CMD: /usr/bin/bpytop
+19/07/21 (01:32:40) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+19/07/21 (01:32:40) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+19/07/21 (01:32:41) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+19/07/21 (01:32:41) | DEBUG: Collect and draw completed in 0.060820 seconds
+19/07/21 (01:32:41) | DEBUG: Init completed in 0.124940 seconds
+19/07/21 (14:42:16) | INFO: New instance of bpytop version 1.0.67 started with pid 13283
+19/07/21 (14:42:16) | INFO: Loglevel set to DEBUG
+19/07/21 (14:42:16) | DEBUG: Using psutil version 5.8.0
+19/07/21 (14:42:16) | DEBUG: CMD: /usr/bin/bpytop
+19/07/21 (14:42:16) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+19/07/21 (14:42:16) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+19/07/21 (14:42:16) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+19/07/21 (14:42:16) | DEBUG: Collect and draw completed in 0.069791 seconds
+19/07/21 (14:42:16) | DEBUG: Init completed in 0.114151 seconds
+19/07/21 (14:46:20) | INFO: New instance of bpytop version 1.0.67 started with pid 13969
+19/07/21 (14:46:20) | INFO: Loglevel set to DEBUG
+19/07/21 (14:46:20) | DEBUG: Using psutil version 5.8.0
+19/07/21 (14:46:20) | DEBUG: CMD: /usr/bin/bpytop
+19/07/21 (14:46:20) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+19/07/21 (14:46:20) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+19/07/21 (14:46:20) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+19/07/21 (14:46:20) | DEBUG: Collect and draw completed in 0.065584 seconds
+19/07/21 (14:46:20) | DEBUG: Init completed in 0.129300 seconds
+19/07/21 (15:38:30) | INFO: New instance of bpytop version 1.0.67 started with pid 20928
+19/07/21 (15:38:30) | INFO: Loglevel set to DEBUG
+19/07/21 (15:38:30) | DEBUG: Using psutil version 5.8.0
+19/07/21 (15:38:30) | DEBUG: CMD: /usr/bin/bpytop
+19/07/21 (15:38:30) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+19/07/21 (15:38:30) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+19/07/21 (15:38:30) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+19/07/21 (15:38:30) | DEBUG: Collect and draw completed in 0.123429 seconds
+19/07/21 (15:38:30) | DEBUG: Init completed in 0.169972 seconds
+19/07/21 (18:09:08) | INFO: New instance of bpytop version 1.0.67 started with pid 38868
+19/07/21 (18:09:08) | INFO: Loglevel set to DEBUG
+19/07/21 (18:09:08) | DEBUG: Using psutil version 5.8.0
+19/07/21 (18:09:08) | DEBUG: CMD: /usr/bin/bpytop
+19/07/21 (18:09:08) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+19/07/21 (18:09:08) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+19/07/21 (18:09:08) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+19/07/21 (18:09:08) | DEBUG: Collect and draw completed in 0.067328 seconds
+19/07/21 (18:09:08) | DEBUG: Init completed in 0.110723 seconds
+23/07/21 (10:39:56) | INFO: New instance of bpytop version 1.0.67 started with pid 25019
+23/07/21 (10:39:56) | INFO: Loglevel set to DEBUG
+23/07/21 (10:39:56) | DEBUG: Using psutil version 5.8.0
+23/07/21 (10:39:56) | DEBUG: CMD: /usr/bin/bpytop
+23/07/21 (10:39:56) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+23/07/21 (10:39:56) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+23/07/21 (10:39:56) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+23/07/21 (10:39:56) | DEBUG: Collect and draw completed in 0.075397 seconds
+23/07/21 (10:39:56) | DEBUG: Init completed in 0.166557 seconds
+23/07/21 (10:39:58) | INFO: New instance of bpytop version 1.0.67 started with pid 25051
+23/07/21 (10:39:58) | INFO: Loglevel set to DEBUG
+23/07/21 (10:39:58) | DEBUG: Using psutil version 5.8.0
+23/07/21 (10:39:58) | DEBUG: CMD: /usr/bin/bpytop
+23/07/21 (10:39:58) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+23/07/21 (10:39:58) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+23/07/21 (10:39:58) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+23/07/21 (10:39:58) | DEBUG: Collect and draw completed in 0.063108 seconds
+23/07/21 (10:39:58) | DEBUG: Init completed in 0.105478 seconds
+23/07/21 (10:40:00) | INFO: New instance of bpytop version 1.0.67 started with pid 25077
+23/07/21 (10:40:00) | INFO: Loglevel set to DEBUG
+23/07/21 (10:40:00) | DEBUG: Using psutil version 5.8.0
+23/07/21 (10:40:00) | DEBUG: CMD: /usr/bin/bpytop
+23/07/21 (10:40:00) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+23/07/21 (10:40:00) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+23/07/21 (10:40:00) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+23/07/21 (10:40:00) | DEBUG: Collect and draw completed in 0.066407 seconds
+23/07/21 (10:40:00) | DEBUG: Init completed in 0.115544 seconds
+23/07/21 (10:46:46) | INFO: New instance of bpytop version 1.0.67 started with pid 26103
+23/07/21 (10:46:46) | INFO: Loglevel set to DEBUG
+23/07/21 (10:46:46) | DEBUG: Using psutil version 5.8.0
+23/07/21 (10:46:46) | DEBUG: CMD: /usr/bin/bpytop
+23/07/21 (10:46:46) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+23/07/21 (10:46:46) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+23/07/21 (10:46:46) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+23/07/21 (10:46:46) | DEBUG: Collect and draw completed in 0.076506 seconds
+23/07/21 (10:46:46) | DEBUG: Init completed in 0.143305 seconds
+26/07/21 (11:22:57) | INFO: New instance of bpytop version 1.0.67 started with pid 92560
+26/07/21 (11:22:57) | INFO: Loglevel set to DEBUG
+26/07/21 (11:22:57) | DEBUG: Using psutil version 5.8.0
+26/07/21 (11:22:57) | DEBUG: CMD: /usr/bin/bpytop
+26/07/21 (11:22:57) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+26/07/21 (11:22:57) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+26/07/21 (11:22:57) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+26/07/21 (11:22:58) | DEBUG: Collect and draw completed in 0.158883 seconds
+26/07/21 (11:22:58) | DEBUG: Init completed in 0.214026 seconds
+27/07/21 (09:50:26) | INFO: New instance of bpytop version 1.0.67 started with pid 143913
+27/07/21 (09:50:26) | INFO: Loglevel set to DEBUG
+27/07/21 (09:50:26) | DEBUG: Using psutil version 5.8.0
+27/07/21 (09:50:26) | DEBUG: CMD: /usr/bin/bpytop
+27/07/21 (09:50:26) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+27/07/21 (09:50:26) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+27/07/21 (09:50:26) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+27/07/21 (09:50:26) | DEBUG: Collect and draw completed in 0.182414 seconds
+27/07/21 (09:50:26) | DEBUG: Init completed in 0.234772 seconds
+27/07/21 (11:16:16) | INFO: New instance of bpytop version 1.0.67 started with pid 158190
+27/07/21 (11:16:16) | INFO: Loglevel set to DEBUG
+27/07/21 (11:16:16) | DEBUG: Using psutil version 5.8.0
+27/07/21 (11:16:16) | DEBUG: CMD: /usr/bin/bpytop
+27/07/21 (11:16:16) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+27/07/21 (11:16:16) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+27/07/21 (11:16:16) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+27/07/21 (11:16:17) | DEBUG: Collect and draw completed in 0.141564 seconds
+27/07/21 (11:16:17) | DEBUG: Init completed in 0.185233 seconds
+27/07/21 (11:17:03) | INFO: New instance of bpytop version 1.0.67 started with pid 158476
+27/07/21 (11:17:03) | INFO: Loglevel set to DEBUG
+27/07/21 (11:17:03) | DEBUG: Using psutil version 5.8.0
+27/07/21 (11:17:03) | DEBUG: CMD: /usr/bin/bpytop
+27/07/21 (11:17:03) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+27/07/21 (11:17:03) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+27/07/21 (11:17:03) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+27/07/21 (11:17:03) | DEBUG: Collect and draw completed in 0.141668 seconds
+27/07/21 (11:17:03) | DEBUG: Init completed in 0.186085 seconds
+27/07/21 (11:17:19) | ERROR: Exception when sending signal 15 to pid 386
+27/07/21 (11:17:19) | ERROR: [Errno 1] Operation not permitted
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 5459, in process_keys
+    os.kill(pid, sig)
+PermissionError: [Errno 1] Operation not permitted
+27/07/21 (11:37:12) | INFO: New instance of bpytop version 1.0.67 started with pid 162971
+27/07/21 (11:37:12) | INFO: Loglevel set to DEBUG
+27/07/21 (11:37:12) | DEBUG: Using psutil version 5.8.0
+27/07/21 (11:37:12) | DEBUG: CMD: /usr/bin/bpytop
+27/07/21 (11:37:12) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+27/07/21 (11:37:12) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+27/07/21 (11:37:12) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+27/07/21 (11:37:12) | DEBUG: Collect and draw completed in 0.084477 seconds
+27/07/21 (11:37:12) | DEBUG: Init completed in 0.152702 seconds
+27/07/21 (14:34:31) | INFO: New instance of bpytop version 1.0.67 started with pid 190093
+27/07/21 (14:34:31) | INFO: Loglevel set to DEBUG
+27/07/21 (14:34:31) | DEBUG: Using psutil version 5.8.0
+27/07/21 (14:34:31) | DEBUG: CMD: /usr/bin/bpytop
+27/07/21 (14:34:31) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+27/07/21 (14:34:31) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+27/07/21 (14:34:31) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+27/07/21 (14:34:31) | DEBUG: Collect and draw completed in 0.180386 seconds
+27/07/21 (14:34:31) | DEBUG: Init completed in 0.224454 seconds
+28/07/21 (13:36:11) | INFO: New instance of bpytop version 1.0.67 started with pid 11661
+28/07/21 (13:36:11) | INFO: Loglevel set to DEBUG
+28/07/21 (13:36:11) | DEBUG: Using psutil version 5.8.0
+28/07/21 (13:36:11) | DEBUG: CMD: /usr/bin/bpytop
+28/07/21 (13:36:11) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+28/07/21 (13:36:11) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+28/07/21 (13:36:11) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+28/07/21 (13:36:11) | DEBUG: Collect and draw completed in 0.073186 seconds
+28/07/21 (13:36:11) | DEBUG: Init completed in 0.115023 seconds
+29/07/21 (16:09:15) | INFO: New instance of bpytop version 1.0.67 started with pid 99358
+29/07/21 (16:09:15) | INFO: Loglevel set to DEBUG
+29/07/21 (16:09:15) | DEBUG: Using psutil version 5.8.0
+29/07/21 (16:09:15) | DEBUG: CMD: /usr/bin/bpytop
+29/07/21 (16:09:15) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+29/07/21 (16:09:15) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+29/07/21 (16:09:15) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+29/07/21 (16:09:15) | DEBUG: Collect and draw completed in 0.082985 seconds
+29/07/21 (16:09:15) | DEBUG: Init completed in 0.129471 seconds
+02/08/21 (10:01:13) | INFO: New instance of bpytop version 1.0.67 started with pid 263945
+02/08/21 (10:01:13) | INFO: Loglevel set to DEBUG
+02/08/21 (10:01:13) | DEBUG: Using psutil version 5.8.0
+02/08/21 (10:01:13) | DEBUG: CMD: /usr/bin/bpytop
+02/08/21 (10:01:13) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+02/08/21 (10:01:13) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+02/08/21 (10:01:13) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+02/08/21 (10:01:13) | DEBUG: Collect and draw completed in 0.080203 seconds
+02/08/21 (10:01:13) | DEBUG: Init completed in 0.125194 seconds
+02/08/21 (19:33:05) | INFO: New instance of bpytop version 1.0.67 started with pid 29998
+02/08/21 (19:33:05) | INFO: Loglevel set to DEBUG
+02/08/21 (19:33:05) | DEBUG: Using psutil version 5.8.0
+02/08/21 (19:33:05) | DEBUG: CMD: /usr/bin/bpytop
+02/08/21 (19:33:05) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+02/08/21 (19:33:05) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+02/08/21 (19:33:05) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+02/08/21 (19:33:05) | DEBUG: Collect and draw completed in 0.169362 seconds
+02/08/21 (19:33:05) | DEBUG: Init completed in 0.221909 seconds
+03/08/21 (16:51:41) | INFO: New instance of bpytop version 1.0.67 started with pid 74898
+03/08/21 (16:51:41) | INFO: Loglevel set to DEBUG
+03/08/21 (16:51:41) | DEBUG: Using psutil version 5.8.0
+03/08/21 (16:51:41) | DEBUG: CMD: /usr/bin/bpytop
+03/08/21 (16:51:41) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+03/08/21 (16:51:41) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+03/08/21 (16:51:41) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+03/08/21 (16:51:41) | DEBUG: Collect and draw completed in 0.092700 seconds
+03/08/21 (16:51:41) | DEBUG: Init completed in 0.130954 seconds
+05/08/21 (12:56:20) | INFO: New instance of bpytop version 1.0.67 started with pid 184474
+05/08/21 (12:56:20) | INFO: Loglevel set to DEBUG
+05/08/21 (12:56:20) | DEBUG: Using psutil version 5.8.0
+05/08/21 (12:56:20) | DEBUG: CMD: /usr/bin/bpytop
+05/08/21 (12:56:20) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+05/08/21 (12:56:20) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+05/08/21 (12:56:20) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+05/08/21 (12:56:20) | DEBUG: Collect and draw completed in 0.067259 seconds
+05/08/21 (12:56:20) | DEBUG: Init completed in 0.113354 seconds
+05/08/21 (15:21:18) | INFO: New instance of bpytop version 1.0.67 started with pid 194709
+05/08/21 (15:21:18) | INFO: Loglevel set to DEBUG
+05/08/21 (15:21:18) | DEBUG: Using psutil version 5.8.0
+05/08/21 (15:21:18) | DEBUG: CMD: /usr/bin/bpytop
+05/08/21 (15:21:18) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+05/08/21 (15:21:18) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+05/08/21 (15:21:18) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+05/08/21 (15:21:18) | DEBUG: Collect and draw completed in 0.081347 seconds
+05/08/21 (15:21:18) | DEBUG: Init completed in 0.124645 seconds
+06/08/21 (15:49:30) | INFO: New instance of bpytop version 1.0.67 started with pid 27344
+06/08/21 (15:49:30) | INFO: Loglevel set to DEBUG
+06/08/21 (15:49:30) | DEBUG: Using psutil version 5.8.0
+06/08/21 (15:49:30) | DEBUG: CMD: /usr/bin/bpytop
+06/08/21 (15:49:30) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+06/08/21 (15:49:30) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+06/08/21 (15:49:30) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+06/08/21 (15:49:30) | DEBUG: Collect and draw completed in 0.098617 seconds
+06/08/21 (15:49:30) | DEBUG: Init completed in 0.137157 seconds
+06/08/21 (15:54:43) | INFO: New instance of bpytop version 1.0.67 started with pid 28617
+06/08/21 (15:54:43) | INFO: Loglevel set to DEBUG
+06/08/21 (15:54:43) | DEBUG: Using psutil version 5.8.0
+06/08/21 (15:54:43) | DEBUG: CMD: /usr/bin/bpytop
+06/08/21 (15:54:43) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+06/08/21 (15:54:43) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+06/08/21 (15:54:43) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+06/08/21 (15:54:43) | DEBUG: Collect and draw completed in 0.090299 seconds
+06/08/21 (15:54:43) | DEBUG: Init completed in 0.133583 seconds
+07/08/21 (12:15:01) | INFO: New instance of bpytop version 1.0.67 started with pid 10831
+07/08/21 (12:15:01) | INFO: Loglevel set to DEBUG
+07/08/21 (12:15:01) | DEBUG: Using psutil version 5.8.0
+07/08/21 (12:15:01) | DEBUG: CMD: /usr/bin/bpytop
+07/08/21 (12:15:01) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+07/08/21 (12:15:01) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+07/08/21 (12:15:01) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+07/08/21 (12:15:01) | DEBUG: Collect and draw completed in 0.163561 seconds
+07/08/21 (12:15:01) | DEBUG: Init completed in 0.212143 seconds
+07/08/21 (12:37:51) | INFO: New instance of bpytop version 1.0.67 started with pid 12680
+07/08/21 (12:37:51) | INFO: Loglevel set to DEBUG
+07/08/21 (12:37:51) | DEBUG: Using psutil version 5.8.0
+07/08/21 (12:37:51) | DEBUG: CMD: /usr/bin/bpytop
+07/08/21 (12:37:51) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+07/08/21 (12:37:51) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+07/08/21 (12:37:51) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+07/08/21 (12:37:51) | DEBUG: Collect and draw completed in 0.097558 seconds
+07/08/21 (12:37:51) | DEBUG: Init completed in 0.138434 seconds
+10/08/21 (11:00:57) | INFO: New instance of bpytop version 1.0.67 started with pid 25095
+10/08/21 (11:00:57) | INFO: Loglevel set to DEBUG
+10/08/21 (11:00:57) | DEBUG: Using psutil version 5.8.0
+10/08/21 (11:00:57) | DEBUG: CMD: /usr/bin/bpytop
+10/08/21 (11:00:57) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+10/08/21 (11:00:57) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+10/08/21 (11:00:57) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+10/08/21 (11:00:57) | DEBUG: Collect and draw completed in 0.152659 seconds
+10/08/21 (11:00:57) | DEBUG: Init completed in 0.184034 seconds
+10/08/21 (11:02:10) | INFO: New instance of bpytop version 1.0.67 started with pid 26596
+10/08/21 (11:02:10) | INFO: Loglevel set to DEBUG
+10/08/21 (11:02:10) | DEBUG: Using psutil version 5.8.0
+10/08/21 (11:02:10) | DEBUG: CMD: /usr/bin/bpytop
+10/08/21 (11:02:10) | INFO: Config file version and bpytop version missmatch, will be recreated on exit!
+10/08/21 (11:02:10) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+10/08/21 (11:02:10) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+10/08/21 (11:02:10) | DEBUG: Collect and draw completed in 0.095080 seconds
+10/08/21 (11:02:10) | DEBUG: Init completed in 0.135292 seconds
+10/08/21 (11:02:44) | INFO: Exiting. Runtime 0:00:34 
+
+11/08/21 (12:05:47) | INFO: New instance of bpytop version 1.0.67 started with pid 40926
+11/08/21 (12:05:47) | INFO: Loglevel set to DEBUG
+11/08/21 (12:05:47) | DEBUG: Using psutil version 5.8.0
+11/08/21 (12:05:47) | DEBUG: CMD: /usr/bin/bpytop
+11/08/21 (12:05:47) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+11/08/21 (12:05:47) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+11/08/21 (12:05:47) | DEBUG: Collect and draw completed in 0.069123 seconds
+11/08/21 (12:05:47) | DEBUG: Init completed in 0.114537 seconds
+11/08/21 (14:29:56) | INFO: New instance of bpytop version 1.0.67 started with pid 57200
+11/08/21 (14:29:56) | INFO: Loglevel set to DEBUG
+11/08/21 (14:29:56) | DEBUG: Using psutil version 5.8.0
+11/08/21 (14:29:56) | DEBUG: CMD: /usr/bin/bpytop
+11/08/21 (14:29:56) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+11/08/21 (14:29:56) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+11/08/21 (14:29:56) | DEBUG: Collect and draw completed in 0.069639 seconds
+11/08/21 (14:29:56) | DEBUG: Init completed in 0.116304 seconds
+11/08/21 (14:30:10) | INFO: New instance of bpytop version 1.0.67 started with pid 57497
+11/08/21 (14:30:10) | INFO: Loglevel set to DEBUG
+11/08/21 (14:30:10) | DEBUG: Using psutil version 5.8.0
+11/08/21 (14:30:10) | DEBUG: CMD: /usr/bin/bpytop
+11/08/21 (14:30:10) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+11/08/21 (14:30:10) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+11/08/21 (14:30:10) | DEBUG: Collect and draw completed in 0.069968 seconds
+11/08/21 (14:30:10) | DEBUG: Init completed in 0.115352 seconds
+11/08/21 (19:26:46) | INFO: New instance of bpytop version 1.0.67 started with pid 84217
+11/08/21 (19:26:46) | INFO: Loglevel set to DEBUG
+11/08/21 (19:26:46) | DEBUG: Using psutil version 5.8.0
+11/08/21 (19:26:46) | DEBUG: CMD: /usr/bin/bpytop
+11/08/21 (19:26:46) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+11/08/21 (19:26:46) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+11/08/21 (19:26:46) | DEBUG: Collect and draw completed in 0.112053 seconds
+11/08/21 (19:26:46) | DEBUG: Init completed in 0.155076 seconds
+11/08/21 (19:32:27) | INFO: New instance of bpytop version 1.0.67 started with pid 86603
+11/08/21 (19:32:27) | INFO: Loglevel set to DEBUG
+11/08/21 (19:32:27) | DEBUG: Using psutil version 5.8.0
+11/08/21 (19:32:27) | DEBUG: CMD: /usr/bin/bpytop
+11/08/21 (19:32:27) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+11/08/21 (19:32:27) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+11/08/21 (19:32:27) | DEBUG: Collect and draw completed in 0.091755 seconds
+11/08/21 (19:32:27) | DEBUG: Init completed in 0.138008 seconds
+12/08/21 (19:49:33) | INFO: New instance of bpytop version 1.0.67 started with pid 5462
+12/08/21 (19:49:33) | INFO: Loglevel set to DEBUG
+12/08/21 (19:49:33) | DEBUG: Using psutil version 5.8.0
+12/08/21 (19:49:33) | DEBUG: CMD: /usr/bin/bpytop
+12/08/21 (19:49:33) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+12/08/21 (19:49:33) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+12/08/21 (19:49:33) | DEBUG: Collect and draw completed in 0.066159 seconds
+12/08/21 (19:49:33) | DEBUG: Init completed in 0.097239 seconds
+14/08/21 (21:17:43) | INFO: New instance of bpytop version 1.0.67 started with pid 144934
+14/08/21 (21:17:43) | INFO: Loglevel set to DEBUG
+14/08/21 (21:17:43) | DEBUG: Using psutil version 5.8.0
+14/08/21 (21:17:43) | DEBUG: CMD: /usr/bin/bpytop
+14/08/21 (21:17:43) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+14/08/21 (21:17:43) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+14/08/21 (21:17:43) | DEBUG: Collect and draw completed in 0.137993 seconds
+14/08/21 (21:17:43) | DEBUG: Init completed in 0.179412 seconds
+14/08/21 (22:57:24) | INFO: New instance of bpytop version 1.0.67 started with pid 153539
+14/08/21 (22:57:24) | INFO: Loglevel set to DEBUG
+14/08/21 (22:57:24) | DEBUG: Using psutil version 5.8.0
+14/08/21 (22:57:24) | DEBUG: CMD: /usr/bin/bpytop
+14/08/21 (22:57:24) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+14/08/21 (22:57:24) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+14/08/21 (22:57:24) | DEBUG: Collect and draw completed in 0.158403 seconds
+14/08/21 (22:57:25) | DEBUG: Init completed in 0.204916 seconds
+16/08/21 (11:24:53) | INFO: New instance of bpytop version 1.0.67 started with pid 5689
+16/08/21 (11:24:53) | INFO: Loglevel set to DEBUG
+16/08/21 (11:24:53) | DEBUG: Using psutil version 5.8.0
+16/08/21 (11:24:53) | DEBUG: CMD: /usr/bin/bpytop
+16/08/21 (11:24:53) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+16/08/21 (11:24:53) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+16/08/21 (11:24:53) | DEBUG: Collect and draw completed in 0.157588 seconds
+16/08/21 (11:24:53) | DEBUG: Init completed in 0.205111 seconds
+16/08/21 (13:33:42) | INFO: New instance of bpytop version 1.0.67 started with pid 10391
+16/08/21 (13:33:42) | INFO: Loglevel set to DEBUG
+16/08/21 (13:33:42) | DEBUG: Using psutil version 5.8.0
+16/08/21 (13:33:42) | DEBUG: CMD: /usr/bin/bpytop
+16/08/21 (13:33:42) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+16/08/21 (13:33:42) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+16/08/21 (13:33:42) | DEBUG: Collect and draw completed in 0.111316 seconds
+16/08/21 (13:33:43) | DEBUG: Init completed in 0.153068 seconds
+16/08/21 (13:34:17) | INFO: New instance of bpytop version 1.0.67 started with pid 10587
+16/08/21 (13:34:17) | INFO: Loglevel set to DEBUG
+16/08/21 (13:34:17) | DEBUG: Using psutil version 5.8.0
+16/08/21 (13:34:17) | DEBUG: CMD: /usr/bin/bpytop
+16/08/21 (13:34:17) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+16/08/21 (13:34:17) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+16/08/21 (13:34:17) | DEBUG: Collect and draw completed in 0.177683 seconds
+16/08/21 (13:34:20) | DEBUG: Init completed in 3.352599 seconds
+16/08/21 (17:03:49) | INFO: New instance of bpytop version 1.0.67 started with pid 28876
+16/08/21 (17:03:49) | INFO: Loglevel set to DEBUG
+16/08/21 (17:03:49) | DEBUG: Using psutil version 5.8.0
+16/08/21 (17:03:49) | DEBUG: CMD: /usr/bin/bpytop
+16/08/21 (17:03:49) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+16/08/21 (17:03:49) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+16/08/21 (17:03:49) | DEBUG: Collect and draw completed in 0.092919 seconds
+16/08/21 (17:03:49) | DEBUG: Init completed in 0.134452 seconds
+16/08/21 (18:16:43) | INFO: New instance of bpytop version 1.0.67 started with pid 36258
+16/08/21 (18:16:43) | INFO: Loglevel set to DEBUG
+16/08/21 (18:16:43) | DEBUG: Using psutil version 5.8.0
+16/08/21 (18:16:43) | DEBUG: CMD: /usr/bin/bpytop
+16/08/21 (18:16:43) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+16/08/21 (18:16:43) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+16/08/21 (18:16:43) | DEBUG: Collect and draw completed in 0.070874 seconds
+16/08/21 (18:16:43) | DEBUG: Init completed in 0.112283 seconds
+16/08/21 (18:32:50) | INFO: New instance of bpytop version 1.0.67 started with pid 38196
+16/08/21 (18:32:50) | INFO: Loglevel set to DEBUG
+16/08/21 (18:32:50) | DEBUG: Using psutil version 5.8.0
+16/08/21 (18:32:50) | DEBUG: CMD: /usr/bin/bpytop
+16/08/21 (18:32:50) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+16/08/21 (18:32:50) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+16/08/21 (18:32:50) | DEBUG: Collect and draw completed in 0.156666 seconds
+16/08/21 (18:32:50) | DEBUG: Init completed in 0.257206 seconds
+19/08/21 (09:44:36) | INFO: New instance of bpytop version 1.0.67 started with pid 191674
+19/08/21 (09:44:36) | INFO: Loglevel set to DEBUG
+19/08/21 (09:44:36) | DEBUG: Using psutil version 5.8.0
+19/08/21 (09:44:36) | DEBUG: CMD: /usr/bin/bpytop
+19/08/21 (09:44:36) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+19/08/21 (09:44:37) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+19/08/21 (09:44:37) | DEBUG: Collect and draw completed in 0.151842 seconds
+19/08/21 (09:44:37) | DEBUG: Init completed in 0.287863 seconds
+20/08/21 (05:27:20) | INFO: New instance of bpytop version 1.0.67 started with pid 47239
+20/08/21 (05:27:20) | INFO: Loglevel set to DEBUG
+20/08/21 (05:27:20) | DEBUG: Using psutil version 5.8.0
+20/08/21 (05:27:20) | DEBUG: CMD: /usr/bin/bpytop
+20/08/21 (05:27:20) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+20/08/21 (05:27:20) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+20/08/21 (05:27:20) | DEBUG: Collect and draw completed in 0.189045 seconds
+20/08/21 (05:27:20) | DEBUG: Init completed in 0.238727 seconds
+22/08/21 (14:26:11) | INFO: New instance of bpytop version 1.0.67 started with pid 112806
+22/08/21 (14:26:11) | INFO: Loglevel set to DEBUG
+22/08/21 (14:26:11) | DEBUG: Using psutil version 5.8.0
+22/08/21 (14:26:11) | DEBUG: CMD: /usr/bin/bpytop
+22/08/21 (14:26:11) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+22/08/21 (14:26:12) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+22/08/21 (14:26:12) | DEBUG: Collect and draw completed in 0.175902 seconds
+22/08/21 (14:26:12) | DEBUG: Init completed in 0.223528 seconds
+22/08/21 (15:30:44) | INFO: New instance of bpytop version 1.0.67 started with pid 119011
+22/08/21 (15:30:44) | INFO: Loglevel set to DEBUG
+22/08/21 (15:30:44) | DEBUG: Using psutil version 5.8.0
+22/08/21 (15:30:44) | DEBUG: CMD: /usr/bin/bpytop
+22/08/21 (15:30:44) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+22/08/21 (15:30:44) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+22/08/21 (15:30:44) | DEBUG: Collect and draw completed in 0.087279 seconds
+22/08/21 (15:30:44) | DEBUG: Init completed in 0.133292 seconds
+22/08/21 (19:00:18) | INFO: New instance of bpytop version 1.0.67 started with pid 137878
+22/08/21 (19:00:18) | INFO: Loglevel set to DEBUG
+22/08/21 (19:00:18) | DEBUG: Using psutil version 5.8.0
+22/08/21 (19:00:18) | DEBUG: CMD: /usr/bin/bpytop
+22/08/21 (19:00:18) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+22/08/21 (19:00:18) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+22/08/21 (19:00:18) | DEBUG: Collect and draw completed in 0.080679 seconds
+22/08/21 (19:00:18) | DEBUG: Init completed in 0.130806 seconds
+22/08/21 (19:01:20) | INFO: New instance of bpytop version 1.0.67 started with pid 138503
+22/08/21 (19:01:20) | INFO: Loglevel set to DEBUG
+22/08/21 (19:01:20) | DEBUG: Using psutil version 5.8.0
+22/08/21 (19:01:20) | DEBUG: CMD: /usr/bin/bpytop
+22/08/21 (19:01:21) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+22/08/21 (19:01:21) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+22/08/21 (19:01:21) | DEBUG: Collect and draw completed in 0.109972 seconds
+22/08/21 (19:01:21) | DEBUG: Init completed in 0.154858 seconds
+22/08/21 (19:03:56) | INFO: New instance of bpytop version 1.0.67 started with pid 138882
+22/08/21 (19:03:56) | INFO: Loglevel set to DEBUG
+22/08/21 (19:03:56) | DEBUG: Using psutil version 5.8.0
+22/08/21 (19:03:56) | DEBUG: CMD: /usr/bin/bpytop
+22/08/21 (19:03:56) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+22/08/21 (19:03:56) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+22/08/21 (19:03:56) | DEBUG: Collect and draw completed in 0.238646 seconds
+22/08/21 (19:03:56) | DEBUG: Init completed in 0.527366 seconds
+22/08/21 (19:31:35) | INFO: New instance of bpytop version 1.0.67 started with pid 144413
+22/08/21 (19:31:35) | INFO: Loglevel set to DEBUG
+22/08/21 (19:31:35) | DEBUG: Using psutil version 5.8.0
+22/08/21 (19:31:35) | DEBUG: CMD: /usr/bin/bpytop
+22/08/21 (19:31:35) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+22/08/21 (19:31:35) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+22/08/21 (19:31:36) | DEBUG: Collect and draw completed in 0.083017 seconds
+22/08/21 (19:31:36) | DEBUG: Init completed in 0.115492 seconds
+23/08/21 (18:16:24) | INFO: New instance of bpytop version 1.0.67 started with pid 224985
+23/08/21 (18:16:24) | INFO: Loglevel set to DEBUG
+23/08/21 (18:16:24) | DEBUG: Using psutil version 5.8.0
+23/08/21 (18:16:24) | DEBUG: CMD: /usr/bin/bpytop
+23/08/21 (18:16:24) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+23/08/21 (18:16:24) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+23/08/21 (18:16:24) | DEBUG: Collect and draw completed in 0.142855 seconds
+23/08/21 (18:16:24) | DEBUG: Init completed in 0.199694 seconds
+23/08/21 (18:16:51) | INFO: New instance of bpytop version 1.0.67 started with pid 225117
+23/08/21 (18:16:51) | INFO: Loglevel set to DEBUG
+23/08/21 (18:16:51) | DEBUG: Using psutil version 5.8.0
+23/08/21 (18:16:51) | DEBUG: CMD: /usr/bin/bpytop
+23/08/21 (18:16:51) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+23/08/21 (18:16:52) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+23/08/21 (18:16:52) | DEBUG: Collect and draw completed in 0.084204 seconds
+23/08/21 (18:16:52) | DEBUG: Init completed in 0.127154 seconds
+25/08/21 (20:12:28) | INFO: New instance of bpytop version 1.0.67 started with pid 35706
+25/08/21 (20:12:28) | INFO: Loglevel set to DEBUG
+25/08/21 (20:12:28) | DEBUG: Using psutil version 5.8.0
+25/08/21 (20:12:28) | DEBUG: CMD: /usr/bin/bpytop
+25/08/21 (20:12:28) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+25/08/21 (20:12:28) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+25/08/21 (20:12:28) | DEBUG: Collect and draw completed in 0.173087 seconds
+25/08/21 (20:12:28) | DEBUG: Init completed in 0.218080 seconds
+26/08/21 (19:46:43) | INFO: New instance of bpytop version 1.0.67 started with pid 90311
+26/08/21 (19:46:43) | INFO: Loglevel set to DEBUG
+26/08/21 (19:46:43) | DEBUG: Using psutil version 5.8.0
+26/08/21 (19:46:43) | DEBUG: CMD: /usr/bin/bpytop
+26/08/21 (19:46:43) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+26/08/21 (19:46:44) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+26/08/21 (19:46:44) | DEBUG: Collect and draw completed in 0.196677 seconds
+26/08/21 (19:46:44) | DEBUG: Init completed in 0.239285 seconds
+26/08/21 (19:46:46) | INFO: New instance of bpytop version 1.0.67 started with pid 90530
+26/08/21 (19:46:46) | INFO: Loglevel set to DEBUG
+26/08/21 (19:46:46) | DEBUG: Using psutil version 5.8.0
+26/08/21 (19:46:46) | DEBUG: CMD: /usr/bin/bpytop
+26/08/21 (19:46:46) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+26/08/21 (19:46:46) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+26/08/21 (19:46:46) | DEBUG: Collect and draw completed in 0.117932 seconds
+26/08/21 (19:46:46) | DEBUG: Init completed in 0.168565 seconds
+27/08/21 (02:38:45) | INFO: New instance of bpytop version 1.0.67 started with pid 120132
+27/08/21 (02:38:45) | INFO: Loglevel set to DEBUG
+27/08/21 (02:38:45) | DEBUG: Using psutil version 5.8.0
+27/08/21 (02:38:45) | DEBUG: CMD: /usr/bin/bpytop
+27/08/21 (02:38:46) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+27/08/21 (02:38:46) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+27/08/21 (02:38:46) | DEBUG: Collect and draw completed in 0.173727 seconds
+27/08/21 (02:38:46) | DEBUG: Init completed in 0.835238 seconds
+27/08/21 (02:42:26) | INFO: New instance of bpytop version 1.0.67 started with pid 120691
+27/08/21 (02:42:26) | INFO: Loglevel set to DEBUG
+27/08/21 (02:42:26) | DEBUG: Using psutil version 5.8.0
+27/08/21 (02:42:26) | DEBUG: CMD: /usr/bin/bpytop
+27/08/21 (02:42:26) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+27/08/21 (02:42:26) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+27/08/21 (02:42:26) | DEBUG: Collect and draw completed in 0.070897 seconds
+27/08/21 (02:42:26) | DEBUG: Init completed in 0.115232 seconds
+27/08/21 (02:43:09) | INFO: New instance of bpytop version 1.0.67 started with pid 121119
+27/08/21 (02:43:09) | INFO: Loglevel set to DEBUG
+27/08/21 (02:43:09) | DEBUG: Using psutil version 5.8.0
+27/08/21 (02:43:09) | DEBUG: CMD: /usr/bin/bpytop
+27/08/21 (02:43:09) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+27/08/21 (02:43:09) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+27/08/21 (02:43:09) | DEBUG: Collect and draw completed in 0.063801 seconds
+27/08/21 (02:43:09) | DEBUG: Init completed in 0.112679 seconds
+27/08/21 (15:26:32) | INFO: New instance of bpytop version 1.0.67 started with pid 155603
+27/08/21 (15:26:32) | INFO: Loglevel set to DEBUG
+27/08/21 (15:26:32) | DEBUG: Using psutil version 5.8.0
+27/08/21 (15:26:32) | DEBUG: CMD: /usr/bin/bpytop
+27/08/21 (15:26:32) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+27/08/21 (15:26:32) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+27/08/21 (15:26:32) | DEBUG: Collect and draw completed in 0.133298 seconds
+27/08/21 (15:26:32) | DEBUG: Init completed in 0.176451 seconds
+27/08/21 (16:02:06) | INFO: New instance of bpytop version 1.0.67 started with pid 160604
+27/08/21 (16:02:06) | INFO: Loglevel set to DEBUG
+27/08/21 (16:02:06) | DEBUG: Using psutil version 5.8.0
+27/08/21 (16:02:06) | DEBUG: CMD: /usr/bin/bpytop
+27/08/21 (16:02:06) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+27/08/21 (16:02:06) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+27/08/21 (16:02:06) | DEBUG: Collect and draw completed in 0.078760 seconds
+27/08/21 (16:02:06) | DEBUG: Init completed in 0.123208 seconds
+29/08/21 (17:38:35) | INFO: New instance of bpytop version 1.0.67 started with pid 259130
+29/08/21 (17:38:35) | INFO: Loglevel set to DEBUG
+29/08/21 (17:38:35) | DEBUG: Using psutil version 5.8.0
+29/08/21 (17:38:35) | DEBUG: CMD: /usr/bin/bpytop
+29/08/21 (17:38:35) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+29/08/21 (17:38:35) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+29/08/21 (17:38:35) | DEBUG: Collect and draw completed in 0.066023 seconds
+29/08/21 (17:38:35) | DEBUG: Init completed in 0.109115 seconds
+30/08/21 (10:46:40) | INFO: New instance of bpytop version 1.0.67 started with pid 334828
+30/08/21 (10:46:40) | INFO: Loglevel set to DEBUG
+30/08/21 (10:46:40) | DEBUG: Using psutil version 5.8.0
+30/08/21 (10:46:40) | DEBUG: CMD: /usr/bin/bpytop
+30/08/21 (10:46:40) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+30/08/21 (10:46:40) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+30/08/21 (10:46:40) | DEBUG: Collect and draw completed in 0.148827 seconds
+30/08/21 (10:46:40) | DEBUG: Init completed in 0.195363 seconds
+03/09/21 (14:38:37) | INFO: New instance of bpytop version 1.0.67 started with pid 72731
+03/09/21 (14:38:37) | INFO: Loglevel set to DEBUG
+03/09/21 (14:38:37) | DEBUG: Using psutil version 5.8.0
+03/09/21 (14:38:37) | DEBUG: CMD: /usr/bin/bpytop
+03/09/21 (14:38:37) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+03/09/21 (14:38:37) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+03/09/21 (14:38:37) | DEBUG: Collect and draw completed in 0.076785 seconds
+03/09/21 (14:38:37) | DEBUG: Init completed in 0.124551 seconds
+07/09/21 (03:49:09) | INFO: New instance of bpytop version 1.0.67 started with pid 32129
+07/09/21 (03:49:09) | INFO: Loglevel set to DEBUG
+07/09/21 (03:49:09) | DEBUG: Using psutil version 5.8.0
+07/09/21 (03:49:09) | DEBUG: CMD: /usr/bin/bpytop
+07/09/21 (03:49:09) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+07/09/21 (03:49:09) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+07/09/21 (03:49:09) | DEBUG: Collect and draw completed in 0.178335 seconds
+07/09/21 (03:49:09) | DEBUG: Init completed in 0.226817 seconds
+09/09/21 (04:43:41) | INFO: New instance of bpytop version 1.0.67 started with pid 123769
+09/09/21 (04:43:41) | INFO: Loglevel set to DEBUG
+09/09/21 (04:43:41) | DEBUG: Using psutil version 5.8.0
+09/09/21 (04:43:41) | DEBUG: CMD: /usr/bin/bpytop
+09/09/21 (04:43:41) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+09/09/21 (04:43:41) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+09/09/21 (04:43:41) | DEBUG: Collect and draw completed in 0.159673 seconds
+09/09/21 (04:43:41) | DEBUG: Init completed in 0.211250 seconds
+12/09/21 (02:29:50) | INFO: New instance of bpytop version 1.0.67 started with pid 109237
+12/09/21 (02:29:50) | INFO: Loglevel set to DEBUG
+12/09/21 (02:29:50) | DEBUG: Using psutil version 5.8.0
+12/09/21 (02:29:50) | DEBUG: CMD: /usr/bin/bpytop
+12/09/21 (02:29:50) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+12/09/21 (02:29:50) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+12/09/21 (02:29:50) | DEBUG: Collect and draw completed in 0.228911 seconds
+12/09/21 (02:29:50) | DEBUG: Init completed in 0.278751 seconds
+12/09/21 (17:11:49) | INFO: New instance of bpytop version 1.0.67 started with pid 18395
+12/09/21 (17:11:49) | INFO: Loglevel set to DEBUG
+12/09/21 (17:11:49) | DEBUG: Using psutil version 5.8.0
+12/09/21 (17:11:49) | DEBUG: CMD: /usr/bin/bpytop
+12/09/21 (17:11:49) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+12/09/21 (17:11:49) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+12/09/21 (17:11:49) | DEBUG: Collect and draw completed in 0.070098 seconds
+12/09/21 (17:11:50) | DEBUG: Init completed in 1.384152 seconds
+14/09/21 (15:37:49) | INFO: New instance of bpytop version 1.0.67 started with pid 180862
+14/09/21 (15:37:49) | INFO: Loglevel set to DEBUG
+14/09/21 (15:37:49) | DEBUG: Using psutil version 5.8.0
+14/09/21 (15:37:49) | DEBUG: CMD: /usr/bin/bpytop
+14/09/21 (15:37:49) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+14/09/21 (15:37:49) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+14/09/21 (15:37:49) | DEBUG: Collect and draw completed in 0.129484 seconds
+14/09/21 (15:37:49) | DEBUG: Init completed in 0.194154 seconds
+14/09/21 (16:11:01) | INFO: New instance of bpytop version 1.0.67 started with pid 202537
+14/09/21 (16:11:01) | INFO: Loglevel set to DEBUG
+14/09/21 (16:11:01) | DEBUG: Using psutil version 5.8.0
+14/09/21 (16:11:01) | DEBUG: CMD: /usr/bin/bpytop
+14/09/21 (16:11:01) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+14/09/21 (16:11:01) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+14/09/21 (16:11:01) | DEBUG: Collect and draw completed in 0.143028 seconds
+14/09/21 (16:11:01) | DEBUG: Init completed in 0.201869 seconds
+14/09/21 (16:37:06) | INFO: New instance of bpytop version 1.0.67 started with pid 206677
+14/09/21 (16:37:06) | INFO: Loglevel set to DEBUG
+14/09/21 (16:37:06) | DEBUG: Using psutil version 5.8.0
+14/09/21 (16:37:06) | DEBUG: CMD: /usr/bin/bpytop
+14/09/21 (16:37:06) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+14/09/21 (16:37:06) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+14/09/21 (16:37:07) | DEBUG: Collect and draw completed in 0.142805 seconds
+14/09/21 (16:37:07) | DEBUG: Init completed in 0.210415 seconds
+14/09/21 (16:46:13) | INFO: New instance of bpytop version 1.0.67 started with pid 208354
+14/09/21 (16:46:13) | INFO: Loglevel set to DEBUG
+14/09/21 (16:46:13) | DEBUG: Using psutil version 5.8.0
+14/09/21 (16:46:13) | DEBUG: CMD: /usr/bin/bpytop
+14/09/21 (16:46:13) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+14/09/21 (16:46:13) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+14/09/21 (16:46:13) | DEBUG: Collect and draw completed in 0.165955 seconds
+14/09/21 (16:46:13) | DEBUG: Init completed in 0.213484 seconds
+14/09/21 (17:01:52) | INFO: New instance of bpytop version 1.0.67 started with pid 214367
+14/09/21 (17:01:52) | INFO: Loglevel set to DEBUG
+14/09/21 (17:01:52) | DEBUG: Using psutil version 5.8.0
+14/09/21 (17:01:52) | DEBUG: CMD: /usr/bin/bpytop
+14/09/21 (17:01:52) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+14/09/21 (17:01:52) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+14/09/21 (17:01:52) | DEBUG: Collect and draw completed in 0.088162 seconds
+14/09/21 (17:01:52) | DEBUG: Init completed in 0.130996 seconds
+18/09/21 (13:57:14) | INFO: New instance of bpytop version 1.0.67 started with pid 536495
+18/09/21 (13:57:14) | INFO: Loglevel set to DEBUG
+18/09/21 (13:57:14) | DEBUG: Using psutil version 5.8.0
+18/09/21 (13:57:14) | DEBUG: CMD: /usr/bin/bpytop
+18/09/21 (13:57:14) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+18/09/21 (13:57:14) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+18/09/21 (13:57:14) | DEBUG: Collect and draw completed in 0.118512 seconds
+18/09/21 (13:57:14) | DEBUG: Init completed in 0.169833 seconds
+20/09/21 (17:02:55) | INFO: New instance of bpytop version 1.0.67 started with pid 780817
+20/09/21 (17:02:55) | INFO: Loglevel set to DEBUG
+20/09/21 (17:02:55) | DEBUG: Using psutil version 5.8.0
+20/09/21 (17:02:55) | DEBUG: CMD: /usr/bin/bpytop
+20/09/21 (17:02:55) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+20/09/21 (17:02:55) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+20/09/21 (17:02:55) | DEBUG: Collect and draw completed in 0.187790 seconds
+20/09/21 (17:02:55) | DEBUG: Init completed in 0.233831 seconds
+21/09/21 (09:21:40) | INFO: New instance of bpytop version 1.0.67 started with pid 811029
+21/09/21 (09:21:40) | INFO: Loglevel set to DEBUG
+21/09/21 (09:21:40) | DEBUG: Using psutil version 5.8.0
+21/09/21 (09:21:40) | DEBUG: CMD: /usr/bin/bpytop
+21/09/21 (09:21:40) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+21/09/21 (09:21:40) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+21/09/21 (09:21:40) | DEBUG: Collect and draw completed in 0.082350 seconds
+21/09/21 (09:21:40) | DEBUG: Init completed in 0.125734 seconds
+22/09/21 (08:26:27) | INFO: New instance of bpytop version 1.0.67 started with pid 49113
+22/09/21 (08:26:27) | INFO: Loglevel set to DEBUG
+22/09/21 (08:26:27) | DEBUG: Using psutil version 5.8.0
+22/09/21 (08:26:27) | DEBUG: CMD: /usr/bin/bpytop
+22/09/21 (08:26:27) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+22/09/21 (08:26:27) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+22/09/21 (08:26:27) | DEBUG: Collect and draw completed in 0.132219 seconds
+22/09/21 (08:26:27) | DEBUG: Init completed in 0.174910 seconds
+22/09/21 (14:46:22) | INFO: New instance of bpytop version 1.0.67 started with pid 84228
+22/09/21 (14:46:22) | INFO: Loglevel set to DEBUG
+22/09/21 (14:46:22) | DEBUG: Using psutil version 5.8.0
+22/09/21 (14:46:22) | DEBUG: CMD: /usr/bin/bpytop
+22/09/21 (14:46:22) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+22/09/21 (14:46:22) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+22/09/21 (14:46:22) | DEBUG: Collect and draw completed in 0.078421 seconds
+22/09/21 (14:46:22) | DEBUG: Init completed in 0.121175 seconds
+23/09/21 (11:35:35) | INFO: New instance of bpytop version 1.0.67 started with pid 15498
+23/09/21 (11:35:35) | INFO: Loglevel set to DEBUG
+23/09/21 (11:35:35) | DEBUG: Using psutil version 5.8.0
+23/09/21 (11:35:35) | DEBUG: CMD: /usr/bin/bpytop
+23/09/21 (11:35:35) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+23/09/21 (11:35:35) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+23/09/21 (11:35:35) | DEBUG: Collect and draw completed in 0.073306 seconds
+23/09/21 (11:35:35) | DEBUG: Init completed in 0.115820 seconds
+23/09/21 (12:14:18) | INFO: New instance of bpytop version 1.0.67 started with pid 22516
+23/09/21 (12:14:18) | INFO: Loglevel set to DEBUG
+23/09/21 (12:14:18) | DEBUG: Using psutil version 5.8.0
+23/09/21 (12:14:18) | DEBUG: CMD: /usr/bin/bpytop
+23/09/21 (12:14:18) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+23/09/21 (12:14:18) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+23/09/21 (12:14:18) | DEBUG: Collect and draw completed in 0.173221 seconds
+23/09/21 (12:14:18) | DEBUG: Init completed in 0.218349 seconds
+23/09/21 (12:31:24) | INFO: New instance of bpytop version 1.0.67 started with pid 24960
+23/09/21 (12:31:24) | INFO: Loglevel set to DEBUG
+23/09/21 (12:31:24) | DEBUG: Using psutil version 5.8.0
+23/09/21 (12:31:24) | DEBUG: CMD: /usr/bin/bpytop
+23/09/21 (12:31:24) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+23/09/21 (12:31:24) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+23/09/21 (12:31:24) | DEBUG: Collect and draw completed in 0.068158 seconds
+23/09/21 (12:31:24) | DEBUG: Init completed in 0.112833 seconds
+23/09/21 (14:18:04) | INFO: New instance of bpytop version 1.0.67 started with pid 44185
+23/09/21 (14:18:04) | INFO: Loglevel set to DEBUG
+23/09/21 (14:18:04) | DEBUG: Using psutil version 5.8.0
+23/09/21 (14:18:04) | DEBUG: CMD: /usr/bin/bpytop
+23/09/21 (14:18:04) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+23/09/21 (14:18:04) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+23/09/21 (14:18:04) | DEBUG: Collect and draw completed in 0.077707 seconds
+23/09/21 (14:18:04) | DEBUG: Init completed in 0.110181 seconds
+24/09/21 (11:05:36) | INFO: New instance of bpytop version 1.0.67 started with pid 52121
+24/09/21 (11:05:36) | INFO: Loglevel set to DEBUG
+24/09/21 (11:05:36) | DEBUG: Using psutil version 5.8.0
+24/09/21 (11:05:36) | DEBUG: CMD: /usr/bin/bpytop
+24/09/21 (11:05:36) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+24/09/21 (11:05:36) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+24/09/21 (11:05:37) | DEBUG: Collect and draw completed in 0.211666 seconds
+24/09/21 (11:05:37) | DEBUG: Init completed in 0.294494 seconds
+24/09/21 (14:38:01) | INFO: New instance of bpytop version 1.0.67 started with pid 74223
+24/09/21 (14:38:01) | INFO: Loglevel set to DEBUG
+24/09/21 (14:38:01) | DEBUG: Using psutil version 5.8.0
+24/09/21 (14:38:01) | DEBUG: CMD: /usr/bin/bpytop
+24/09/21 (14:38:01) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+24/09/21 (14:38:01) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+24/09/21 (14:38:01) | DEBUG: Collect and draw completed in 0.096518 seconds
+24/09/21 (14:38:01) | DEBUG: Init completed in 0.140732 seconds
+27/09/21 (09:44:54) | INFO: New instance of bpytop version 1.0.67 started with pid 52491
+27/09/21 (09:44:54) | INFO: Loglevel set to DEBUG
+27/09/21 (09:44:54) | DEBUG: Using psutil version 5.8.0
+27/09/21 (09:44:54) | DEBUG: CMD: /usr/bin/bpytop
+27/09/21 (09:44:54) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+27/09/21 (09:44:54) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+27/09/21 (09:44:54) | DEBUG: Collect and draw completed in 0.100913 seconds
+27/09/21 (09:44:54) | DEBUG: Init completed in 0.151629 seconds
+27/09/21 (14:33:15) | INFO: New instance of bpytop version 1.0.67 started with pid 26124
+27/09/21 (14:33:15) | INFO: Loglevel set to DEBUG
+27/09/21 (14:33:15) | DEBUG: Using psutil version 5.8.0
+27/09/21 (14:33:15) | DEBUG: CMD: /usr/bin/bpytop
+27/09/21 (14:33:15) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+27/09/21 (14:33:16) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+27/09/21 (14:33:16) | DEBUG: Collect and draw completed in 0.188332 seconds
+27/09/21 (14:33:16) | DEBUG: Init completed in 0.237413 seconds
+28/09/21 (11:35:59) | INFO: New instance of bpytop version 1.0.67 started with pid 72935
+28/09/21 (11:35:59) | INFO: Loglevel set to DEBUG
+28/09/21 (11:35:59) | DEBUG: Using psutil version 5.8.0
+28/09/21 (11:35:59) | DEBUG: CMD: /usr/bin/bpytop
+28/09/21 (11:35:59) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+28/09/21 (11:35:59) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+28/09/21 (11:36:00) | DEBUG: Collect and draw completed in 0.231074 seconds
+28/09/21 (11:36:00) | DEBUG: Init completed in 0.282228 seconds
+28/09/21 (12:10:36) | INFO: New instance of bpytop version 1.0.67 started with pid 76895
+28/09/21 (12:10:36) | INFO: Loglevel set to DEBUG
+28/09/21 (12:10:36) | DEBUG: Using psutil version 5.8.0
+28/09/21 (12:10:36) | DEBUG: CMD: /usr/bin/bpytop
+28/09/21 (12:10:36) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+28/09/21 (12:10:36) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+28/09/21 (12:10:36) | DEBUG: Collect and draw completed in 0.071846 seconds
+28/09/21 (12:10:36) | DEBUG: Init completed in 0.117231 seconds
+30/09/21 (14:12:54) | INFO: New instance of bpytop version 1.0.67 started with pid 208255
+30/09/21 (14:12:54) | INFO: Loglevel set to DEBUG
+30/09/21 (14:12:54) | DEBUG: Using psutil version 5.8.0
+30/09/21 (14:12:54) | DEBUG: CMD: /usr/bin/bpytop
+30/09/21 (14:12:54) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+30/09/21 (14:12:54) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+30/09/21 (14:12:54) | DEBUG: Collect and draw completed in 0.099951 seconds
+30/09/21 (14:12:55) | DEBUG: Init completed in 1.638122 seconds
+01/10/21 (15:50:56) | INFO: New instance of bpytop version 1.0.67 started with pid 8395
+01/10/21 (15:50:56) | INFO: Loglevel set to DEBUG
+01/10/21 (15:50:56) | DEBUG: Using psutil version 5.8.0
+01/10/21 (15:50:56) | DEBUG: CMD: /usr/bin/bpytop
+01/10/21 (15:50:56) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+01/10/21 (15:50:56) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+01/10/21 (15:50:56) | DEBUG: Collect and draw completed in 0.192008 seconds
+01/10/21 (15:50:56) | DEBUG: Init completed in 0.236393 seconds
+02/10/21 (21:21:40) | INFO: New instance of bpytop version 1.0.67 started with pid 114354
+02/10/21 (21:21:40) | INFO: Loglevel set to DEBUG
+02/10/21 (21:21:40) | DEBUG: Using psutil version 5.8.0
+02/10/21 (21:21:40) | DEBUG: CMD: /usr/bin/bpytop
+02/10/21 (21:21:40) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+02/10/21 (21:21:40) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+02/10/21 (21:21:40) | DEBUG: Collect and draw completed in 0.192118 seconds
+02/10/21 (21:21:46) | DEBUG: Init completed in 5.912233 seconds
+04/10/21 (16:39:40) | INFO: New instance of bpytop version 1.0.67 started with pid 1702
+04/10/21 (16:39:40) | INFO: Loglevel set to DEBUG
+04/10/21 (16:39:40) | DEBUG: Using psutil version 5.8.0
+04/10/21 (16:39:40) | DEBUG: CMD: /usr/bin/bpytop
+04/10/21 (16:39:40) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+04/10/21 (16:39:40) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+04/10/21 (16:39:40) | DEBUG: Collect and draw completed in 0.206202 seconds
+04/10/21 (16:39:40) | DEBUG: Init completed in 0.280521 seconds
+04/10/21 (16:43:38) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+04/10/21 (16:44:08) | INFO: Loglevel set to INFO
+04/10/21 (16:44:09) | INFO: Loglevel set to DEBUG
+05/10/21 (18:38:14) | INFO: New instance of bpytop version 1.0.67 started with pid 93949
+05/10/21 (18:38:14) | INFO: Loglevel set to DEBUG
+05/10/21 (18:38:14) | DEBUG: Using psutil version 5.8.0
+05/10/21 (18:38:14) | DEBUG: CMD: /usr/bin/bpytop
+05/10/21 (18:38:14) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+05/10/21 (18:38:15) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+05/10/21 (18:38:15) | DEBUG: Collect and draw completed in 0.077543 seconds
+05/10/21 (18:38:15) | DEBUG: Init completed in 0.125197 seconds
+10/10/21 (04:03:48) | INFO: New instance of bpytop version 1.0.67 started with pid 169959
+10/10/21 (04:03:48) | INFO: Loglevel set to DEBUG
+10/10/21 (04:03:48) | DEBUG: Using psutil version 5.8.0
+10/10/21 (04:03:48) | DEBUG: CMD: /usr/bin/bpytop
+10/10/21 (04:03:49) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+10/10/21 (04:03:49) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+10/10/21 (04:03:49) | DEBUG: Collect and draw completed in 0.243177 seconds
+10/10/21 (04:03:49) | DEBUG: Init completed in 0.290391 seconds
+11/10/21 (16:48:35) | INFO: New instance of bpytop version 1.0.67 started with pid 2658
+11/10/21 (16:48:35) | INFO: Loglevel set to DEBUG
+11/10/21 (16:48:35) | DEBUG: Using psutil version 5.8.0
+11/10/21 (16:48:35) | DEBUG: CMD: /usr/bin/bpytop
+11/10/21 (16:48:35) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+11/10/21 (16:48:36) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+11/10/21 (16:48:36) | DEBUG: Collect and draw completed in 0.179148 seconds
+11/10/21 (16:48:36) | DEBUG: Init completed in 0.232477 seconds
+14/10/21 (21:32:16) | INFO: New instance of bpytop version 1.0.67 started with pid 4658
+14/10/21 (21:32:16) | INFO: Loglevel set to DEBUG
+14/10/21 (21:32:16) | DEBUG: Using psutil version 5.8.0
+14/10/21 (21:32:16) | DEBUG: CMD: /usr/bin/bpytop
+14/10/21 (21:32:16) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+14/10/21 (21:32:16) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+14/10/21 (21:32:16) | DEBUG: Collect and draw completed in 0.082629 seconds
+14/10/21 (21:32:16) | DEBUG: Init completed in 0.127953 seconds
+15/10/21 (14:00:55) | INFO: New instance of bpytop version 1.0.67 started with pid 31764
+15/10/21 (14:00:55) | INFO: Loglevel set to DEBUG
+15/10/21 (14:00:55) | DEBUG: Using psutil version 5.8.0
+15/10/21 (14:00:55) | DEBUG: CMD: /usr/bin/bpytop
+15/10/21 (14:00:55) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+15/10/21 (14:00:55) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+15/10/21 (14:00:55) | DEBUG: Collect and draw completed in 0.088727 seconds
+15/10/21 (14:00:55) | DEBUG: Init completed in 0.140201 seconds
+15/10/21 (14:01:08) | INFO: New instance of bpytop version 1.0.67 started with pid 31804
+15/10/21 (14:01:08) | INFO: Loglevel set to DEBUG
+15/10/21 (14:01:08) | DEBUG: Using psutil version 5.8.0
+15/10/21 (14:01:08) | DEBUG: CMD: /usr/bin/bpytop
+15/10/21 (14:01:08) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+15/10/21 (14:01:08) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+15/10/21 (14:01:08) | DEBUG: Collect and draw completed in 0.083483 seconds
+15/10/21 (14:01:08) | DEBUG: Init completed in 0.128388 seconds
+16/10/21 (16:36:55) | INFO: New instance of bpytop version 1.0.67 started with pid 52449
+16/10/21 (16:36:55) | INFO: Loglevel set to DEBUG
+16/10/21 (16:36:55) | DEBUG: Using psutil version 5.8.0
+16/10/21 (16:36:55) | DEBUG: CMD: /usr/bin/bpytop
+16/10/21 (16:36:55) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+16/10/21 (16:36:55) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+16/10/21 (16:36:55) | DEBUG: Collect and draw completed in 0.072187 seconds
+16/10/21 (16:36:55) | DEBUG: Init completed in 0.117199 seconds
+18/10/21 (21:02:25) | INFO: New instance of bpytop version 1.0.67 started with pid 443908
+18/10/21 (21:02:25) | INFO: Loglevel set to DEBUG
+18/10/21 (21:02:25) | DEBUG: Using psutil version 5.8.0
+18/10/21 (21:02:25) | DEBUG: CMD: /usr/bin/bpytop
+18/10/21 (21:02:25) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+18/10/21 (21:02:25) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+18/10/21 (21:02:25) | DEBUG: Collect and draw completed in 0.105808 seconds
+18/10/21 (21:03:06) | DEBUG: Init completed in 40.655971 seconds
+18/10/21 (21:23:56) | INFO: New instance of bpytop version 1.0.67 started with pid 452412
+18/10/21 (21:23:56) | INFO: Loglevel set to DEBUG
+18/10/21 (21:23:56) | DEBUG: Using psutil version 5.8.0
+18/10/21 (21:23:56) | DEBUG: CMD: /usr/bin/bpytop
+18/10/21 (21:23:56) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+18/10/21 (21:23:56) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+18/10/21 (21:23:56) | DEBUG: Collect and draw completed in 0.083896 seconds
+18/10/21 (21:23:58) | DEBUG: Init completed in 1.605434 seconds
+20/10/21 (01:33:05) | INFO: New instance of bpytop version 1.0.67 started with pid 51572
+20/10/21 (01:33:05) | INFO: Loglevel set to DEBUG
+20/10/21 (01:33:05) | DEBUG: Using psutil version 5.8.0
+20/10/21 (01:33:05) | DEBUG: CMD: /usr/bin/bpytop
+20/10/21 (01:33:05) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+20/10/21 (01:33:05) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+20/10/21 (01:33:05) | DEBUG: Collect and draw completed in 0.075847 seconds
+20/10/21 (01:33:05) | DEBUG: Init completed in 0.119436 seconds
+22/10/21 (02:27:56) | INFO: New instance of bpytop version 1.0.67 started with pid 64555
+22/10/21 (02:27:56) | INFO: Loglevel set to DEBUG
+22/10/21 (02:27:56) | DEBUG: Using psutil version 5.8.0
+22/10/21 (02:27:56) | DEBUG: CMD: /usr/bin/bpytop
+22/10/21 (02:27:56) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+22/10/21 (02:27:56) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+22/10/21 (02:27:56) | DEBUG: Collect and draw completed in 0.137695 seconds
+22/10/21 (02:27:59) | DEBUG: Init completed in 2.679218 seconds
+25/10/21 (16:24:23) | INFO: New instance of bpytop version 1.0.67 started with pid 147716
+25/10/21 (16:24:23) | INFO: Loglevel set to DEBUG
+25/10/21 (16:24:23) | DEBUG: Using psutil version 5.8.0
+25/10/21 (16:24:23) | DEBUG: CMD: /usr/bin/bpytop
+25/10/21 (16:24:24) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+25/10/21 (16:24:24) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+25/10/21 (16:24:24) | DEBUG: Collect and draw completed in 0.148468 seconds
+25/10/21 (20:58:46) | INFO: New instance of bpytop version 1.0.67 started with pid 173522
+25/10/21 (20:58:46) | INFO: Loglevel set to DEBUG
+25/10/21 (20:58:46) | DEBUG: Using psutil version 5.8.0
+25/10/21 (20:58:46) | DEBUG: CMD: /usr/bin/bpytop
+25/10/21 (20:58:46) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+25/10/21 (20:58:46) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+25/10/21 (20:58:46) | DEBUG: Collect and draw completed in 0.078803 seconds
+25/10/21 (20:58:46) | INFO: New instance of bpytop version 1.0.67 started with pid 173536
+25/10/21 (20:58:46) | INFO: Loglevel set to DEBUG
+25/10/21 (20:58:46) | DEBUG: Using psutil version 5.8.0
+25/10/21 (20:58:46) | DEBUG: CMD: /usr/bin/bpytop
+25/10/21 (20:58:46) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+25/10/21 (20:58:46) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+25/10/21 (20:58:46) | DEBUG: Collect and draw completed in 0.069019 seconds
+25/10/21 (20:58:51) | DEBUG: Init completed in 5.008200 seconds
+29/10/21 (23:57:43) | INFO: New instance of bpytop version 1.0.67 started with pid 146238
+29/10/21 (23:57:43) | INFO: Loglevel set to DEBUG
+29/10/21 (23:57:43) | DEBUG: Using psutil version 5.8.0
+29/10/21 (23:57:43) | DEBUG: CMD: /usr/bin/bpytop
+29/10/21 (23:57:43) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+29/10/21 (23:57:44) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+29/10/21 (23:57:44) | DEBUG: Collect and draw completed in 0.140164 seconds
+29/10/21 (23:57:44) | DEBUG: Init completed in 0.185067 seconds
+29/10/21 (23:57:52) | INFO: New instance of bpytop version 1.0.67 started with pid 146264
+29/10/21 (23:57:52) | INFO: Loglevel set to DEBUG
+29/10/21 (23:57:52) | DEBUG: Using psutil version 5.8.0
+29/10/21 (23:57:52) | DEBUG: CMD: /usr/bin/bpytop
+29/10/21 (23:57:52) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+29/10/21 (23:57:52) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+29/10/21 (23:57:52) | DEBUG: Collect and draw completed in 0.137315 seconds
+29/10/21 (23:57:52) | DEBUG: Init completed in 0.183371 seconds
+29/10/21 (23:58:27) | INFO: New instance of bpytop version 1.0.67 started with pid 146632
+29/10/21 (23:58:27) | INFO: Loglevel set to DEBUG
+29/10/21 (23:58:27) | DEBUG: Using psutil version 5.8.0
+29/10/21 (23:58:27) | DEBUG: CMD: /usr/bin/bpytop
+29/10/21 (23:58:27) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+29/10/21 (23:58:27) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+29/10/21 (23:58:27) | DEBUG: Collect and draw completed in 0.072038 seconds
+29/10/21 (23:58:27) | DEBUG: Init completed in 0.113197 seconds
+01/11/21 (12:06:01) | INFO: New instance of bpytop version 1.0.67 started with pid 1174
+01/11/21 (12:06:01) | INFO: Loglevel set to DEBUG
+01/11/21 (12:06:01) | DEBUG: Using psutil version 5.8.0
+01/11/21 (12:06:01) | DEBUG: CMD: /usr/bin/bpytop
+01/11/21 (12:06:01) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+01/11/21 (12:06:01) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+01/11/21 (12:06:01) | DEBUG: Collect and draw completed in 0.073147 seconds
+01/11/21 (12:06:01) | DEBUG: Init completed in 0.117043 seconds
+02/11/21 (04:53:04) | INFO: New instance of bpytop version 1.0.67 started with pid 69121
+02/11/21 (04:53:04) | INFO: Loglevel set to DEBUG
+02/11/21 (04:53:04) | DEBUG: Using psutil version 5.8.0
+02/11/21 (04:53:04) | DEBUG: CMD: /usr/bin/bpytop
+02/11/21 (04:53:04) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+02/11/21 (04:53:04) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+02/11/21 (04:53:04) | DEBUG: Collect and draw completed in 0.082315 seconds
+02/11/21 (04:53:04) | DEBUG: Init completed in 0.124285 seconds
+04/11/21 (18:05:37) | INFO: New instance of bpytop version 1.0.67 started with pid 7534
+04/11/21 (18:05:37) | INFO: Loglevel set to DEBUG
+04/11/21 (18:05:37) | DEBUG: Using psutil version 5.8.0
+04/11/21 (18:05:37) | DEBUG: CMD: /usr/bin/bpytop
+04/11/21 (18:05:37) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+04/11/21 (18:05:37) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+04/11/21 (18:05:37) | DEBUG: Collect and draw completed in 0.173254 seconds
+04/11/21 (18:05:37) | DEBUG: Init completed in 0.216758 seconds
+05/11/21 (06:56:08) | INFO: New instance of bpytop version 1.0.67 started with pid 58384
+05/11/21 (06:56:08) | INFO: Loglevel set to DEBUG
+05/11/21 (06:56:08) | DEBUG: Using psutil version 5.8.0
+05/11/21 (06:56:08) | DEBUG: CMD: /usr/bin/bpytop
+05/11/21 (06:56:08) | ERROR: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/necronzero/.config/bpytop/themes'
+05/11/21 (06:56:08) | DEBUG: new fstab_filter set : ['/tmp', '/', '/boot']
+05/11/21 (06:56:08) | DEBUG: Collect and draw completed in 0.084231 seconds
+05/11/21 (06:56:08) | DEBUG: Init completed in 0.129691 seconds

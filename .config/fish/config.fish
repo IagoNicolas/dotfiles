@@ -14,8 +14,6 @@ alias black="python -m black"
 # Aliases to flash android devices.
 alias fastboot="sudo fastboot"
 alias adb="sudo adb"
-# Alias to bluetoothctl.
-alias bt="bluetoothctl"
 # Set starship prompt on fish shell.
 starship init fish | source
 # Don't stress, my man, use this and chill.
@@ -30,3 +28,4 @@ alias mpvd="devour mpv"
 alias qbittorrent="devour qbittorrent"
 alias obs="devour obs"
 alias spyder="devour python ~/.local/lib/python3.9/site-packages/spyder/app/start.py"
+alias quartus="devour ~/intelFPGA_lite/20.1/quartus/bin/quartus"
