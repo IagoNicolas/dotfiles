@@ -44,11 +44,6 @@ keys = [
         'zathura ~/.config/help.pdf'
         )),
     # Program spawn.
-    Key([sup], "i", lazy.spawn(
-        '/home/necronzero/.intelFPGA_lite/20.1/quartus/bin/quartus --64bit'
-        )), # Quartus prime lite.
-    Key([sup], "m", lazy.spawn('wxmaxima')), # Maxima's UI.
-    # Old keybind spawn.
     Key([sup], "1", lazy.spawn('firefox')), # Firefox browser.
     Key([sup], "2", lazy.spawn('nemo')), # Nemo File Manager.
     Key([sup], "3", lazy.spawn(terminal)), # Tilix terminal emulator.
@@ -144,7 +139,7 @@ color_main = '#000000'
 layout_theme = {"border_width": 2,
                 "margin": 0,
                 "border_focus": '#345eeb',
-                "border_normal": "1D2330"}
+                "border_normal": "#1D2330"}
 
 layouts = [
     layout.Columns(**layout_theme),
@@ -163,7 +158,9 @@ layouts = [
 ]
 
 widget_defaults = dict(
-    font='RobotoMono Nerd Font Bold',
+    #font='RobotoMono Nerd Font Bold',
+    #fontsize=11,
+    font='Terminus Regular',
     fontsize=11,
     padding=2,
 )
@@ -179,13 +176,17 @@ screens = [
                 widget.GroupBox(
                     rounded = False,
                     use_mouse_wheel = False,
+                    font = 'Terminus',
+                    borderwidth=2,
+                    this_current_screen_border='#345eeb',
+                    inactive='#808080'
                 ),
                 widget.WindowName(),
                 widget.TextBox(
                     text = ' ',
                     background = color_main,
                     padding = 0,
-                    fontsize = 16,
+                    fontsize = 14,
                     mouse_callbacks={'Button1': lambda: qtile.cmd_spawn(terminal + " -e bpytop")},
                 ),
                 widget.CPU(
@@ -205,7 +206,7 @@ screens = [
                     text = ' ',
                     background = color_main,
                     padding = 0,
-                    fontsize = 16,
+                    fontsize = 20,
                     mouse_callbacks={'Button1': lambda: qtile.cmd_spawn("bash /home/necronzero/.config/rofi-network-manager/rofi-network-manager.sh")},
                 ),
                 widget.Wlan(
@@ -231,13 +232,13 @@ screens = [
                     background=color_main,
                     format='{percent:2.0%} ﯐ {hour:d}:{min:02d}',
                     update_interval = 5,
-                    padding=-1,
+                    padding=1,
                 ),
                 widget.TextBox(
                     text = '  ',
                     background = color_main,
                     padding = 0,
-                    fontsize = 16,
+                    fontsize = 18,
                     mouse_callbacks={'Button1': lambda: qtile.cmd_spawn("xbacklight = 1")},
                 ),
                 widget.Backlight(
@@ -251,7 +252,7 @@ screens = [
                     text = ' ',
                     background = color_main,
                     padding = 0,
-                    fontsize = 16,
+                    fontsize = 12,
                     mouse_callbacks={'Button1': lambda: qtile.cmd_spawn(terminal + " -e alsamixer -V all")},
                 ),
                 widget.Volume(

@@ -3,22 +3,24 @@
 .SHIFT_LIST 10p
 ..
 .PARA_SPACE 1m
-.TITLE "\s+(10A Friendly Guide to your OS!\s0"
+.TITLE "\s+(10A Friendly Guide to my OS!\s0"
 .AUTHOR "\s+5Iago Nicolas\s0"
 .DOCTYPE    DEFAULT
 .COPYSTYLE  FINAL
 .PRINTSTYLE TYPESET
 .PT_SIZE 12
 .START
-You can use vim keys (\f(CWh/j/k/l\fP) or arrow keys to navigate this document.
+You can use vim keys (\f(CWh/j/k/l\fP), arrow keys or the mouse scroll to navigate this document.
 Pressing \f(CWs\fP will fit it to window width (\f(CWa\fP to revert).
 The \f(CW+\fP and \f(CW-\fP keys zoom in and out, while \f(CWq\fP exits.
 (These are general binds set for \fBZathura\fP, the pdf reader.)
 .LI 
 .ITEM
-\f(CWMeta+F1\fP will show this document at any time.
+\f(CWFn+F12\fP will show this document at any time.
 .ITEM
 By \f(CWMeta\fP, I mean the ALT Key.
+.ITEM
+By \f(CWSuper\fP, I mean the "Windows" Key.
 .LIST OFF
 .PP
 FAQs are at the end of this document.
@@ -36,12 +38,12 @@ Immersion.
 Programs should be simple and light on system resources and highly extensible.
 Because of this, many are terminal or small ncurses programs that have all the magic inside of them.
 .ITEM
-\fBKeyboard/vim-centrality\fP \(en
+\fBKeyboard centrality\fP \(en
 All terminal programs (and other programs) use vim keys when possible.
 Your hands never need leave the home row or thereabout.
 .ITEM
 \fBDecentralization\fP \(en
-This system is a web of small, modifiable and replaceable programs that users can easily customize.
+This system is a web of small, modifiable and replaceable programs that users can easily customize and replace.
 .LIST OFF
 .HEADING 2 "Package management"
 .PP
@@ -83,7 +85,7 @@ To type capital letters, hold down the \f(CWShift\fP key.
 Be sure you play around with these. Be flexible with the basic commands and the system will grow on you quick.
 .LI 
 .ITEM
-\f(CWMeta+Enter\fP \(en Spawn terminal (the default terminal is \f(CWTilix\fP; run \f(CWman tilix\fP for more)
+\f(CWSup+Enter\fP \(en Spawn terminal (the default terminal is \f(CWTilix\fP; run \f(CWman tilix\fP for more)
 .ITEM
 \f(CWMeta+q\fP \(en Close window
 .ITEM
@@ -169,10 +171,10 @@ There you can modify their \f(CWconfig.h\fP files, then \f(CWsudo make install\f
 .HEADING 2 "My audio isn't working!"
 .PP
 On fresh install, the Linux audio system often mutes outputs.
-You may also need to set your preferred default output sink which you can do by the command line, or by selecting one with \f(CWalsamixer\fP.
+You may also need to set your preferred default output sink which you can do through the command line, or by selecting one with \f(CWalsamixer\fP.
 .HEADING 2 "How do I copy and paste?"
 .PP
 Copying and pasting is always program-specific on any system.
 In most graphical programs, copy and paste will be the same as they are on any desktop OS: \f(CWctrl-c\fP and \f(CWctrl-v\fP.
-Additionally, I've set vim to use the clipboard as the default buffer, which means when you yank or delete something in vim, it will be in your system clipboard as well, so you can \f(CWctrl-v\fP it into your browser instance, etc. You can also paste material copied from other programs into vim with the typical vim bindings.
+Vim/nVim breaks this, still working on fixing it.
 .LIST OFF

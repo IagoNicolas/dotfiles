@@ -1,5 +1,5 @@
 configuration {
  modi: "drun";
- theme: "glue_pro_blue";
- font: "Ubuntu 11";
+ font: "Terminus 12";
  }
+ @theme "glue_pro_blue"
